@@ -4,9 +4,10 @@
     "veri_grubu": "Fon Getirileri",
     "fon_tipi": "BYF",
     "fon_grubu": "Borsa Yatırım Fonları",
+    "platform_durumu_kaynagi": "TEFAS",
     "toplam_fon": 37,
     "tefas_durumu_uygulanabilir": false,
-    "uretim_zamani": "16.09.2026 16:55:35",
+    "uretim_zamani": "16.09.2026 23:40:30",
     "saat_dilimi": "Europe/Istanbul"
   },
   "dogrulama": {
@@ -28,6 +29,7 @@
     "eksik_tefas_durumu": 0,
     "tefas_durumu": {
       "uygulanabilir": false,
+      "platform": "TEFAS",
       "toplam_fon": 37,
       "islem_goren": 0,
       "islem_gormeyen": 0,

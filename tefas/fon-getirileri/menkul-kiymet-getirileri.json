@@ -4,9 +4,10 @@
     "veri_grubu": "Fon Getirileri",
     "fon_tipi": "YAT",
     "fon_grubu": "Menkul Kıymet Yatırım Fonları",
+    "platform_durumu_kaynagi": "TEFAS",
     "toplam_fon": 2137,
     "tefas_durumu_uygulanabilir": true,
-    "uretim_zamani": "16.09.2026 16:54:16",
+    "uretim_zamani": "16.09.2026 23:39:09",
     "saat_dilimi": "Europe/Istanbul"
   },
   "dogrulama": {
@@ -28,6 +29,7 @@
     "eksik_tefas_durumu": 0,
     "tefas_durumu": {
       "uygulanabilir": true,
+      "platform": "TEFAS",
       "toplam_fon": 2137,
       "islem_goren": 1066,
       "islem_gormeyen": 1071,
@@ -341,7 +343,7 @@
     {
       "fon_kodu": "BS1",
       "fon_adi": "AHLATCI PORTFÖY BİRİNCİ SERBEST (TL) FON",
-      "risk_degeri": 4,
+      "risk_degeri": 6,
       "fon_turu": "Serbest Şemsiye Fonu",
       "tefas_durumu": "islem_goruyor",
       "tefas_durumu_uygulanabilir": true,
