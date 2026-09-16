@@ -5,7 +5,7 @@
     "fon_tipi": "EMK",
     "fon_grubu": "Emeklilik Fonları",
     "toplam_fon": 400,
-    "uretim_zamani": "16.09.2026 11:40:57",
+    "uretim_zamani": "16.09.2026 13:12:45",
     "saat_dilimi": "Europe/Istanbul"
   },
   "dogrulama": {
@@ -21,12 +21,16 @@
       "getiri_1_yil": 14,
       "getiri_3_yil": 40,
       "getiri_5_yil": 61
-    }
+    },
+    "eksik_risk_degeri": 0,
+    "eksik_fon_turu": 0
   },
   "fonlar": [
     {
       "fon_kodu": "AVJ",
       "fon_adi": "AGESA EMEKLİLİK VE HAYAT A.Ş. BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 1,
+      "fon_turu": "Başlangıç Katılım Fonu",
       "getiri_1_ay": 3.1477,
       "getiri_3_ay": 10.3503,
       "getiri_6_ay": 21.6054,
@@ -38,6 +42,8 @@
     {
       "fon_kodu": "EAE",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. ALTIN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Altın Fonu",
       "getiri_1_ay": -0.0206,
       "getiri_3_ay": 3.1721,
       "getiri_6_ay": -7.6674,
@@ -49,6 +55,8 @@
     {
       "fon_kodu": "GEV",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. ALTIN KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Altın Katılım Fonu",
       "getiri_1_ay": -0.1341,
       "getiri_3_ay": 3.0381,
       "getiri_6_ay": -8.4734,
@@ -60,6 +68,8 @@
     {
       "fon_kodu": "AHJ",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. BAŞLANGIÇ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 1,
+      "fon_turu": "Başlangıç Fonu",
       "getiri_1_ay": 3.5822,
       "getiri_3_ay": 10.7234,
       "getiri_6_ay": 22.4482,
@@ -71,6 +81,8 @@
     {
       "fon_kodu": "AE2",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Borçlanma Araçları Fonu",
       "getiri_1_ay": 3.3695,
       "getiri_3_ay": 6.986,
       "getiri_6_ay": 14.1731,
@@ -82,6 +94,8 @@
     {
       "fon_kodu": "AEK",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. BORÇLANMA ARAÇLARI GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Borçlanma Araçları Fonu",
       "getiri_1_ay": 3.4672,
       "getiri_3_ay": 7.538,
       "getiri_6_ay": 14.9637,
@@ -93,6 +107,8 @@
     {
       "fon_kodu": "MZN",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. BİRİNCİ FON SEPETİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Fon Sepeti Fonu",
       "getiri_1_ay": 1.8433,
       "getiri_3_ay": 5.751,
       "getiri_6_ay": 9.9535,
@@ -104,6 +120,8 @@
     {
       "fon_kodu": "AE1",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. BİRİNCİ PARA PİYASASI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Para Piyasası Fonu",
       "getiri_1_ay": 3.3298,
       "getiri_3_ay": 10.3358,
       "getiri_6_ay": 22.0908,
@@ -115,6 +133,8 @@
     {
       "fon_kodu": "AVG",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. DIŞ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Dış Borçlanma Araçları Fonu",
       "getiri_1_ay": 0.2892,
       "getiri_3_ay": 4.293,
       "getiri_6_ay": 12.454,
@@ -126,6 +146,8 @@
     {
       "fon_kodu": "AE3",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. DİNAMİK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 1.7146,
       "getiri_3_ay": 3.8911,
       "getiri_6_ay": 8.5779,
@@ -137,6 +159,8 @@
     {
       "fon_kodu": "ENF",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. ENERJİ SEKTÖRÜ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -3.0021,
       "getiri_3_ay": -7.5931,
       "getiri_6_ay": 8.2654,
@@ -148,6 +172,8 @@
     {
       "fon_kodu": "AEH",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": 0.8351,
       "getiri_3_ay": 0.0866,
       "getiri_6_ay": 8.0613,
@@ -159,6 +185,8 @@
     {
       "fon_kodu": "AEB",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. HİSSE SENEDİ GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": 1.1932,
       "getiri_3_ay": 0.2557,
       "getiri_6_ay": 8.7857,
@@ -170,6 +198,8 @@
     {
       "fon_kodu": "AVB",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. KAMU DIŞ BORÇLANMA ARAÇLARI (ABD DOLARI 5-15 YIL VADELİ) EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Dış Borçlanma Araçları Fonu",
       "getiri_1_ay": -0.1676,
       "getiri_3_ay": 3.7686,
       "getiri_6_ay": 12.8589,
@@ -181,6 +211,8 @@
     {
       "fon_kodu": "AVD",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. KARMA EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Karma Fon",
       "getiri_1_ay": 2.3772,
       "getiri_3_ay": 4.0927,
       "getiri_6_ay": 8.4248,
@@ -192,6 +224,8 @@
     {
       "fon_kodu": "EHK",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. KATILIM HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Katılım Hisse Senedi Fonu",
       "getiri_1_ay": 0.1819,
       "getiri_3_ay": 1.8859,
       "getiri_6_ay": 17.1988,
@@ -203,6 +237,8 @@
     {
       "fon_kodu": "FYL",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. KATILIM KATKI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Katılım Katkı Fonu",
       "getiri_1_ay": 2.8611,
       "getiri_3_ay": 7.3511,
       "getiri_6_ay": 18.4765,
@@ -214,6 +250,8 @@
     {
       "fon_kodu": "FYN",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Katılım Standart Fon",
       "getiri_1_ay": 3.6481,
       "getiri_3_ay": 9.0554,
       "getiri_6_ay": 18.6197,
@@ -225,6 +263,8 @@
     {
       "fon_kodu": "AEI",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. KATKI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Devlet Katkısı Fonu",
       "getiri_1_ay": 3.2057,
       "getiri_3_ay": 2.1418,
       "getiri_6_ay": 9.0854,
@@ -236,6 +276,8 @@
     {
       "fon_kodu": "KML",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. KIYMETLİ MADENLER EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Kıymetli Madenler",
       "getiri_1_ay": 0.5765,
       "getiri_3_ay": 1.9242,
       "getiri_6_ay": -8.8049,
@@ -247,6 +289,8 @@
     {
       "fon_kodu": "VVA",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. OKS AGRESİF DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 1.5458,
       "getiri_3_ay": 1.3261,
       "getiri_6_ay": 8.743,
@@ -258,6 +302,8 @@
     {
       "fon_kodu": "VVZ",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. OKS AGRESİF KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.6758,
       "getiri_3_ay": 5.1452,
       "getiri_6_ay": 13.6736,
@@ -269,6 +315,8 @@
     {
       "fon_kodu": "VVE",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. OKS DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.8533,
       "getiri_3_ay": 6.8866,
       "getiri_6_ay": 12.3991,
@@ -280,6 +328,8 @@
     {
       "fon_kodu": "VVD",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. OKS DİNAMİK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.1741,
       "getiri_3_ay": 5.3352,
       "getiri_6_ay": 11.4182,
@@ -291,6 +341,8 @@
     {
       "fon_kodu": "VVU",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. OKS DİNAMİK KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 3.3058,
       "getiri_3_ay": 7.2543,
       "getiri_6_ay": 15.7324,
@@ -302,6 +354,8 @@
     {
       "fon_kodu": "AYJ",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. OKS KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "OKS Katılım Standart Fon",
       "getiri_1_ay": 3.0329,
       "getiri_3_ay": 6.9646,
       "getiri_6_ay": 14.9341,
@@ -313,6 +367,8 @@
     {
       "fon_kodu": "VVM",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. OKS MUHAFAZAKAR DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 3.5183,
       "getiri_3_ay": 8.4251,
       "getiri_6_ay": 18.8436,
@@ -324,6 +380,8 @@
     {
       "fon_kodu": "AAJ",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. OKS STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "OKS Standart Fon",
       "getiri_1_ay": 2.8791,
       "getiri_3_ay": 6.013,
       "getiri_6_ay": 14.2377,
@@ -335,6 +393,8 @@
     {
       "fon_kodu": "SBA",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. SABANCI TOPLULUĞU ŞİRKETLERİ ENDEKSİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Endeks Fon",
       "getiri_1_ay": -0.0458,
       "getiri_3_ay": -6.8441,
       "getiri_6_ay": -0.9306,
@@ -346,6 +406,8 @@
     {
       "fon_kodu": "AVN",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Standart Fon",
       "getiri_1_ay": 2.9103,
       "getiri_3_ay": 6.1213,
       "getiri_6_ay": 13.8916,
@@ -357,6 +419,8 @@
     {
       "fon_kodu": "GFH",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": 1.1197,
       "getiri_3_ay": 0.8802,
       "getiri_6_ay": 10.8508,
@@ -368,6 +432,8 @@
     {
       "fon_kodu": "TVC",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. TARIM VE GIDA SEKTÖRÜ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 1.6899,
       "getiri_3_ay": 3.2487,
       "getiri_6_ay": 13.5137,
@@ -379,6 +445,8 @@
     {
       "fon_kodu": "TSZ",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. TAŞINMAZ VE İNŞAAT SEKTÖRÜ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -5.7288,
       "getiri_3_ay": -4.135,
       "getiri_6_ay": 5.3128,
@@ -390,6 +458,8 @@
     {
       "fon_kodu": "AVR",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. TEKNOLOJİ SEKTÖRÜ YABANCI DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 7,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -4.7351,
       "getiri_3_ay": -4.1018,
       "getiri_6_ay": 44.5447,
@@ -401,6 +471,8 @@
     {
       "fon_kodu": "TVH",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": -16.7485,
       "getiri_3_ay": -9.0602,
       "getiri_6_ay": 14.7835,
@@ -412,6 +484,8 @@
     {
       "fon_kodu": "AVO",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. ÖZEL SEKTÖR BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 1,
+      "fon_turu": "Özel Sektör Borçlanma Araçları Fonu",
       "getiri_1_ay": 3.0211,
       "getiri_3_ay": 9.94,
       "getiri_6_ay": 20.8357,
@@ -423,6 +497,8 @@
     {
       "fon_kodu": "MZP",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. ÜÇÜNCÜ FON SEPETİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Fon Sepeti Fonu",
       "getiri_1_ay": 1.2768,
       "getiri_3_ay": 2.6267,
       "getiri_6_ay": 8.5322,
@@ -434,6 +510,8 @@
     {
       "fon_kodu": "MZL",
       "fon_adi": "AGESA HAYAT VE EMEKLİLİK A.Ş. İKİNCİ FON SEPETİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Fon Sepeti Fonu",
       "getiri_1_ay": 1.6401,
       "getiri_3_ay": 4.2682,
       "getiri_6_ay": 9.4234,
@@ -445,6 +523,8 @@
     {
       "fon_kodu": "AZK",
       "fon_adi": "ALLIANZ HAYAT VE EMEKLİLİK A.Ş. BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Borçlanma Araçları Fonu",
       "getiri_1_ay": 3.1989,
       "getiri_3_ay": 8.2928,
       "getiri_6_ay": 17.1284,
@@ -456,6 +536,8 @@
     {
       "fon_kodu": "AZA",
       "fon_adi": "ALLIANZ HAYAT VE EMEKLİLİK A.Ş. BORÇLANMA ARAÇLARI GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Borçlanma Araçları Fonu",
       "getiri_1_ay": 3.4906,
       "getiri_3_ay": 9.2835,
       "getiri_6_ay": 18.2284,
@@ -467,6 +549,8 @@
     {
       "fon_kodu": "AZD",
       "fon_adi": "ALLIANZ HAYAT VE EMEKLİLİK A.Ş. BİRİNCİ KARMA EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Karma Fon",
       "getiri_1_ay": -0.5162,
       "getiri_3_ay": 4.0814,
       "getiri_6_ay": 6.8558,
@@ -478,6 +562,8 @@
     {
       "fon_kodu": "HFS",
       "fon_adi": "ALLIANZ HAYAT VE EMEKLİLİK A.Ş. HSBC FON SEPETİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Fon Sepeti Fonu",
       "getiri_1_ay": -0.3581,
       "getiri_3_ay": 1.3182,
       "getiri_6_ay": 13.1333,
@@ -489,6 +575,8 @@
     {
       "fon_kodu": "AZH",
       "fon_adi": "ALLIANZ HAYAT VE EMEKLİLİK A.Ş. HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": 0.4074,
       "getiri_3_ay": -1.7689,
       "getiri_6_ay": 7.3776,
@@ -500,6 +588,8 @@
     {
       "fon_kodu": "AZL",
       "fon_adi": "ALLIANZ HAYAT VE EMEKLİLİK A.Ş. PARA PİYASASI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 1,
+      "fon_turu": "Para Piyasası Fonu",
       "getiri_1_ay": 3.2852,
       "getiri_3_ay": 10.3207,
       "getiri_6_ay": 21.944,
@@ -511,6 +601,8 @@
     {
       "fon_kodu": "AZS",
       "fon_adi": "ALLIANZ HAYAT VE EMEKLİLİK A.Ş. STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Standart Fon",
       "getiri_1_ay": 2.8975,
       "getiri_3_ay": 6.0558,
       "getiri_6_ay": 13.7077,
@@ -522,6 +614,8 @@
     {
       "fon_kodu": "AZY",
       "fon_adi": "ALLIANZ HAYAT VE EMEKLİLİK A.Ş. TARIM VE GIDA FON SEPETİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Fon Sepeti Fonu",
       "getiri_1_ay": 4.2797,
       "getiri_3_ay": 8.5604,
       "getiri_6_ay": 14.2444,
@@ -533,6 +627,8 @@
     {
       "fon_kodu": "AUG",
       "fon_adi": "ALLIANZ HAYAT VE EMEKLİLİK A.Ş. İKİNCİ KARMA EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Karma Fon",
       "getiri_1_ay": -0.0209,
       "getiri_3_ay": 3.1609,
       "getiri_6_ay": 8.8704,
@@ -544,6 +640,8 @@
     {
       "fon_kodu": "AMZ",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. ALTIN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Altın Fonu",
       "getiri_1_ay": -0.4008,
       "getiri_3_ay": 2.7824,
       "getiri_6_ay": -8.9867,
@@ -555,6 +653,8 @@
     {
       "fon_kodu": "NZA",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. ALTIN KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Altın Katılım Fonu",
       "getiri_1_ay": -0.344,
       "getiri_3_ay": 2.6425,
       "getiri_6_ay": -7.8615,
@@ -566,6 +666,8 @@
     {
       "fon_kodu": "FOA",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. AZİMUT FON SEPETİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Fon Sepeti Fonu",
       "getiri_1_ay": 2.1413,
       "getiri_3_ay": 6.6335,
       "getiri_6_ay": 16.2665,
@@ -577,6 +679,8 @@
     {
       "fon_kodu": "ALZ",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. BAŞLANGIÇ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Başlangıç Fonu",
       "getiri_1_ay": 3.5524,
       "getiri_3_ay": 10.6642,
       "getiri_6_ay": 22.3658,
@@ -588,6 +692,8 @@
     {
       "fon_kodu": "ACV",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 1,
+      "fon_turu": "Başlangıç Katılım Fonu",
       "getiri_1_ay": 3.1477,
       "getiri_3_ay": 10.2893,
       "getiri_6_ay": 21.5957,
@@ -599,6 +705,8 @@
     {
       "fon_kodu": "AEU",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. BIST TEMETTÜ ENDEKSİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Endeks Fon",
       "getiri_1_ay": 0.6043,
       "getiri_3_ay": 1.8896,
       "getiri_6_ay": 11.2855,
@@ -610,6 +718,8 @@
     {
       "fon_kodu": "BAE",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Borçlanma Araçları Fonu",
       "getiri_1_ay": 3.6255,
       "getiri_3_ay": null,
       "getiri_6_ay": null,
@@ -621,6 +731,8 @@
     {
       "fon_kodu": "AMG",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. BİRİNCİ KAMU DIŞ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Kamu Yabancı Para (Döviz) Cinsinden Borçlanma Araç",
       "getiri_1_ay": -0.1667,
       "getiri_3_ay": 4.1766,
       "getiri_6_ay": 13.4041,
@@ -632,6 +744,8 @@
     {
       "fon_kodu": "ALS",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 1.3465,
       "getiri_3_ay": 3.7009,
       "getiri_6_ay": 9.8237,
@@ -643,6 +757,8 @@
     {
       "fon_kodu": "AUA",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. FON SEPETİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Fon Sepeti Fonu",
       "getiri_1_ay": 0.7197,
       "getiri_3_ay": 4.6307,
       "getiri_6_ay": 5.9351,
@@ -654,6 +770,8 @@
     {
       "fon_kodu": "AMR",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. KAMU DIŞ BORÇLANMA ARAÇLARI (ABD DOLARI 0-5 YIL VADELİ) EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Kamu Yabancı Para (Döviz) Cinsinden Borçlanma Araç",
       "getiri_1_ay": 0.9845,
       "getiri_3_ay": 5.5841,
       "getiri_6_ay": 13.1551,
@@ -665,6 +783,8 @@
     {
       "fon_kodu": "ALR",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. KARMA EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Karma Fon",
       "getiri_1_ay": -0.4242,
       "getiri_3_ay": 3.5375,
       "getiri_6_ay": 19.3659,
@@ -676,6 +796,8 @@
     {
       "fon_kodu": "AMY",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. KARMA GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Karma Fon",
       "getiri_1_ay": -0.5738,
       "getiri_3_ay": 3.3297,
       "getiri_6_ay": 18.7132,
@@ -687,6 +809,8 @@
     {
       "fon_kodu": "ALU",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. KATILIM HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Katılım Hisse Senedi Fonu",
       "getiri_1_ay": 0.3593,
       "getiri_3_ay": 2.9679,
       "getiri_6_ay": 12.9804,
@@ -698,6 +822,8 @@
     {
       "fon_kodu": "FYY",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. KATILIM KATKI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Katılım Katkı Fonu",
       "getiri_1_ay": 2.2177,
       "getiri_3_ay": 4.9154,
       "getiri_6_ay": 16.2826,
@@ -709,6 +835,8 @@
     {
       "fon_kodu": "FYU",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Katılım Standart Fon",
       "getiri_1_ay": 3.5213,
       "getiri_3_ay": 9.0211,
       "getiri_6_ay": 19.1344,
@@ -720,6 +848,8 @@
     {
       "fon_kodu": "AMF",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. KATKI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Devlet Katkısı Fonu",
       "getiri_1_ay": 2.8995,
       "getiri_3_ay": 4.4785,
       "getiri_6_ay": 12.8131,
@@ -731,6 +861,8 @@
     {
       "fon_kodu": "KOE",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. KOÇ HOLDİNG EMEKLİ VAKFI BİRİNCİ DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.6399,
       "getiri_3_ay": 8.3528,
       "getiri_6_ay": 19.0918,
@@ -742,6 +874,8 @@
     {
       "fon_kodu": "ALI",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. KOÇ İŞTİRAK ENDEKSİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Endeks Fon",
       "getiri_1_ay": 2.4049,
       "getiri_3_ay": 5.5096,
       "getiri_6_ay": 4.2435,
@@ -753,6 +887,8 @@
     {
       "fon_kodu": "ALJ",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. OKS AGRESİF DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 1.5395,
       "getiri_3_ay": 1.5812,
       "getiri_6_ay": 8.9803,
@@ -764,6 +900,8 @@
     {
       "fon_kodu": "AIP",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. OKS AGRESİF KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Katılım Değişken Fon",
       "getiri_1_ay": 2.8299,
       "getiri_3_ay": 5.7788,
       "getiri_6_ay": 14.6491,
@@ -775,6 +913,8 @@
     {
       "fon_kodu": "AIE",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. OKS BÜYÜME KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Katılım Değişken Fon",
       "getiri_1_ay": 3.2959,
       "getiri_3_ay": 7.2995,
       "getiri_6_ay": 16.3397,
@@ -786,6 +926,8 @@
     {
       "fon_kodu": "ANJ",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. OKS DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.7609,
       "getiri_3_ay": 6.8987,
       "getiri_6_ay": 12.3267,
@@ -797,6 +939,8 @@
     {
       "fon_kodu": "ANP",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. OKS DİNAMİK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.176,
       "getiri_3_ay": 5.3295,
       "getiri_6_ay": 11.415,
@@ -808,6 +952,8 @@
     {
       "fon_kodu": "KOS",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. OKS KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "OKS Katılım Standart Fon",
       "getiri_1_ay": 2.9466,
       "getiri_3_ay": 6.9961,
       "getiri_6_ay": 14.8909,
@@ -819,6 +965,8 @@
     {
       "fon_kodu": "KOA",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. OKS STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "OKS Standart Fon",
       "getiri_1_ay": 2.8969,
       "getiri_3_ay": 6.0395,
       "getiri_6_ay": 14.3921,
@@ -830,6 +978,8 @@
     {
       "fon_kodu": "AFJ",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. OKS TEMKİNLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 3.4324,
       "getiri_3_ay": 8.2195,
       "getiri_6_ay": 18.6137,
@@ -841,6 +991,8 @@
     {
       "fon_kodu": "AEC",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. UNİLEVER BİRİNCİ DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 3.1306,
       "getiri_3_ay": 9.3835,
       "getiri_6_ay": 20.1229,
@@ -852,6 +1004,8 @@
     {
       "fon_kodu": "AEP",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. UNİLEVER İKİNCİ DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -0.8732,
       "getiri_3_ay": 0.9058,
       "getiri_6_ay": 14.2157,
@@ -863,6 +1017,8 @@
     {
       "fon_kodu": "AEZ",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. YAPI KREDİ FON SEPETİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Fon Sepeti Fonu",
       "getiri_1_ay": 0.193,
       "getiri_3_ay": 6.2413,
       "getiri_6_ay": 10.5806,
@@ -874,6 +1030,8 @@
     {
       "fon_kodu": "APG",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. YENİLENEBİLİR ENERJİ FON SEPETİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Fon Sepeti Fonu",
       "getiri_1_ay": 0.2294,
       "getiri_3_ay": 2.3123,
       "getiri_6_ay": 14.6516,
@@ -885,6 +1043,8 @@
     {
       "fon_kodu": "AEN",
       "fon_adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. ÖZEL SEKTÖR BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Borçlanma Araçları Fonu",
       "getiri_1_ay": 3.0232,
       "getiri_3_ay": 7.5249,
       "getiri_6_ay": 17.1416,
@@ -896,6 +1056,8 @@
     {
       "fon_kodu": "HSR",
       "fon_adi": "ALLİANZ YAŞAM VE EMEKLİLİK A.Ş. HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": -2.6476,
       "getiri_3_ay": -7.2142,
       "getiri_6_ay": -1.2847,
@@ -907,6 +1069,8 @@
     {
       "fon_kodu": "YZD",
       "fon_adi": "ALLİANZ YAŞAM VE EMEKLİLİK A.Ş. TEKNOLOJİ SEKTÖRÜ FON SEPETİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Fon Sepeti Fonu",
       "getiri_1_ay": -6.0085,
       "getiri_3_ay": 0.2667,
       "getiri_6_ay": 32.2693,
@@ -918,6 +1082,8 @@
     {
       "fon_kodu": "BNO",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": 1.7133,
       "getiri_3_ay": 3.8442,
       "getiri_6_ay": 12.9755,
@@ -929,6 +1095,8 @@
     {
       "fon_kodu": "AHL",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. AGRESİF DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -1.7958,
       "getiri_3_ay": -5.6194,
       "getiri_6_ay": 1.4214,
@@ -940,6 +1108,8 @@
     {
       "fon_kodu": "BGL",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. ALTIN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Altın Fonu",
       "getiri_1_ay": -0.9461,
       "getiri_3_ay": 1.7136,
       "getiri_6_ay": -10.4744,
@@ -951,6 +1121,8 @@
     {
       "fon_kodu": "AEA",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. ALTIN KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Altın Katılım Fonu",
       "getiri_1_ay": -1.4108,
       "getiri_3_ay": 1.2649,
       "getiri_6_ay": -11.7552,
@@ -962,6 +1134,8 @@
     {
       "fon_kodu": "AH9",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. ATAK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -1.7449,
       "getiri_3_ay": -2.3115,
       "getiri_6_ay": 3.0731,
@@ -973,6 +1147,8 @@
     {
       "fon_kodu": "AO1",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. BAŞLANGIÇ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 1,
+      "fon_turu": "Başlangıç Fonu",
       "getiri_1_ay": 3.3307,
       "getiri_3_ay": 10.3635,
       "getiri_6_ay": 21.9856,
@@ -984,6 +1160,8 @@
     {
       "fon_kodu": "AO2",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 1,
+      "fon_turu": "Başlangıç Katılım Fonu",
       "getiri_1_ay": 3.1953,
       "getiri_3_ay": 10.2478,
       "getiri_6_ay": 22.0241,
@@ -995,6 +1173,8 @@
     {
       "fon_kodu": "HS1",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Borçlanma Araçları Fonu",
       "getiri_1_ay": 3.4441,
       "getiri_3_ay": 8.0695,
       "getiri_6_ay": 15.1715,
@@ -1006,6 +1186,8 @@
     {
       "fon_kodu": "AG2",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. BORÇLANMA ARAÇLARI GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Borçlanma Araçları Fonu",
       "getiri_1_ay": 0.9642,
       "getiri_3_ay": 5.6847,
       "getiri_6_ay": 14.6855,
@@ -1017,6 +1199,8 @@
     {
       "fon_kodu": "AH6",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. BİRİNCİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -0.7921,
       "getiri_3_ay": 3.1675,
       "getiri_6_ay": 18.0015,
@@ -1028,6 +1212,8 @@
     {
       "fon_kodu": "AH3",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. BİRİNCİ KAMU DIŞ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Kamu Yabancı Para (Döviz) Cinsinden Borçlanma Araç",
       "getiri_1_ay": 0.1308,
       "getiri_3_ay": 4.01,
       "getiri_6_ay": 12.0855,
@@ -1039,6 +1225,8 @@
     {
       "fon_kodu": "EMI",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. EMLAK SEKTÖRÜ HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": -0.787,
       "getiri_3_ay": -5.2985,
       "getiri_6_ay": null,
@@ -1050,6 +1238,8 @@
     {
       "fon_kodu": "GMF",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. GÜMÜŞ FON SEPETİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Fon Sepeti Fonu",
       "getiri_1_ay": -0.6491,
       "getiri_3_ay": -4.6932,
       "getiri_6_ay": -14.7763,
@@ -1061,6 +1251,8 @@
     {
       "fon_kodu": "AH5",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": -2.7264,
       "getiri_3_ay": -8.1323,
       "getiri_6_ay": -1.5533,
@@ -1072,6 +1264,8 @@
     {
       "fon_kodu": "AG3",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. HİSSE SENEDİ GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": 0.4881,
       "getiri_3_ay": -1.57,
       "getiri_6_ay": 7.7856,
@@ -1083,6 +1277,8 @@
     {
       "fon_kodu": "AH8",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. KARMA EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Karma Fon",
       "getiri_1_ay": 2.1212,
       "getiri_3_ay": 6.9297,
       "getiri_6_ay": 15.2864,
@@ -1094,6 +1290,8 @@
     {
       "fon_kodu": "KHL",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. KATILIM HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Katılım Hisse Senedi Fonu",
       "getiri_1_ay": 2.6309,
       "getiri_3_ay": 0.7081,
       "getiri_6_ay": null,
@@ -1105,6 +1303,8 @@
     {
       "fon_kodu": "AER",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. KATILIM KATKI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Katılım Katkı Fonu",
       "getiri_1_ay": 2.6584,
       "getiri_3_ay": 4.4252,
       "getiri_6_ay": 15.1929,
@@ -1116,6 +1316,8 @@
     {
       "fon_kodu": "AGE",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Katılım Standart Fon",
       "getiri_1_ay": 2.1087,
       "getiri_3_ay": 3.5265,
       "getiri_6_ay": 12.2034,
@@ -1127,6 +1329,8 @@
     {
       "fon_kodu": "AET",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. KATKI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Devlet Katkısı Fonu",
       "getiri_1_ay": 1.8429,
       "getiri_3_ay": 2.5397,
       "getiri_6_ay": 10.6887,
@@ -1138,6 +1342,8 @@
     {
       "fon_kodu": "KRU",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. KİRA SERTİFİKALARI KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Kira Sertifikasi Katılım Fonu",
       "getiri_1_ay": 3.2272,
       "getiri_3_ay": 10.3394,
       "getiri_6_ay": null,
@@ -1149,6 +1355,8 @@
     {
       "fon_kodu": "MDK",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. MERKEZİ ALACAĞIN DEVRİ MUHAFAZAKAR KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Merkezi Alacağın Devri Fonu",
       "getiri_1_ay": 2.9621,
       "getiri_3_ay": 9.4524,
       "getiri_6_ay": 20.4202,
@@ -1160,6 +1368,8 @@
     {
       "fon_kodu": "AJA",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. OKS AGRESİF DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 0.2067,
       "getiri_3_ay": -3.684,
       "getiri_6_ay": 4.8686,
@@ -1171,6 +1381,8 @@
     {
       "fon_kodu": "AJG",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. OKS AGRESİF KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 3.0599,
       "getiri_3_ay": 2.48,
       "getiri_6_ay": 13.2517,
@@ -1182,6 +1394,8 @@
     {
       "fon_kodu": "AJB",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. OKS ATAK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -0.0048,
       "getiri_3_ay": -3.1514,
       "getiri_6_ay": 4.6274,
@@ -1193,6 +1407,8 @@
     {
       "fon_kodu": "AJH",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. OKS ATAK KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.9916,
       "getiri_3_ay": 2.8718,
       "getiri_6_ay": 11.3457,
@@ -1204,6 +1420,8 @@
     {
       "fon_kodu": "AJC",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. OKS DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 0.4164,
       "getiri_3_ay": -1.4333,
       "getiri_6_ay": 5.2668,
@@ -1215,6 +1433,8 @@
     {
       "fon_kodu": "AFP",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. OKS KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "OKS Katılım Standart Fon",
       "getiri_1_ay": 3.0924,
       "getiri_3_ay": 7.0328,
       "getiri_6_ay": 14.8807,
@@ -1226,6 +1446,8 @@
     {
       "fon_kodu": "AFH",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. OKS STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "OKS Standart Fon",
       "getiri_1_ay": 2.3968,
       "getiri_3_ay": 5.6699,
       "getiri_6_ay": 12.1979,
@@ -1237,6 +1459,8 @@
     {
       "fon_kodu": "AJF",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. OKS TEMKİNLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.002,
       "getiri_3_ay": 8.0181,
       "getiri_6_ay": 16.8733,
@@ -1248,6 +1472,8 @@
     {
       "fon_kodu": "AH2",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. PARA PİYASASI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 1,
+      "fon_turu": "Para Piyasası Fonu",
       "getiri_1_ay": 3.3328,
       "getiri_3_ay": 10.2898,
       "getiri_6_ay": 21.9985,
@@ -1259,6 +1485,8 @@
     {
       "fon_kodu": "ATK",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Standart Fon",
       "getiri_1_ay": 2.254,
       "getiri_3_ay": 5.07,
       "getiri_6_ay": 12.4092,
@@ -1270,6 +1498,8 @@
     {
       "fon_kodu": "BHS",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. SÜRDÜRÜLEBİLİRLİK  HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": 0.9786,
       "getiri_3_ay": 1.4859,
       "getiri_6_ay": 13.3362,
@@ -1281,6 +1511,8 @@
     {
       "fon_kodu": "TVG",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. TARIM VE GIDA FON SEPETİ  EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Fon Sepeti Fonu",
       "getiri_1_ay": 5.7384,
       "getiri_3_ay": 13.6938,
       "getiri_6_ay": 19.823,
@@ -1292,6 +1524,8 @@
     {
       "fon_kodu": "BHT",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. TEKNOLOJİ SEKTÖRÜ HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": -3.8365,
       "getiri_3_ay": -1.8804,
       "getiri_6_ay": 28.3013,
@@ -1303,6 +1537,8 @@
     {
       "fon_kodu": "AG4",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. TEMKİNLİ DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.225,
       "getiri_3_ay": 7.2042,
       "getiri_6_ay": 15.0989,
@@ -1314,6 +1550,8 @@
     {
       "fon_kodu": "AHC",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. ÖZEL SEKTÖR BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Özel Sektör Borçlanma Araçları Fonu",
       "getiri_1_ay": 2.9057,
       "getiri_3_ay": 9.5166,
       "getiri_6_ay": 19.5203,
@@ -1325,6 +1563,8 @@
     {
       "fon_kodu": "AH1",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. İKİNCİ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Borçlanma Araçları Fonu",
       "getiri_1_ay": 3.0087,
       "getiri_3_ay": 7.5157,
       "getiri_6_ay": 14.8421,
@@ -1336,6 +1576,8 @@
     {
       "fon_kodu": "AG1",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. İKİNCİ BORÇLANMA ARAÇLARI GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Borçlanma Araçları Fonu",
       "getiri_1_ay": 3.2996,
       "getiri_3_ay": 7.7018,
       "getiri_6_ay": 15.8081,
@@ -1347,6 +1589,8 @@
     {
       "fon_kodu": "AHB",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. İKİNCİ HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": 0.3717,
       "getiri_3_ay": -1.8692,
       "getiri_6_ay": 7.0616,
@@ -1358,6 +1602,8 @@
     {
       "fon_kodu": "AH4",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. İKİNCİ KAMU DIŞ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Kamu Yabancı Para (Döviz) Cinsinden Borçlanma Araç",
       "getiri_1_ay": 0.4049,
       "getiri_3_ay": 3.6902,
       "getiri_6_ay": 12.1528,
@@ -1369,6 +1615,8 @@
     {
       "fon_kodu": "ATE",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. İŞ BANKASI İŞTİRAK ENDEKSİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 7,
+      "fon_turu": "Endeks Fon",
       "getiri_1_ay": -1.6674,
       "getiri_3_ay": -8.1314,
       "getiri_6_ay": -4.047,
@@ -1380,6 +1628,8 @@
     {
       "fon_kodu": "MDD",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş.MERKEZİ ALACAĞIN DEVRİ DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Merkezi Alacağın Devri Fonu",
       "getiri_1_ay": 0.6763,
       "getiri_3_ay": -0.6571,
       "getiri_6_ay": 6.6696,
@@ -1391,6 +1641,8 @@
     {
       "fon_kodu": "ABE",
       "fon_adi": "ANADOLU HAYAT EMEKLİLİK A.Ş.S&P 500 YABANCI BYF FON SEPETİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Fon Sepeti Fonu",
       "getiri_1_ay": -1.5004,
       "getiri_3_ay": 4.4426,
       "getiri_6_ay": 21.2362,
@@ -1402,6 +1654,8 @@
     {
       "fon_kodu": "HEA",
       "fon_adi": "AXA HAYAT VE EMEKLİLİK A.Ş. ALTIN KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Altın Katılım Fonu",
       "getiri_1_ay": -1.4873,
       "getiri_3_ay": 1.0077,
       "getiri_6_ay": -10.4832,
@@ -1413,6 +1667,8 @@
     {
       "fon_kodu": "HEL",
       "fon_adi": "AXA HAYAT VE EMEKLİLİK A.Ş. BAŞLANGIÇ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 1,
+      "fon_turu": "Başlangıç Fonu",
       "getiri_1_ay": 3.2688,
       "getiri_3_ay": 10.3324,
       "getiri_6_ay": 21.8592,
@@ -1424,6 +1680,8 @@
     {
       "fon_kodu": "HEG",
       "fon_adi": "AXA HAYAT VE EMEKLİLİK A.Ş. BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Başlangıç Katılım Fonu",
       "getiri_1_ay": 3.2115,
       "getiri_3_ay": 10.1965,
       "getiri_6_ay": 21.7671,
@@ -1435,6 +1693,8 @@
     {
       "fon_kodu": "HEB",
       "fon_adi": "AXA HAYAT VE EMEKLİLİK A.Ş. DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 3.1062,
       "getiri_3_ay": 6.3273,
       "getiri_6_ay": 15.2734,
@@ -1446,6 +1706,8 @@
     {
       "fon_kodu": "RZN",
       "fon_adi": "AXA HAYAT VE EMEKLİLİK A.Ş. FON SEPETİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Fon Sepeti Fonu",
       "getiri_1_ay": 2.7467,
       "getiri_3_ay": 8.7847,
       "getiri_6_ay": 15.0577,
@@ -1457,6 +1719,8 @@
     {
       "fon_kodu": "HES",
       "fon_adi": "AXA HAYAT VE EMEKLİLİK A.Ş. HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": -2.6497,
       "getiri_3_ay": -7.8014,
       "getiri_6_ay": -1.7209,
@@ -1468,6 +1732,8 @@
     {
       "fon_kodu": "HED",
       "fon_adi": "AXA HAYAT VE EMEKLİLİK A.Ş. KAMU DIŞ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Kamu Yabancı Para (Döviz) Cinsinden Borçlanma Araç",
       "getiri_1_ay": 0.3031,
       "getiri_3_ay": 4.4296,
       "getiri_6_ay": 12.5136,
@@ -1479,6 +1745,8 @@
     {
       "fon_kodu": "HEE",
       "fon_adi": "AXA HAYAT VE EMEKLİLİK A.Ş. KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 1.5844,
       "getiri_3_ay": 4.0379,
       "getiri_6_ay": 12.2408,
@@ -1490,6 +1758,8 @@
     {
       "fon_kodu": "HER",
       "fon_adi": "AXA HAYAT VE EMEKLİLİK A.Ş. KATILIM KATKI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Katılım Katkı Fonu",
       "getiri_1_ay": 2.3337,
       "getiri_3_ay": 4.0393,
       "getiri_6_ay": 14.1397,
@@ -1501,6 +1771,8 @@
     {
       "fon_kodu": "RZM",
       "fon_adi": "AXA HAYAT VE EMEKLİLİK A.Ş. KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Katılım Standart Fon",
       "getiri_1_ay": 3.8601,
       "getiri_3_ay": 9.8735,
       "getiri_6_ay": 20.2386,
@@ -1512,6 +1784,8 @@
     {
       "fon_kodu": "HET",
       "fon_adi": "AXA HAYAT VE EMEKLİLİK A.Ş. KATKI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Devlet Katkısı Fonu",
       "getiri_1_ay": 3.2783,
       "getiri_3_ay": 2.817,
       "getiri_6_ay": 10.5729,
@@ -1523,6 +1797,8 @@
     {
       "fon_kodu": "AJR",
       "fon_adi": "AXA HAYAT VE EMEKLİLİK A.Ş. OKS AGRESİF DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -0.5486,
       "getiri_3_ay": -3.8666,
       "getiri_6_ay": 4.3868,
@@ -1534,6 +1810,8 @@
     {
       "fon_kodu": "AJZ",
       "fon_adi": "AXA HAYAT VE EMEKLİLİK A.Ş. OKS AGRESİF KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.9182,
       "getiri_3_ay": 1.2743,
       "getiri_6_ay": 10.6007,
@@ -1545,6 +1823,8 @@
     {
       "fon_kodu": "AJP",
       "fon_adi": "AXA HAYAT VE EMEKLİLİK A.Ş. OKS ATAK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.3108,
       "getiri_3_ay": 4.8958,
       "getiri_6_ay": 11.3271,
@@ -1556,6 +1836,8 @@
     {
       "fon_kodu": "AJY",
       "fon_adi": "AXA HAYAT VE EMEKLİLİK A.Ş. OKS ATAK KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.1682,
       "getiri_3_ay": 3.5232,
       "getiri_6_ay": 12.9604,
@@ -1567,6 +1849,8 @@
     {
       "fon_kodu": "AJV",
       "fon_adi": "AXA HAYAT VE EMEKLİLİK A.Ş. OKS DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 1.9704,
       "getiri_3_ay": 4.8907,
       "getiri_6_ay": 11.1936,
@@ -1578,6 +1862,8 @@
     {
       "fon_kodu": "HEI",
       "fon_adi": "AXA HAYAT VE EMEKLİLİK A.Ş. OKS KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "OKS Katılım Standart Fon",
       "getiri_1_ay": 3.0305,
       "getiri_3_ay": 7.022,
       "getiri_6_ay": 15.3949,
@@ -1589,6 +1875,8 @@
     {
       "fon_kodu": "HEC",
       "fon_adi": "AXA HAYAT VE EMEKLİLİK A.Ş. OKS STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "OKS Standart Fon",
       "getiri_1_ay": 2.859,
       "getiri_3_ay": 5.6224,
       "getiri_6_ay": 14.4164,
@@ -1600,6 +1888,8 @@
     {
       "fon_kodu": "AJT",
       "fon_adi": "AXA HAYAT VE EMEKLİLİK A.Ş. OKS TEMKİNLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 3.4357,
       "getiri_3_ay": 7.8085,
       "getiri_6_ay": 17.353,
@@ -1611,6 +1901,8 @@
     {
       "fon_kodu": "HEP",
       "fon_adi": "AXA HAYAT VE EMEKLİLİK A.Ş. PARA PİYASASI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Para Piyasası Fonu",
       "getiri_1_ay": 3.2004,
       "getiri_3_ay": 10.0783,
       "getiri_6_ay": 21.3952,
@@ -1622,6 +1914,8 @@
     {
       "fon_kodu": "HEK",
       "fon_adi": "AXA HAYAT VE EMEKLİLİK A.Ş. STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Standart Fon",
       "getiri_1_ay": 2.9934,
       "getiri_3_ay": 6.3758,
       "getiri_6_ay": 14.1566,
@@ -1633,6 +1927,8 @@
     {
       "fon_kodu": "AGA",
       "fon_adi": "BEREKET EMEKLİLİK VE HAYAT A.Ş. ALTIN KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Altın Katılım Fonu",
       "getiri_1_ay": -0.9308,
       "getiri_3_ay": 1.5158,
       "getiri_6_ay": -9.922,
@@ -1644,6 +1940,8 @@
     {
       "fon_kodu": "TKV",
       "fon_adi": "BEREKET EMEKLİLİK VE HAYAT A.Ş. BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 1,
+      "fon_turu": "Başlangıç Katılım Fonu",
       "getiri_1_ay": 3.1522,
       "getiri_3_ay": 10.0953,
       "getiri_6_ay": 21.4005,
@@ -1655,6 +1953,8 @@
     {
       "fon_kodu": "AGB",
       "fon_adi": "BEREKET EMEKLİLİK VE HAYAT A.Ş. BÜYÜME KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 1.1706,
       "getiri_3_ay": 3.3845,
       "getiri_6_ay": 10.8368,
@@ -1666,6 +1966,8 @@
     {
       "fon_kodu": "AGG",
       "fon_adi": "BEREKET EMEKLİLİK VE HAYAT A.Ş. KATILIM DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 1.9057,
       "getiri_3_ay": 5.2922,
       "getiri_6_ay": 15.9548,
@@ -1677,6 +1979,8 @@
     {
       "fon_kodu": "AGH",
       "fon_adi": "BEREKET EMEKLİLİK VE HAYAT A.Ş. KATILIM HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Katılım Hisse Senedi Fonu",
       "getiri_1_ay": 0.2258,
       "getiri_3_ay": -3.7563,
       "getiri_6_ay": 7.2058,
@@ -1688,6 +1992,8 @@
     {
       "fon_kodu": "AGT",
       "fon_adi": "BEREKET EMEKLİLİK VE HAYAT A.Ş. KATILIM KATKI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Katılım Katkı Fonu",
       "getiri_1_ay": 2.9657,
       "getiri_3_ay": 7.2509,
       "getiri_6_ay": 18.9963,
@@ -1699,6 +2005,8 @@
     {
       "fon_kodu": "AGD",
       "fon_adi": "BEREKET EMEKLİLİK VE HAYAT A.Ş. KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Katılım Standart Fon",
       "getiri_1_ay": 3.7306,
       "getiri_3_ay": 9.806,
       "getiri_6_ay": 19.5486,
@@ -1710,6 +2018,8 @@
     {
       "fon_kodu": "BHK",
       "fon_adi": "BEREKET EMEKLİLİK VE HAYAT A.Ş. KİRA SERTİFİKALARI KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Kira Sertifikasi Katılım Fonu",
       "getiri_1_ay": 3.1183,
       "getiri_3_ay": 9.7795,
       "getiri_6_ay": 20.7178,
@@ -1721,6 +2031,8 @@
     {
       "fon_kodu": "AGM",
       "fon_adi": "BEREKET EMEKLİLİK VE HAYAT A.Ş. MUHAFAZAKAR KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.7876,
       "getiri_3_ay": 8.2904,
       "getiri_6_ay": 17.721,
@@ -1732,6 +2044,8 @@
     {
       "fon_kodu": "BEO",
       "fon_adi": "BEREKET EMEKLİLİK VE HAYAT A.Ş. OKS AGRESİF KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 1.029,
       "getiri_3_ay": -3.1066,
       "getiri_6_ay": 7.1079,
@@ -1743,6 +2057,8 @@
     {
       "fon_kodu": "BEF",
       "fon_adi": "BEREKET EMEKLİLİK VE HAYAT A.Ş. OKS DİNAMİK KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 1.364,
       "getiri_3_ay": -0.331,
       "getiri_6_ay": 10.5709,
@@ -1754,6 +2070,8 @@
     {
       "fon_kodu": "BEI",
       "fon_adi": "BEREKET EMEKLİLİK VE HAYAT A.Ş. OKS KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "OKS Katılım Standart Fon",
       "getiri_1_ay": 2.1481,
       "getiri_3_ay": 4.1236,
       "getiri_6_ay": 13.1869,
@@ -1765,6 +2083,8 @@
     {
       "fon_kodu": "BNA",
       "fon_adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. ALTIN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Altın Fonu",
       "getiri_1_ay": -0.2698,
       "getiri_3_ay": 3.0555,
       "getiri_6_ay": -7.9641,
@@ -1776,6 +2096,8 @@
     {
       "fon_kodu": "PRS",
       "fon_adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. BAŞLANGIÇ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 1,
+      "fon_turu": "Başlangıç Fonu",
       "getiri_1_ay": 3.2336,
       "getiri_3_ay": 10.2636,
       "getiri_6_ay": 22.3696,
@@ -1787,6 +2109,8 @@
     {
       "fon_kodu": "PRC",
       "fon_adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 1,
+      "fon_turu": "Başlangıç Katılım Fonu",
       "getiri_1_ay": 3.1481,
       "getiri_3_ay": 10.0006,
       "getiri_6_ay": 21.1158,
@@ -1798,6 +2122,8 @@
     {
       "fon_kodu": "BBD",
       "fon_adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. BIST30 DIŞI ŞİRKETLER HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": -7.5405,
       "getiri_3_ay": -4.6727,
       "getiri_6_ay": null,
@@ -1809,6 +2135,8 @@
     {
       "fon_kodu": "BPF",
       "fon_adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. BORÇLANMA ARAÇLARI GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Borçlanma Araçları Fonu",
       "getiri_1_ay": 3.3121,
       "getiri_3_ay": 7.7003,
       "getiri_6_ay": 16.1526,
@@ -1820,6 +2148,8 @@
     {
       "fon_kodu": "BPU",
       "fon_adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. BİRİNCİ KAMU DIŞ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Kamu Yabancı Para (Döviz) Cinsinden Borçlanma Araç",
       "getiri_1_ay": 0.4622,
       "getiri_3_ay": 3.9798,
       "getiri_6_ay": 11.9707,
@@ -1831,6 +2161,8 @@
     {
       "fon_kodu": "BPL",
       "fon_adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. BİRİNCİ PARA PİYASASI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Para Piyasası Fonu",
       "getiri_1_ay": 3.1544,
       "getiri_3_ay": 10.1988,
       "getiri_6_ay": 21.8983,
@@ -1842,6 +2174,8 @@
     {
       "fon_kodu": "BPE",
       "fon_adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 1.6824,
       "getiri_3_ay": 3.0977,
       "getiri_6_ay": 8.5818,
@@ -1853,6 +2187,8 @@
     {
       "fon_kodu": "BPH",
       "fon_adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 7,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": -0.3649,
       "getiri_3_ay": -2.7815,
       "getiri_6_ay": 1.8699,
@@ -1864,6 +2200,8 @@
     {
       "fon_kodu": "BPC",
       "fon_adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. KATILIM KATKI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Katılım Katkı Fonu",
       "getiri_1_ay": 1.7239,
       "getiri_3_ay": 4.3693,
       "getiri_6_ay": 16.1643,
@@ -1875,6 +2213,8 @@
     {
       "fon_kodu": "BNK",
       "fon_adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. KATKI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Devlet Katkısı Fonu",
       "getiri_1_ay": 2.5452,
       "getiri_3_ay": 3.2575,
       "getiri_6_ay": 11.6042,
@@ -1886,6 +2226,8 @@
     {
       "fon_kodu": "BNB",
       "fon_adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. MUTLAK GETİRİ HEDEFLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 3.1772,
       "getiri_3_ay": 9.6991,
       "getiri_6_ay": 20.767,
@@ -1897,6 +2239,8 @@
     {
       "fon_kodu": "BPI",
       "fon_adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. OKS AGRESİF DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -1.9666,
       "getiri_3_ay": -6.0507,
       "getiri_6_ay": -6.7325,
@@ -1908,6 +2252,8 @@
     {
       "fon_kodu": "BPS",
       "fon_adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. OKS AGRESİF KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -1.5347,
       "getiri_3_ay": -6.1438,
       "getiri_6_ay": 5.5216,
@@ -1919,6 +2265,8 @@
     {
       "fon_kodu": "BPJ",
       "fon_adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. OKS DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 1.9927,
       "getiri_3_ay": 4.0779,
       "getiri_6_ay": 13.1771,
@@ -1930,6 +2278,8 @@
     {
       "fon_kodu": "BPN",
       "fon_adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. OKS DİNAMİK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 1.5832,
       "getiri_3_ay": 2.3778,
       "getiri_6_ay": 9.9092,
@@ -1941,6 +2291,8 @@
     {
       "fon_kodu": "BPO",
       "fon_adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. OKS DİNAMİK KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -0.5145,
       "getiri_3_ay": -4.2078,
       "getiri_6_ay": 7.0468,
@@ -1952,6 +2304,8 @@
     {
       "fon_kodu": "BNZ",
       "fon_adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. OKS KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "OKS Katılım Standart Fon",
       "getiri_1_ay": 3.1968,
       "getiri_3_ay": 7.0854,
       "getiri_6_ay": 15.4997,
@@ -1963,6 +2317,8 @@
     {
       "fon_kodu": "BPR",
       "fon_adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. OKS MUHAFAZAKAR DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.9408,
       "getiri_3_ay": 8.517,
       "getiri_6_ay": 20.1411,
@@ -1974,6 +2330,8 @@
     {
       "fon_kodu": "BNL",
       "fon_adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. OKS STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "OKS Standart Fon",
       "getiri_1_ay": 2.0725,
       "getiri_3_ay": 4.9061,
       "getiri_6_ay": 12.5886,
@@ -1985,6 +2343,8 @@
     {
       "fon_kodu": "BNS",
       "fon_adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Standart Fon",
       "getiri_1_ay": 2.0622,
       "getiri_3_ay": 4.0494,
       "getiri_6_ay": 12.0503,
@@ -1996,6 +2356,8 @@
     {
       "fon_kodu": "BSR",
       "fon_adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. SÜRDÜRÜLEBİLİRLİK FON SEPETİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Fon Sepeti Fonu",
       "getiri_1_ay": 0.1315,
       "getiri_3_ay": 0.6052,
       "getiri_6_ay": 11.5542,
@@ -2007,6 +2369,8 @@
     {
       "fon_kodu": "BZY",
       "fon_adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. TEKNOLOJİ SEKTÖRÜ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -5.2532,
       "getiri_3_ay": -6.028,
       "getiri_6_ay": 29.8048,
@@ -2018,6 +2382,8 @@
     {
       "fon_kodu": "BPK",
       "fon_adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. İKİNCİ KAMU DIŞ BORÇLANMA ARAÇLARI (ABD DOLARI 0-5 YIL VADELİ) EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Kamu Yabancı Para (Döviz) Cinsinden Borçlanma Araç",
       "getiri_1_ay": 1.1376,
       "getiri_3_ay": 5.1039,
       "getiri_6_ay": 11.9828,
@@ -2029,6 +2395,8 @@
     {
       "fon_kodu": "BPG",
       "fon_adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş.BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Borçlanma Araçları Fonu",
       "getiri_1_ay": 3.4618,
       "getiri_3_ay": 7.4023,
       "getiri_6_ay": 15.3458,
@@ -2040,6 +2408,8 @@
     {
       "fon_kodu": "EMY",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. ALTIN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Kıymetli Madenler",
       "getiri_1_ay": 0.242,
       "getiri_3_ay": 3.5979,
       "getiri_6_ay": null,
@@ -2051,6 +2421,8 @@
     {
       "fon_kodu": "GHA",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. ALTIN KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Altın Katılım Fonu",
       "getiri_1_ay": -1.1364,
       "getiri_3_ay": 1.2766,
       "getiri_6_ay": -10.8326,
@@ -2062,6 +2434,8 @@
     {
       "fon_kodu": "GCV",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. BAŞLANGIÇ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Başlangıç Fonu",
       "getiri_1_ay": 3.3602,
       "getiri_3_ay": 10.4763,
       "getiri_6_ay": 22.6712,
@@ -2073,6 +2447,8 @@
     {
       "fon_kodu": "GDV",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 1,
+      "fon_turu": "Başlangıç Katılım Fonu",
       "getiri_1_ay": 3.2643,
       "getiri_3_ay": 10.3724,
       "getiri_6_ay": 21.8743,
@@ -2084,6 +2460,8 @@
     {
       "fon_kodu": "GEK",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Borçlanma Araçları Fonu",
       "getiri_1_ay": 2.2962,
       "getiri_3_ay": 5.7562,
       "getiri_6_ay": 12.3752,
@@ -2095,6 +2473,8 @@
     {
       "fon_kodu": "GHF",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. BORÇLANMA ARAÇLARI GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Borçlanma Araçları Fonu",
       "getiri_1_ay": 2.325,
       "getiri_3_ay": 6.2114,
       "getiri_6_ay": 12.8925,
@@ -2106,6 +2486,8 @@
     {
       "fon_kodu": "GCT",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. BİRİNCİ FON SEPETİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Fon Sepeti Fonu",
       "getiri_1_ay": 2.9225,
       "getiri_3_ay": 9.4153,
       "getiri_6_ay": 19.5641,
@@ -2117,6 +2499,8 @@
     {
       "fon_kodu": "GHT",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -0.073,
       "getiri_3_ay": 1.5376,
       "getiri_6_ay": 7.5009,
@@ -2128,6 +2512,8 @@
     {
       "fon_kodu": "GEU",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.0871,
       "getiri_3_ay": 6.7694,
       "getiri_6_ay": 14.5077,
@@ -2139,6 +2525,8 @@
     {
       "fon_kodu": "GHG",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. DIŞ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Dış Borçlanma Araçları Fonu",
       "getiri_1_ay": 0.0503,
       "getiri_3_ay": 4.0489,
       "getiri_6_ay": 12.7388,
@@ -2150,6 +2538,8 @@
     {
       "fon_kodu": "GHK",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. DIŞ BORÇLANMA ARAÇLARI GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Dış Borçlanma Araçları Fonu",
       "getiri_1_ay": 0.1086,
       "getiri_3_ay": 4.2115,
       "getiri_6_ay": 13.0677,
@@ -2161,6 +2551,8 @@
     {
       "fon_kodu": "GHE",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. DİNAMİK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -0.1393,
       "getiri_3_ay": 2.4147,
       "getiri_6_ay": 11.4842,
@@ -2172,6 +2564,8 @@
     {
       "fon_kodu": "GEF",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. DİNAMİK DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 0.0627,
       "getiri_3_ay": 2.2574,
       "getiri_6_ay": 11.1737,
@@ -2183,6 +2577,8 @@
     {
       "fon_kodu": "GGJ",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. GÜMÜŞ FON SEPETİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 7,
+      "fon_turu": "Fon Sepeti Fonu",
       "getiri_1_ay": -1.2175,
       "getiri_3_ay": -5.426,
       "getiri_6_ay": -17.5001,
@@ -2194,6 +2590,8 @@
     {
       "fon_kodu": "GEH",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": -0.3357,
       "getiri_3_ay": -1.774,
       "getiri_6_ay": 7.4295,
@@ -2205,6 +2603,8 @@
     {
       "fon_kodu": "GEG",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. HİSSE SENEDİ GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": -0.0749,
       "getiri_3_ay": -1.4442,
       "getiri_6_ay": 8.1889,
@@ -2216,6 +2616,8 @@
     {
       "fon_kodu": "GCY",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. KARMA EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Karma Fon",
       "getiri_1_ay": -1.3166,
       "getiri_3_ay": 4.1909,
       "getiri_6_ay": 11.8063,
@@ -2227,6 +2629,8 @@
     {
       "fon_kodu": "GEA",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. KATILIM HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Katılım Hisse Senedi Fonu",
       "getiri_1_ay": -3.8615,
       "getiri_3_ay": -3.9108,
       "getiri_6_ay": 7.4219,
@@ -2238,6 +2642,8 @@
     {
       "fon_kodu": "GHL",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. KATILIM KATKI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Katılım Katkı Fonu",
       "getiri_1_ay": 2.7025,
       "getiri_3_ay": 5.8708,
       "getiri_6_ay": 17.98,
@@ -2249,6 +2655,8 @@
     {
       "fon_kodu": "GES",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Katılım Standart Fon",
       "getiri_1_ay": 2.4585,
       "getiri_3_ay": 5.1726,
       "getiri_6_ay": 13.9569,
@@ -2260,6 +2668,8 @@
     {
       "fon_kodu": "GHI",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. KATKI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Devlet Katkısı Fonu",
       "getiri_1_ay": 2.8881,
       "getiri_3_ay": 4.4074,
       "getiri_6_ay": 12.6878,
@@ -2271,6 +2681,8 @@
     {
       "fon_kodu": "GKB",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. KİRA SERTİFİKALARI KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Kira Sertifikasi Katılım Fonu",
       "getiri_1_ay": 2.7991,
       "getiri_3_ay": 7.4542,
       "getiri_6_ay": 13.9881,
@@ -2282,6 +2694,8 @@
     {
       "fon_kodu": "GHJ",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. OKS AGRESİF DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 0.1135,
       "getiri_3_ay": 1.2071,
       "getiri_6_ay": 11.8584,
@@ -2293,6 +2707,8 @@
     {
       "fon_kodu": "GHU",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. OKS AGRESİF KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -2.2713,
       "getiri_3_ay": -2.1512,
       "getiri_6_ay": 16.3704,
@@ -2304,6 +2720,8 @@
     {
       "fon_kodu": "GHN",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. OKS DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 0.5014,
       "getiri_3_ay": 5.2014,
       "getiri_6_ay": 15.7071,
@@ -2315,6 +2733,8 @@
     {
       "fon_kodu": "GHV",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. OKS DENGELİ KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.761,
       "getiri_3_ay": 9.2781,
       "getiri_6_ay": 19.5629,
@@ -2326,6 +2746,8 @@
     {
       "fon_kodu": "GHM",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. OKS DİNAMİK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 0.1011,
       "getiri_3_ay": 3.1391,
       "getiri_6_ay": 12.8648,
@@ -2337,6 +2759,8 @@
     {
       "fon_kodu": "GHY",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. OKS DİNAMİK KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -1.3264,
       "getiri_3_ay": -0.052,
       "getiri_6_ay": 15.1777,
@@ -2348,6 +2772,8 @@
     {
       "fon_kodu": "GCK",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. OKS KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "OKS Katılım Standart Fon",
       "getiri_1_ay": 2.2966,
       "getiri_3_ay": 5.4762,
       "getiri_6_ay": 13.7591,
@@ -2359,6 +2785,8 @@
     {
       "fon_kodu": "GCS",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. OKS STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "OKS Standart Fon",
       "getiri_1_ay": 2.4926,
       "getiri_3_ay": 5.9379,
       "getiri_6_ay": 13.4018,
@@ -2370,6 +2798,8 @@
     {
       "fon_kodu": "GHP",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. OKS TEMKİNLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.4632,
       "getiri_3_ay": 9.5443,
       "getiri_6_ay": 19.3721,
@@ -2381,6 +2811,8 @@
     {
       "fon_kodu": "GHZ",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. OKS TEMKİNLİ KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 1,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.6645,
       "getiri_3_ay": 9.2341,
       "getiri_6_ay": 19.5222,
@@ -2392,6 +2824,8 @@
     {
       "fon_kodu": "GEL",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. PARA PİYASASI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 1,
+      "fon_turu": "Para Piyasası Fonu",
       "getiri_1_ay": 3.2178,
       "getiri_3_ay": 10.1883,
       "getiri_6_ay": 21.917,
@@ -2403,6 +2837,8 @@
     {
       "fon_kodu": "GHD",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Standart Fon",
       "getiri_1_ay": 2.5959,
       "getiri_3_ay": 5.5957,
       "getiri_6_ay": 13.9877,
@@ -2414,6 +2850,8 @@
     {
       "fon_kodu": "GHH",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": 0.1536,
       "getiri_3_ay": 1.761,
       "getiri_6_ay": 16.6569,
@@ -2425,6 +2863,8 @@
     {
       "fon_kodu": "GED",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. TEMETTÜ ÖDEYEN ŞİRKETLER HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": 0.9814,
       "getiri_3_ay": 0.2777,
       "getiri_6_ay": 10.2468,
@@ -2436,6 +2876,8 @@
     {
       "fon_kodu": "TNE",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. TEMİZ ENERJİ SEKTÖRÜ HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": -1.0549,
       "getiri_3_ay": -4.1782,
       "getiri_6_ay": null,
@@ -2447,6 +2889,8 @@
     {
       "fon_kodu": "GCN",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. YENİ TEKNOLOJİLER HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": -7.5439,
       "getiri_3_ay": -2.2128,
       "getiri_6_ay": 26.9164,
@@ -2458,6 +2902,8 @@
     {
       "fon_kodu": "GHO",
       "fon_adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. ÜÇÜNCÜ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 0.4738,
       "getiri_3_ay": 4.7663,
       "getiri_6_ay": 19.3642,
@@ -2469,6 +2915,8 @@
     {
       "fon_kodu": "FVI",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş ESG SÜRDÜRÜLEBİLİRLİK FON SEPETİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Fon Sepeti Fonu",
       "getiri_1_ay": -0.9223,
       "getiri_3_ay": 0.6878,
       "getiri_6_ay": 15.1621,
@@ -2480,6 +2928,8 @@
     {
       "fon_kodu": "FJG",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş.  RE-PIE PORTFÖY DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 0.0461,
       "getiri_3_ay": 5.0345,
       "getiri_6_ay": 15.1603,
@@ -2491,6 +2941,8 @@
     {
       "fon_kodu": "GRA",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. ALTIN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Altın Fonu",
       "getiri_1_ay": -0.1525,
       "getiri_3_ay": 2.6287,
       "getiri_6_ay": -8.7716,
@@ -2502,6 +2954,8 @@
     {
       "fon_kodu": "EIE",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. ATAK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.724,
       "getiri_3_ay": 2.4671,
       "getiri_6_ay": 14.9599,
@@ -2513,6 +2967,8 @@
     {
       "fon_kodu": "FEA",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. ATLAS PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 1,
+      "fon_turu": "Özel Sektör Borçlanma Araçları Fonu",
       "getiri_1_ay": 2.908,
       "getiri_3_ay": 9.5282,
       "getiri_6_ay": 19.207,
@@ -2524,6 +2980,8 @@
     {
       "fon_kodu": "FIE",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. BAŞLANGIÇ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Başlangıç Fonu",
       "getiri_1_ay": 3.0417,
       "getiri_3_ay": 9.9965,
       "getiri_6_ay": 21.5086,
@@ -2535,6 +2993,8 @@
     {
       "fon_kodu": "FIY",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 1,
+      "fon_turu": "Başlangıç Katılım Fonu",
       "getiri_1_ay": 2.8273,
       "getiri_3_ay": 10.1938,
       "getiri_6_ay": 21.0823,
@@ -2546,6 +3006,8 @@
     {
       "fon_kodu": "EIG",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Borçlanma Araçları Fonu",
       "getiri_1_ay": 2.6944,
       "getiri_3_ay": 5.6598,
       "getiri_6_ay": 14.4651,
@@ -2557,6 +3019,8 @@
     {
       "fon_kodu": "BGK",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. BORÇLANMA ARAÇLARI GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Borçlanma Araçları Fonu",
       "getiri_1_ay": 3.0594,
       "getiri_3_ay": 6.7492,
       "getiri_6_ay": 13.8819,
@@ -2568,6 +3032,8 @@
     {
       "fon_kodu": "BEE",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -0.4862,
       "getiri_3_ay": 5.4292,
       "getiri_6_ay": 15.3108,
@@ -2579,6 +3045,8 @@
     {
       "fon_kodu": "BGE",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. DENGELİ DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 3.4149,
       "getiri_3_ay": 9.3515,
       "getiri_6_ay": 38.7973,
@@ -2590,6 +3058,8 @@
     {
       "fon_kodu": "FER",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.6408,
       "getiri_3_ay": 2.4042,
       "getiri_6_ay": 14.07,
@@ -2601,6 +3071,8 @@
     {
       "fon_kodu": "EIK",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. DIŞ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Dış Borçlanma Araçları Fonu",
       "getiri_1_ay": -0.5038,
       "getiri_3_ay": 3.1643,
       "getiri_6_ay": 11.207,
@@ -2612,6 +3084,8 @@
     {
       "fon_kodu": "FEO",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. DİNAMİK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.148,
       "getiri_3_ay": 2.6473,
       "getiri_6_ay": 13.2851,
@@ -2623,6 +3097,8 @@
     {
       "fon_kodu": "FIK",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. FON SEPETİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Fon Sepeti Fonu",
       "getiri_1_ay": 4.5259,
       "getiri_3_ay": 13.0088,
       "getiri_6_ay": 11.6423,
@@ -2634,6 +3110,8 @@
     {
       "fon_kodu": "BEK",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. FİBA PORTFÖY BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Borçlanma Araçları Fonu",
       "getiri_1_ay": 3.0213,
       "getiri_3_ay": 6.6866,
       "getiri_6_ay": 15.1709,
@@ -2645,6 +3123,8 @@
     {
       "fon_kodu": "BEH",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": 0.9864,
       "getiri_3_ay": 0.0566,
       "getiri_6_ay": 11.2379,
@@ -2656,6 +3136,8 @@
     {
       "fon_kodu": "BBH",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. HİSSE SENEDİ GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": -1.0678,
       "getiri_3_ay": -2.8575,
       "getiri_6_ay": 10.765,
@@ -2667,6 +3149,8 @@
     {
       "fon_kodu": "FFZ",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. INVEO PORTFÖY FON SEPETİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Fon Sepeti Fonu",
       "getiri_1_ay": -0.7045,
       "getiri_3_ay": -1.8617,
       "getiri_6_ay": 8.9846,
@@ -2678,6 +3162,8 @@
     {
       "fon_kodu": "BKB",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. KAMU DIŞ BORÇLANMA ARAÇLARI GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Kamu Yabancı Para (Döviz) Cinsinden Borçlanma Araç",
       "getiri_1_ay": 0.5872,
       "getiri_3_ay": 4.0112,
       "getiri_6_ay": 11.5404,
@@ -2689,6 +3175,8 @@
     {
       "fon_kodu": "FIM",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.8137,
       "getiri_3_ay": 7.2374,
       "getiri_6_ay": 13.6404,
@@ -2700,6 +3188,8 @@
     {
       "fon_kodu": "FII",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. KATILIM KATKI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Katılım Katkı Fonu",
       "getiri_1_ay": 0.5417,
       "getiri_3_ay": 3.6985,
       "getiri_6_ay": 17.7127,
@@ -2711,6 +3201,8 @@
     {
       "fon_kodu": "FIS",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Katılım Standart Fon",
       "getiri_1_ay": 2.2561,
       "getiri_3_ay": 6.4011,
       "getiri_6_ay": 16.9081,
@@ -2722,6 +3214,8 @@
     {
       "fon_kodu": "FEI",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. KATKI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Devlet Katkısı Fonu",
       "getiri_1_ay": 1.7253,
       "getiri_3_ay": 0.3362,
       "getiri_6_ay": 7.8053,
@@ -2733,6 +3227,8 @@
     {
       "fon_kodu": "KMP",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. KIYMETLİ MADENLER EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Kıymetli Madenler",
       "getiri_1_ay": -0.7193,
       "getiri_3_ay": -1.1623,
       "getiri_6_ay": null,
@@ -2744,6 +3240,8 @@
     {
       "fon_kodu": "FIC",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. OKS AGRESİF DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -5.9123,
       "getiri_3_ay": -6.1211,
       "getiri_6_ay": 0.3646,
@@ -2755,6 +3253,8 @@
     {
       "fon_kodu": "FIU",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. OKS AGRESİF KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -0.0072,
       "getiri_3_ay": 1.4961,
       "getiri_6_ay": 19.4923,
@@ -2766,6 +3266,8 @@
     {
       "fon_kodu": "FIH",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. OKS ATAK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 3.2556,
       "getiri_3_ay": 6.8903,
       "getiri_6_ay": 14.7355,
@@ -2777,6 +3279,8 @@
     {
       "fon_kodu": "FIV",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. OKS ATAK KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 7,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -0.2181,
       "getiri_3_ay": 2.5868,
       "getiri_6_ay": 18.9908,
@@ -2788,6 +3292,8 @@
     {
       "fon_kodu": "FIG",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. OKS DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.9045,
       "getiri_3_ay": 3.8568,
       "getiri_6_ay": 15.7898,
@@ -2799,6 +3305,8 @@
     {
       "fon_kodu": "FGH",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. OKS KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "OKS Katılım Standart Fon",
       "getiri_1_ay": 0.6963,
       "getiri_3_ay": 4.2908,
       "getiri_6_ay": 13.2419,
@@ -2810,6 +3318,8 @@
     {
       "fon_kodu": "FIZ",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. OKS MUHAFAZAKAR DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 3.2725,
       "getiri_3_ay": 9.4058,
       "getiri_6_ay": 19.087,
@@ -2821,6 +3331,8 @@
     {
       "fon_kodu": "FGF",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. OKS STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "OKS Standart Fon",
       "getiri_1_ay": 2.8745,
       "getiri_3_ay": 7.1079,
       "getiri_6_ay": 14.1011,
@@ -2832,6 +3344,8 @@
     {
       "fon_kodu": "FIR",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. OSMANLI PORTFÖY DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 0.5361,
       "getiri_3_ay": 4.8442,
       "getiri_6_ay": 3.6205,
@@ -2843,6 +3357,8 @@
     {
       "fon_kodu": "EHG",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. OYAK PORTFÖY DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 3.1163,
       "getiri_3_ay": 6.7621,
       "getiri_6_ay": 15.3191,
@@ -2854,6 +3370,8 @@
     {
       "fon_kodu": "EIH",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. OYAK PORTFÖY HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": 2.253,
       "getiri_3_ay": 1.3606,
       "getiri_6_ay": 9.9961,
@@ -2865,6 +3383,8 @@
     {
       "fon_kodu": "EIF",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. OYAK PORTFÖY KAMU DIŞ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Kamu Yabancı Para (Döviz) Cinsinden Borçlanma Araç",
       "getiri_1_ay": 0.1829,
       "getiri_3_ay": 3.3834,
       "getiri_6_ay": 10.5522,
@@ -2876,6 +3396,8 @@
     {
       "fon_kodu": "EST",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. OYAK PORTFÖY STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Standart Fon",
       "getiri_1_ay": 2.9748,
       "getiri_3_ay": 6.0733,
       "getiri_6_ay": 13.6017,
@@ -2887,6 +3409,8 @@
     {
       "fon_kodu": "FET",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. PARA PİYASASI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 1,
+      "fon_turu": "Para Piyasası Fonu",
       "getiri_1_ay": 3.1986,
       "getiri_3_ay": 10.2254,
       "getiri_6_ay": 21.9723,
@@ -2898,6 +3422,8 @@
     {
       "fon_kodu": "SSH",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. SANAYİ ŞİRKETLERİ HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": -2.5739,
       "getiri_3_ay": -0.6189,
       "getiri_6_ay": null,
@@ -2909,6 +3435,8 @@
     {
       "fon_kodu": "FEN",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Standart Fon",
       "getiri_1_ay": 2.4984,
       "getiri_3_ay": 3.7127,
       "getiri_6_ay": 11.8595,
@@ -2920,6 +3448,8 @@
     {
       "fon_kodu": "FEF",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. TACİRLER PORTFÖY DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 0.4748,
       "getiri_3_ay": 3.5748,
       "getiri_6_ay": 13.7864,
@@ -2931,6 +3461,8 @@
     {
       "fon_kodu": "FFC",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. TEKNOLOJİ SEKTÖRÜ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -3.388,
       "getiri_3_ay": -2.6312,
       "getiri_6_ay": 27.413,
@@ -2942,6 +3474,8 @@
     {
       "fon_kodu": "FES",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. TEMKİNLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 1.9147,
       "getiri_3_ay": 5.5069,
       "getiri_6_ay": 15.5955,
@@ -2953,6 +3487,8 @@
     {
       "fon_kodu": "FIF",
       "fon_adi": "HDI FİBA EMEKLİLİK VE HAYAT A.Ş. İSTANBUL PORTFÖY DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -5.4383,
       "getiri_3_ay": -4.9664,
       "getiri_6_ay": -0.8546,
@@ -2964,6 +3500,8 @@
     {
       "fon_kodu": "KES",
       "fon_adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. AGRESİF KATILIM DEĞİŞKEN (DÖVİZ) EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 1.2569,
       "getiri_3_ay": 5.0607,
       "getiri_6_ay": 11.0489,
@@ -2975,6 +3513,8 @@
     {
       "fon_kodu": "KEF",
       "fon_adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. ALTIN KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Altın Katılım Fonu",
       "getiri_1_ay": -0.4513,
       "getiri_3_ay": 2.5461,
       "getiri_6_ay": -9.28,
@@ -2986,6 +3526,8 @@
     {
       "fon_kodu": "KEY",
       "fon_adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 1,
+      "fon_turu": "Başlangıç Katılım Fonu",
       "getiri_1_ay": 3.28,
       "getiri_3_ay": 10.4525,
       "getiri_6_ay": 21.4899,
@@ -2997,6 +3539,8 @@
     {
       "fon_kodu": "KEG",
       "fon_adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. DENGELİ KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -0.1051,
       "getiri_3_ay": 0.0765,
       "getiri_6_ay": 7.1189,
@@ -3008,6 +3552,8 @@
     {
       "fon_kodu": "KED",
       "fon_adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. GENÇLERE YÖNELIK ATAK KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Katılım Değişken Fon",
       "getiri_1_ay": 2.47,
       "getiri_3_ay": 6.1232,
       "getiri_6_ay": 16.2979,
@@ -3019,6 +3565,8 @@
     {
       "fon_kodu": "KGC",
       "fon_adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. GÜMÜŞ KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Katılım Fonu",
       "getiri_1_ay": 1.1834,
       "getiri_3_ay": 1.2703,
       "getiri_6_ay": -10.9059,
@@ -3030,6 +3578,8 @@
     {
       "fon_kodu": "KEK",
       "fon_adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. KATILIM DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.2152,
       "getiri_3_ay": 4.4002,
       "getiri_6_ay": 10.1351,
@@ -3041,6 +3591,8 @@
     {
       "fon_kodu": "KEH",
       "fon_adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. KATILIM HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Katılım Hisse Senedi Fonu",
       "getiri_1_ay": 0.088,
       "getiri_3_ay": 0.7043,
       "getiri_6_ay": 21.0288,
@@ -3052,6 +3604,8 @@
     {
       "fon_kodu": "KLV",
       "fon_adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. KATILIM KARMA EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Karma Fon",
       "getiri_1_ay": 0.8735,
       "getiri_3_ay": null,
       "getiri_6_ay": null,
@@ -3063,6 +3617,8 @@
     {
       "fon_kodu": "KEA",
       "fon_adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. KATILIM KATKI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Katılım Katkı Fonu",
       "getiri_1_ay": 1.7774,
       "getiri_3_ay": 6.4932,
       "getiri_6_ay": 20.7269,
@@ -3074,6 +3630,8 @@
     {
       "fon_kodu": "KEB",
       "fon_adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Katılım Standart Fon",
       "getiri_1_ay": 2.9923,
       "getiri_3_ay": 7.386,
       "getiri_6_ay": 17.8728,
@@ -3085,6 +3643,8 @@
     {
       "fon_kodu": "KKV",
       "fon_adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. KISA VADELİ KİRA SERTİFİKALARI KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Kira Sertifikasi Katılım Fonu",
       "getiri_1_ay": 3.0099,
       "getiri_3_ay": 9.4933,
       "getiri_6_ay": 19.2187,
@@ -3096,6 +3656,8 @@
     {
       "fon_kodu": "KJM",
       "fon_adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. KIYMETLİ MADENLER KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Katılım Fonu",
       "getiri_1_ay": 0.571,
       "getiri_3_ay": 1.8234,
       "getiri_6_ay": -9.7941,
@@ -3107,6 +3669,8 @@
     {
       "fon_kodu": "KFE",
       "fon_adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. KUVEYT TÜRK KATILIM FON SEPETİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Fon Sepeti Fonu",
       "getiri_1_ay": 1.0451,
       "getiri_3_ay": 4.0654,
       "getiri_6_ay": 14.6963,
@@ -3118,6 +3682,8 @@
     {
       "fon_kodu": "KKS",
       "fon_adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. KİRA SERTİFİKALARI KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Kira Sertifikasi Katılım Fonu",
       "getiri_1_ay": 0.561,
       "getiri_3_ay": 7.1248,
       "getiri_6_ay": 18.1974,
@@ -3129,6 +3695,8 @@
     {
       "fon_kodu": "KEZ",
       "fon_adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. OKS AGRESİF KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 0.3172,
       "getiri_3_ay": 2.467,
       "getiri_6_ay": 23.3283,
@@ -3140,6 +3708,8 @@
     {
       "fon_kodu": "KET",
       "fon_adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. OKS ATAK KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.1862,
       "getiri_3_ay": 8.5585,
       "getiri_6_ay": 20.2396,
@@ -3151,6 +3721,8 @@
     {
       "fon_kodu": "KTZ",
       "fon_adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. OKS KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "OKS Katılım Standart Fon",
       "getiri_1_ay": 1.6496,
       "getiri_3_ay": 4.7853,
       "getiri_6_ay": 12.9701,
@@ -3162,6 +3734,8 @@
     {
       "fon_kodu": "KSU",
       "fon_adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. SÜRDÜRÜLEBİLİRLİK KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Katılım Fonu",
       "getiri_1_ay": 0.2839,
       "getiri_3_ay": 3.5114,
       "getiri_6_ay": 21.551,
@@ -3173,6 +3747,8 @@
     {
       "fon_kodu": "KSH",
       "fon_adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. TEKNOLOJİ SEKTÖRÜ KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Katılım Fonu",
       "getiri_1_ay": -8.5024,
       "getiri_3_ay": -4.9988,
       "getiri_6_ay": 20.4797,
@@ -3184,6 +3760,8 @@
     {
       "fon_kodu": "KLT",
       "fon_adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. TEMETTÜ ÖDEYEN ŞİRKETLER KATILIM HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Katılım Hisse Senedi Fonu",
       "getiri_1_ay": -1.9328,
       "getiri_3_ay": 1.2974,
       "getiri_6_ay": 19.4697,
@@ -3195,6 +3773,8 @@
     {
       "fon_kodu": "MEA",
       "fon_adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. ALTIN KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Altın Katılım Fonu",
       "getiri_1_ay": 0.0323,
       "getiri_3_ay": 3.2994,
       "getiri_6_ay": -7.2691,
@@ -3206,6 +3786,8 @@
     {
       "fon_kodu": "MHB",
       "fon_adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. BAŞLANGIÇ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 1,
+      "fon_turu": "Başlangıç Fonu",
       "getiri_1_ay": 3.3559,
       "getiri_3_ay": 10.5872,
       "getiri_6_ay": 22.3551,
@@ -3217,6 +3799,8 @@
     {
       "fon_kodu": "MHC",
       "fon_adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 1,
+      "fon_turu": "Başlangıç Katılım Fonu",
       "getiri_1_ay": 3.2377,
       "getiri_3_ay": 10.3475,
       "getiri_6_ay": 21.8059,
@@ -3228,6 +3812,8 @@
     {
       "fon_kodu": "MEB",
       "fon_adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Borçlanma Araçları Fonu",
       "getiri_1_ay": 3.623,
       "getiri_3_ay": 8.8734,
       "getiri_6_ay": 17.6173,
@@ -3239,6 +3825,8 @@
     {
       "fon_kodu": "MHG",
       "fon_adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. BORÇLANMA ARAÇLARI GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Borçlanma Araçları Fonu",
       "getiri_1_ay": 3.3697,
       "getiri_3_ay": 7.3775,
       "getiri_6_ay": 15.4246,
@@ -3250,6 +3838,8 @@
     {
       "fon_kodu": "MHY",
       "fon_adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. DENGELİ DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 1.2059,
       "getiri_3_ay": 0.695,
       "getiri_6_ay": 7.7722,
@@ -3261,6 +3851,8 @@
     {
       "fon_kodu": "MHH",
       "fon_adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": 0.9175,
       "getiri_3_ay": -1.6991,
       "getiri_6_ay": 6.3646,
@@ -3272,6 +3864,8 @@
     {
       "fon_kodu": "MHD",
       "fon_adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. KAMU DIŞ BORÇLANMA ARAÇLARI (ABD DOLARI 0-5 YIL VADELİ) EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Kamu Yabancı Para (Döviz) Cinsinden Borçlanma Araç",
       "getiri_1_ay": 1.12,
       "getiri_3_ay": 4.9981,
       "getiri_6_ay": 11.7862,
@@ -3283,6 +3877,8 @@
     {
       "fon_kodu": "MHA",
       "fon_adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. KATILIM KATKI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Katılım Katkı Fonu",
       "getiri_1_ay": 1.9038,
       "getiri_3_ay": 3.834,
       "getiri_6_ay": 16.3042,
@@ -3294,6 +3890,8 @@
     {
       "fon_kodu": "MHS",
       "fon_adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Katılım Standart Fon",
       "getiri_1_ay": 2.5332,
       "getiri_3_ay": 5.7298,
       "getiri_6_ay": 16.214,
@@ -3305,6 +3903,8 @@
     {
       "fon_kodu": "MHT",
       "fon_adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. KATKI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Devlet Katkısı Fonu",
       "getiri_1_ay": 2.491,
       "getiri_3_ay": 2.6299,
       "getiri_6_ay": 10.8968,
@@ -3316,6 +3916,8 @@
     {
       "fon_kodu": "MHE",
       "fon_adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. MUTLAK GETİRİ HEDEFLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.2811,
       "getiri_3_ay": 7.5621,
       "getiri_6_ay": 14.3942,
@@ -3327,6 +3929,8 @@
     {
       "fon_kodu": "MHR",
       "fon_adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. OKS AGRESİF DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 1.0899,
       "getiri_3_ay": 0.2915,
       "getiri_6_ay": 9.0811,
@@ -3338,6 +3942,8 @@
     {
       "fon_kodu": "MHV",
       "fon_adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. OKS AGRESİF KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 1.8063,
       "getiri_3_ay": 1.6729,
       "getiri_6_ay": 15.0958,
@@ -3349,6 +3955,8 @@
     {
       "fon_kodu": "MHO",
       "fon_adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. OKS ATAK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 1.8234,
       "getiri_3_ay": 3.2011,
       "getiri_6_ay": 13.0311,
@@ -3360,6 +3968,8 @@
     {
       "fon_kodu": "MHU",
       "fon_adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. OKS ATAK KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 1.9857,
       "getiri_3_ay": 2.3626,
       "getiri_6_ay": 15.0088,
@@ -3371,6 +3981,8 @@
     {
       "fon_kodu": "MHN",
       "fon_adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. OKS DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.1366,
       "getiri_3_ay": 4.2961,
       "getiri_6_ay": 14.7438,
@@ -3382,6 +3994,8 @@
     {
       "fon_kodu": "MHI",
       "fon_adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. OKS KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "OKS Katılım Standart Fon",
       "getiri_1_ay": 2.2776,
       "getiri_3_ay": 5.0174,
       "getiri_6_ay": 13.6592,
@@ -3393,6 +4007,8 @@
     {
       "fon_kodu": "MHZ",
       "fon_adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. OKS STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "OKS Standart Fon",
       "getiri_1_ay": 2.4947,
       "getiri_3_ay": 4.8766,
       "getiri_6_ay": 11.8078,
@@ -3404,6 +4020,8 @@
     {
       "fon_kodu": "MHM",
       "fon_adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. OKS TEMKİNLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 3.2726,
       "getiri_3_ay": 10.1923,
       "getiri_6_ay": 21.2206,
@@ -3415,6 +4033,8 @@
     {
       "fon_kodu": "MHL",
       "fon_adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. PARA PİYASASI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Para Piyasası Fonu",
       "getiri_1_ay": 3.2321,
       "getiri_3_ay": 10.3638,
       "getiri_6_ay": 22.1756,
@@ -3426,6 +4046,8 @@
     {
       "fon_kodu": "MHK",
       "fon_adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Standart Fon",
       "getiri_1_ay": 4.5207,
       "getiri_3_ay": 6.4491,
       "getiri_6_ay": 14.1767,
@@ -3437,6 +4059,8 @@
     {
       "fon_kodu": "MEY",
       "fon_adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. SÜRDÜRÜLEBİLİRLİK FON SEPETİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Fon Sepeti Fonu",
       "getiri_1_ay": 1.9124,
       "getiri_3_ay": 5.0257,
       "getiri_6_ay": 17.633,
@@ -3448,6 +4072,8 @@
     {
       "fon_kodu": "MEV",
       "fon_adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş.TEKNOLOJİ FON SEPETİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Fon Sepeti Fonu",
       "getiri_1_ay": -7.8772,
       "getiri_3_ay": -3.6635,
       "getiri_6_ay": 26.1653,
@@ -3459,6 +4085,8 @@
     {
       "fon_kodu": "CHT",
       "fon_adi": "QNB SAĞLIK HAYAT  SİGORTA VE EMEKLİLİK A.Ş. KATKI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Devlet Katkısı Fonu",
       "getiri_1_ay": 2.4257,
       "getiri_3_ay": 5.0501,
       "getiri_6_ay": 11.6891,
@@ -3470,6 +4098,8 @@
     {
       "fon_kodu": "CHL",
       "fon_adi": "QNB SAĞLIK HAYAT  SİGORTA VE EMEKLİLİK A.Ş. PARA PİYASASI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Para Piyasası Fonu",
       "getiri_1_ay": 3.2891,
       "getiri_3_ay": 10.3901,
       "getiri_6_ay": 22.1336,
@@ -3481,6 +4111,8 @@
     {
       "fon_kodu": "CFA",
       "fon_adi": "QNB SAĞLIK HAYAT SİGORTA VE EMEKLİLİK A.Ş. ALTIN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Altın Fonu",
       "getiri_1_ay": 0.2795,
       "getiri_3_ay": 3.8165,
       "getiri_6_ay": -6.1001,
@@ -3492,6 +4124,8 @@
     {
       "fon_kodu": "CFB",
       "fon_adi": "QNB SAĞLIK HAYAT SİGORTA VE EMEKLİLİK A.Ş. BAŞLANGIÇ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 1,
+      "fon_turu": "Başlangıç Fonu",
       "getiri_1_ay": 3.628,
       "getiri_3_ay": 10.6659,
       "getiri_6_ay": 22.0806,
@@ -3503,6 +4137,8 @@
     {
       "fon_kodu": "CFY",
       "fon_adi": "QNB SAĞLIK HAYAT SİGORTA VE EMEKLİLİK A.Ş. BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 1,
+      "fon_turu": "Başlangıç Katılım Fonu",
       "getiri_1_ay": 3.1449,
       "getiri_3_ay": 10.2504,
       "getiri_6_ay": 22.0661,
@@ -3514,6 +4150,8 @@
     {
       "fon_kodu": "CHK",
       "fon_adi": "QNB SAĞLIK HAYAT SİGORTA VE EMEKLİLİK A.Ş. BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Borçlanma Araçları Fonu",
       "getiri_1_ay": 3.2718,
       "getiri_3_ay": 6.4613,
       "getiri_6_ay": 14.2979,
@@ -3525,6 +4163,8 @@
     {
       "fon_kodu": "CGG",
       "fon_adi": "QNB SAĞLIK HAYAT SİGORTA VE EMEKLİLİK A.Ş. BORÇLANMA ARAÇLARI GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Borçlanma Araçları Fonu",
       "getiri_1_ay": 3.2884,
       "getiri_3_ay": 7.1659,
       "getiri_6_ay": 14.4008,
@@ -3536,6 +4176,8 @@
     {
       "fon_kodu": "CHH",
       "fon_adi": "QNB SAĞLIK HAYAT SİGORTA VE EMEKLİLİK A.Ş. BİRİNCİ HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": -0.8944,
       "getiri_3_ay": -0.9804,
       "getiri_6_ay": 6.8025,
@@ -3547,6 +4189,8 @@
     {
       "fon_kodu": "CHN",
       "fon_adi": "QNB SAĞLIK HAYAT SİGORTA VE EMEKLİLİK A.Ş. DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 0.8684,
       "getiri_3_ay": 2.5959,
       "getiri_6_ay": 6.7036,
@@ -3558,6 +4202,8 @@
     {
       "fon_kodu": "CGE",
       "fon_adi": "QNB SAĞLIK HAYAT SİGORTA VE EMEKLİLİK A.Ş. DENGELİ DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 1.7755,
       "getiri_3_ay": 3.9312,
       "getiri_6_ay": 7.82,
@@ -3569,6 +4215,8 @@
     {
       "fon_kodu": "CFD",
       "fon_adi": "QNB SAĞLIK HAYAT SİGORTA VE EMEKLİLİK A.Ş. DIŞ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Dış Borçlanma Araçları Fonu",
       "getiri_1_ay": 0.3018,
       "getiri_3_ay": 3.8178,
       "getiri_6_ay": 10.3874,
@@ -3580,6 +4228,8 @@
     {
       "fon_kodu": "CHM",
       "fon_adi": "QNB SAĞLIK HAYAT SİGORTA VE EMEKLİLİK A.Ş. DİNAMİK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -0.1643,
       "getiri_3_ay": 1.7379,
       "getiri_6_ay": 8.2834,
@@ -3591,6 +4241,8 @@
     {
       "fon_kodu": "CFK",
       "fon_adi": "QNB SAĞLIK HAYAT SİGORTA VE EMEKLİLİK A.Ş. KATILIM KATKI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Katılım Katkı Fonu",
       "getiri_1_ay": 2.9282,
       "getiri_3_ay": 7.0263,
       "getiri_6_ay": 18.5157,
@@ -3602,6 +4254,8 @@
     {
       "fon_kodu": "CHG",
       "fon_adi": "QNB SAĞLIK HAYAT SİGORTA VE EMEKLİLİK A.Ş. OKS AGRESİF DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 0.8627,
       "getiri_3_ay": 2.0121,
       "getiri_6_ay": 4.7451,
@@ -3613,6 +4267,8 @@
     {
       "fon_kodu": "CHD",
       "fon_adi": "QNB SAĞLIK HAYAT SİGORTA VE EMEKLİLİK A.Ş. OKS AGRESİF KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 1.2721,
       "getiri_3_ay": 4.2156,
       "getiri_6_ay": 17.2105,
@@ -3624,6 +4280,8 @@
     {
       "fon_kodu": "CHO",
       "fon_adi": "QNB SAĞLIK HAYAT SİGORTA VE EMEKLİLİK A.Ş. OKS ATAK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 1.4678,
       "getiri_3_ay": 5.1175,
       "getiri_6_ay": 9.0459,
@@ -3635,6 +4293,8 @@
     {
       "fon_kodu": "CHA",
       "fon_adi": "QNB SAĞLIK HAYAT SİGORTA VE EMEKLİLİK A.Ş. OKS DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 0.005,
       "getiri_3_ay": 1.5126,
       "getiri_6_ay": 6.1908,
@@ -3646,6 +4306,8 @@
     {
       "fon_kodu": "CHI",
       "fon_adi": "QNB SAĞLIK HAYAT SİGORTA VE EMEKLİLİK A.Ş. OKS DİNAMİK KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 1.8023,
       "getiri_3_ay": 5.1906,
       "getiri_6_ay": 13.6938,
@@ -3657,6 +4319,8 @@
     {
       "fon_kodu": "CFE",
       "fon_adi": "QNB SAĞLIK HAYAT SİGORTA VE EMEKLİLİK A.Ş. OKS KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "OKS Katılım Standart Fon",
       "getiri_1_ay": 2.9183,
       "getiri_3_ay": 7.2669,
       "getiri_6_ay": 17.3029,
@@ -3668,6 +4332,8 @@
     {
       "fon_kodu": "CHC",
       "fon_adi": "QNB SAĞLIK HAYAT SİGORTA VE EMEKLİLİK A.Ş. OKS MUHAFAZAKAR DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 3.3914,
       "getiri_3_ay": 9.2396,
       "getiri_6_ay": 17.8373,
@@ -3679,6 +4345,8 @@
     {
       "fon_kodu": "CHU",
       "fon_adi": "QNB SAĞLIK HAYAT SİGORTA VE EMEKLİLİK A.Ş. OKS STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "OKS Standart Fon",
       "getiri_1_ay": 2.2163,
       "getiri_3_ay": 6.4811,
       "getiri_6_ay": 14.7025,
@@ -3690,6 +4358,8 @@
     {
       "fon_kodu": "CFC",
       "fon_adi": "QNB SAĞLIK HAYAT SİGORTA VE EMEKLİLİK A.Ş. ORTA VADELİ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Borçlanma Araçları Fonu",
       "getiri_1_ay": 3.3031,
       "getiri_3_ay": 6.9194,
       "getiri_6_ay": 14.3421,
@@ -3701,6 +4371,8 @@
     {
       "fon_kodu": "CHS",
       "fon_adi": "QNB SAĞLIK HAYAT SİGORTA VE EMEKLİLİK A.Ş. STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Standart Fon",
       "getiri_1_ay": 2.4176,
       "getiri_3_ay": 6.3035,
       "getiri_6_ay": 14.2118,
@@ -3712,6 +4384,8 @@
     {
       "fon_kodu": "VGA",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. ALTIN KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Altın Katılım Fonu",
       "getiri_1_ay": -1.3536,
       "getiri_3_ay": 1.0088,
       "getiri_6_ay": -10.8018,
@@ -3723,6 +4397,8 @@
     {
       "fon_kodu": "VKJ",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. BAŞLANGIÇ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 1,
+      "fon_turu": "Başlangıç Fonu",
       "getiri_1_ay": 3.206,
       "getiri_3_ay": 10.555,
       "getiri_6_ay": 22.1852,
@@ -3734,6 +4410,8 @@
     {
       "fon_kodu": "VKE",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 1,
+      "fon_turu": "Başlangıç Katılım Fonu",
       "getiri_1_ay": 3.1213,
       "getiri_3_ay": 10.0833,
       "getiri_6_ay": 20.7619,
@@ -3745,6 +4423,8 @@
     {
       "fon_kodu": "HHB",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. BIST-30 DIŞI ŞİRKETLER HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": -2.1938,
       "getiri_3_ay": -6.5688,
       "getiri_6_ay": -0.555,
@@ -3756,6 +4436,8 @@
     {
       "fon_kodu": "VES",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Borçlanma Araçları Fonu",
       "getiri_1_ay": 2.9051,
       "getiri_3_ay": 8.8298,
       "getiri_6_ay": 18.8534,
@@ -3767,6 +4449,8 @@
     {
       "fon_kodu": "VEG",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. BİRİNCİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -0.6426,
       "getiri_3_ay": 4.0288,
       "getiri_6_ay": 14.3304,
@@ -3778,6 +4462,8 @@
     {
       "fon_kodu": "TML",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. BİRİNCİ YAŞAM DÖNGÜSÜ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Yaşam Döngüsü/Hedef Fon",
       "getiri_1_ay": 3.52,
       "getiri_3_ay": 2.3924,
       "getiri_6_ay": 5.513,
@@ -3789,6 +4475,8 @@
     {
       "fon_kodu": "ZHE",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 0.906,
       "getiri_3_ay": -2.5117,
       "getiri_6_ay": 4.0508,
@@ -3800,6 +4488,8 @@
     {
       "fon_kodu": "VGE",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. GÜMÜŞ KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Katılım Fonu",
       "getiri_1_ay": 1.2635,
       "getiri_3_ay": -3.2097,
       "getiri_6_ay": -3.7822,
@@ -3811,6 +4501,8 @@
     {
       "fon_kodu": "VEH",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": 2.5923,
       "getiri_3_ay": -0.9921,
       "getiri_6_ay": 7.8203,
@@ -3822,6 +4514,8 @@
     {
       "fon_kodu": "ZHG",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. KAMU BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Kamu Borçlanma Araçları Fonu",
       "getiri_1_ay": 2.8933,
       "getiri_3_ay": 7.2211,
       "getiri_6_ay": 13.6752,
@@ -3833,6 +4527,8 @@
     {
       "fon_kodu": "VET",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. KAMU DIŞ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Kamu Yabancı Para (Döviz) Cinsinden Borçlanma Araç",
       "getiri_1_ay": 0.1416,
       "getiri_3_ay": 3.7516,
       "getiri_6_ay": 10.9885,
@@ -3844,6 +4540,8 @@
     {
       "fon_kodu": "ZHD",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. KAMU DIŞ KİRA SERTİFİKALARI KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Kira Sertifikasi Katılım Fonu",
       "getiri_1_ay": 0.9595,
       "getiri_3_ay": 4.7135,
       "getiri_6_ay": 10.7424,
@@ -3855,6 +4553,8 @@
     {
       "fon_kodu": "HHY",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. KARMA EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Karma Fon",
       "getiri_1_ay": 1.6433,
       "getiri_3_ay": 4.2169,
       "getiri_6_ay": 6.4838,
@@ -3866,6 +4566,8 @@
     {
       "fon_kodu": "VEB",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. KATILIM DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Katılım Değişken Fon",
       "getiri_1_ay": 1.5695,
       "getiri_3_ay": 4.8739,
       "getiri_6_ay": 15.2778,
@@ -3877,6 +4579,8 @@
     {
       "fon_kodu": "VYB",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. KATILIM HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Katılım Hisse Senedi Fonu",
       "getiri_1_ay": 1.8213,
       "getiri_3_ay": 3.3105,
       "getiri_6_ay": 13.2153,
@@ -3888,6 +4592,8 @@
     {
       "fon_kodu": "KRM",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. KATILIM KARMA EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Karma Fon",
       "getiri_1_ay": 1.0344,
       "getiri_3_ay": 6.5451,
       "getiri_6_ay": 22.8433,
@@ -3899,6 +4605,8 @@
     {
       "fon_kodu": "VER",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. KATILIM KATKI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Katılım Katkı Fonu",
       "getiri_1_ay": 2.0814,
       "getiri_3_ay": 6.1055,
       "getiri_6_ay": 17.4446,
@@ -3910,6 +4618,8 @@
     {
       "fon_kodu": "VGB",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Katılım Standart Fon",
       "getiri_1_ay": 2.13,
       "getiri_3_ay": 4.5164,
       "getiri_6_ay": 14.0757,
@@ -3921,6 +4631,8 @@
     {
       "fon_kodu": "ZHF",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. KATILIM TEMKİNLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Katılım Değişken Fon",
       "getiri_1_ay": 2.0064,
       "getiri_3_ay": 6.651,
       "getiri_6_ay": 15.2626,
@@ -3932,6 +4644,8 @@
     {
       "fon_kodu": "VEI",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. KATKI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Devlet Katkısı Fonu",
       "getiri_1_ay": 2.6823,
       "getiri_3_ay": -0.1659,
       "getiri_6_ay": 8.0441,
@@ -3943,6 +4657,8 @@
     {
       "fon_kodu": "VGD",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. KIYMETLİ MADENLER KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Kıymetli Madenler",
       "getiri_1_ay": 0.2233,
       "getiri_3_ay": 1.784,
       "getiri_6_ay": -7.3084,
@@ -3954,6 +4670,8 @@
     {
       "fon_kodu": "THK",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. KİRA SERTİFİKALARI KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Kira Sertifikasi Katılım Fonu",
       "getiri_1_ay": 3.1022,
       "getiri_3_ay": 9.8727,
       "getiri_6_ay": 21.2851,
@@ -3965,6 +4683,8 @@
     {
       "fon_kodu": "TMN",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. MERKEZİ ALACAĞIN DEVRİ DENGELİ KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Merkezi Alacağın Devri Fonu",
       "getiri_1_ay": 1.3512,
       "getiri_3_ay": 3.2416,
       "getiri_6_ay": 12.5058,
@@ -3976,6 +4696,8 @@
     {
       "fon_kodu": "MDE",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. MERKEZİ ALACAĞIN DEVRİ TEMKİNLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Merkezi Alacağın Devri Fonu",
       "getiri_1_ay": 2.1529,
       "getiri_3_ay": 7.0984,
       "getiri_6_ay": 16.4644,
@@ -3987,6 +4709,8 @@
     {
       "fon_kodu": "VGF",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. OKS AGRESİF DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 0.3019,
       "getiri_3_ay": 1.2981,
       "getiri_6_ay": 11.933,
@@ -3998,6 +4722,8 @@
     {
       "fon_kodu": "VEO",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. OKS AGRESİF KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Katılım Değişken Fon",
       "getiri_1_ay": 1.432,
       "getiri_3_ay": 3.5601,
       "getiri_6_ay": 13.1258,
@@ -4009,6 +4735,8 @@
     {
       "fon_kodu": "VGH",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. OKS ATAK KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Katılım Değişken Fon",
       "getiri_1_ay": 0.9723,
       "getiri_3_ay": 3.8975,
       "getiri_6_ay": 15.1163,
@@ -4020,6 +4748,8 @@
     {
       "fon_kodu": "VEV",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. OKS DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 0.488,
       "getiri_3_ay": 6.462,
       "getiri_6_ay": 17.7951,
@@ -4031,6 +4761,8 @@
     {
       "fon_kodu": "VGG",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. OKS DENGELİ KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Katılım Değişken Fon",
       "getiri_1_ay": 2.6571,
       "getiri_3_ay": 8.2202,
       "getiri_6_ay": 20.1117,
@@ -4042,6 +4774,8 @@
     {
       "fon_kodu": "VGC",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. OKS DİNAMİK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.1472,
       "getiri_3_ay": -2.4358,
       "getiri_6_ay": 8.8828,
@@ -4053,6 +4787,8 @@
     {
       "fon_kodu": "VGK",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. OKS KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "OKS Katılım Standart Fon",
       "getiri_1_ay": 2.165,
       "getiri_3_ay": 4.9986,
       "getiri_6_ay": 14.0953,
@@ -4064,6 +4800,8 @@
     {
       "fon_kodu": "VED",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. OKS MUHAFAZAKAR KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Katılım Değişken Fon",
       "getiri_1_ay": 2.7529,
       "getiri_3_ay": 9.1574,
       "getiri_6_ay": 18.9743,
@@ -4075,6 +4813,8 @@
     {
       "fon_kodu": "VGZ",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. OKS STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "OKS Standart Fon",
       "getiri_1_ay": 2.4684,
       "getiri_3_ay": 5.3223,
       "getiri_6_ay": 10.1138,
@@ -4086,6 +4826,8 @@
     {
       "fon_kodu": "VEP",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. OKS TEMKİNLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 3.1083,
       "getiri_3_ay": 9.5105,
       "getiri_6_ay": 19.3032,
@@ -4097,6 +4839,8 @@
     {
       "fon_kodu": "VEL",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. PARA PİYASASI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Para Piyasası Fonu",
       "getiri_1_ay": 3.1411,
       "getiri_3_ay": 10.2975,
       "getiri_6_ay": 21.9886,
@@ -4108,6 +4852,8 @@
     {
       "fon_kodu": "VEY",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. PARA PİYASASI KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Para Piyasası Fonu",
       "getiri_1_ay": 3.0614,
       "getiri_3_ay": 9.9709,
       "getiri_6_ay": 21.1117,
@@ -4119,6 +4865,8 @@
     {
       "fon_kodu": "VGT",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. PERA 2 DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 0.9066,
       "getiri_3_ay": 4.8195,
       "getiri_6_ay": 12.5092,
@@ -4130,6 +4878,8 @@
     {
       "fon_kodu": "VGY",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. PERA 3 DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 2.4256,
       "getiri_3_ay": 5.4802,
       "getiri_6_ay": 14.4524,
@@ -4141,6 +4891,8 @@
     {
       "fon_kodu": "VEK",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Standart Fon",
       "getiri_1_ay": 0.7962,
       "getiri_3_ay": 2.9357,
       "getiri_6_ay": 9.4742,
@@ -4152,6 +4904,8 @@
     {
       "fon_kodu": "ZHB",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": 0.0509,
       "getiri_3_ay": 1.6845,
       "getiri_6_ay": 12.4887,
@@ -4163,6 +4917,8 @@
     {
       "fon_kodu": "THE",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. TARIM VE GIDA FON SEPETİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Fon Sepeti Fonu",
       "getiri_1_ay": 4.6524,
       "getiri_3_ay": 11.3553,
       "getiri_6_ay": 16.1704,
@@ -4174,6 +4930,8 @@
     {
       "fon_kodu": "TBJ",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. TEKNOLOJİ SEKTÖRÜ HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": -5.7014,
       "getiri_3_ay": -2.612,
       "getiri_6_ay": 20.155,
@@ -4185,6 +4943,8 @@
     {
       "fon_kodu": "HHM",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. TEKNOLOJİ SEKTÖRÜ KATILIM EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Katılım Fonu",
       "getiri_1_ay": -7.6929,
       "getiri_3_ay": -5.6243,
       "getiri_6_ay": 12.4339,
@@ -4196,6 +4956,8 @@
     {
       "fon_kodu": "VEU",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. TEMKİNLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 1.6698,
       "getiri_3_ay": 5.369,
       "getiri_6_ay": 10.4484,
@@ -4207,6 +4969,8 @@
     {
       "fon_kodu": "VGP",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. TURKCELL GRUBU ÇALIŞANLARINA YÖNELİK PERA 1 DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -2.2362,
       "getiri_3_ay": -6.911,
       "getiri_6_ay": -0.6853,
@@ -4218,6 +4982,8 @@
     {
       "fon_kodu": "TJY",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. ÜÇÜNCÜ YAŞAM DÖNGÜSÜ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Yaşam Döngüsü/Hedef Fon",
       "getiri_1_ay": 3.4321,
       "getiri_3_ay": 8.2886,
       "getiri_6_ay": 16.1825,
@@ -4229,6 +4995,8 @@
     {
       "fon_kodu": "TYJ",
       "fon_adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. İKİNCİ YAŞAM DÖNGÜSÜ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Yaşam Döngüsü/Hedef Fon",
       "getiri_1_ay": 2.4774,
       "getiri_3_ay": 3.8285,
       "getiri_6_ay": 10.5281,
@@ -4240,6 +5008,8 @@
     {
       "fon_kodu": "ANS",
       "fon_adi": "VİENNALİFE EMEKLİLİK VE HAYAT A.Ş. HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": -2.493,
       "getiri_3_ay": -6.6531,
       "getiri_6_ay": 4.9843,
@@ -4251,6 +5021,8 @@
     {
       "fon_kodu": "ANE",
       "fon_adi": "VİENNALİFE EMEKLİLİK VE HAYAT A.Ş. KARMA EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Karma Fon",
       "getiri_1_ay": -0.3723,
       "getiri_3_ay": 0.0956,
       "getiri_6_ay": 12.0802,
@@ -4262,6 +5034,8 @@
     {
       "fon_kodu": "AEY",
       "fon_adi": "VİENNALİFE EMEKLİLİK VE HAYAT A.Ş. KATKI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Devlet Katkısı Fonu",
       "getiri_1_ay": 2.9338,
       "getiri_3_ay": 4.6023,
       "getiri_6_ay": 15.6759,
@@ -4273,6 +5047,8 @@
     {
       "fon_kodu": "ANK",
       "fon_adi": "VİENNALİFE EMEKLİLİK VE HAYAT A.Ş. PARA PİYASASI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Para Piyasası Fonu",
       "getiri_1_ay": 1.7886,
       "getiri_3_ay": 8.7713,
       "getiri_6_ay": 20.134,
@@ -4284,6 +5060,8 @@
     {
       "fon_kodu": "ANG",
       "fon_adi": "VİENNALİFE EMEKLİLİK VE HAYAT A.Ş. STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Standart Fon",
       "getiri_1_ay": 3.1488,
       "getiri_3_ay": 6.1248,
       "getiri_6_ay": 16.1422,
@@ -4295,6 +5073,8 @@
     {
       "fon_kodu": "NHA",
       "fon_adi": "ZURICH YAŞAM VE EMEKLİLİK A.Ş. ALTIN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Altın Fonu",
       "getiri_1_ay": -0.3198,
       "getiri_3_ay": 2.8124,
       "getiri_6_ay": -8.3808,
@@ -4306,6 +5086,8 @@
     {
       "fon_kodu": "IEG",
       "fon_adi": "ZURICH YAŞAM VE EMEKLİLİK A.Ş. BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 3,
+      "fon_turu": "Borçlanma Araçları Fonu",
       "getiri_1_ay": 3.1871,
       "getiri_3_ay": 6.9104,
       "getiri_6_ay": 14.2393,
@@ -4317,6 +5099,8 @@
     {
       "fon_kodu": "IEE",
       "fon_adi": "ZURICH YAŞAM VE EMEKLİLİK A.Ş. DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 0.86,
       "getiri_3_ay": 2.4107,
       "getiri_6_ay": 6.7005,
@@ -4328,6 +5112,8 @@
     {
       "fon_kodu": "IEA",
       "fon_adi": "ZURICH YAŞAM VE EMEKLİLİK A.Ş. DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 0.8804,
       "getiri_3_ay": 4.833,
       "getiri_6_ay": 13.0442,
@@ -4339,6 +5125,8 @@
     {
       "fon_kodu": "IEF",
       "fon_adi": "ZURICH YAŞAM VE EMEKLİLİK A.Ş. DİNAMİK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 0.6589,
       "getiri_3_ay": 0.8987,
       "getiri_6_ay": 6.0015,
@@ -4350,6 +5138,8 @@
     {
       "fon_kodu": "IEH",
       "fon_adi": "ZURICH YAŞAM VE EMEKLİLİK A.Ş. HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Hisse Senedi Fonu",
       "getiri_1_ay": -0.4712,
       "getiri_3_ay": -4.1934,
       "getiri_6_ay": 0.3937,
@@ -4361,6 +5151,8 @@
     {
       "fon_kodu": "IEK",
       "fon_adi": "ZURICH YAŞAM VE EMEKLİLİK A.Ş. KARMA EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Karma Fon",
       "getiri_1_ay": 2.5944,
       "getiri_3_ay": 4.8518,
       "getiri_6_ay": 13.3866,
@@ -4372,6 +5164,8 @@
     {
       "fon_kodu": "IGE",
       "fon_adi": "ZURICH YAŞAM VE EMEKLİLİK A.Ş. KATKI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 5,
+      "fon_turu": "Devlet Katkısı Fonu",
       "getiri_1_ay": 2.6206,
       "getiri_3_ay": 3.2432,
       "getiri_6_ay": 11.2552,
@@ -4383,6 +5177,8 @@
     {
       "fon_kodu": "IER",
       "fon_adi": "ZURICH YAŞAM VE EMEKLİLİK A.Ş. PARA PİYASASI EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Para Piyasası Fonu",
       "getiri_1_ay": 3.1855,
       "getiri_3_ay": 10.1946,
       "getiri_6_ay": 21.9036,
@@ -4394,6 +5190,8 @@
     {
       "fon_kodu": "IEB",
       "fon_adi": "ZURICH YAŞAM VE EMEKLİLİK A.Ş. STANDART EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 4,
+      "fon_turu": "Standart Fon",
       "getiri_1_ay": 2.0556,
       "getiri_3_ay": 4.0242,
       "getiri_6_ay": 12.1326,
@@ -4405,6 +5203,8 @@
     {
       "fon_kodu": "NHM",
       "fon_adi": "ZURICH YAŞAM VE EMEKLİLİK A.Ş. TEMKİNLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 2,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": 3.3722,
       "getiri_3_ay": 6.759,
       "getiri_6_ay": 19.8634,
@@ -4416,6 +5216,8 @@
     {
       "fon_kodu": "NHN",
       "fon_adi": "ZURICH YAŞAM VE EMEKLİLİK A.Ş. İKİNCİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+      "risk_degeri": 6,
+      "fon_turu": "Değişken Fon",
       "getiri_1_ay": -0.7917,
       "getiri_3_ay": 1.5324,
       "getiri_6_ay": 6.4957,
