@@ -1,0 +1,1428 @@
+{
+  "hisse_kodu": "EUYO",
+  "kimlik": {
+    "hisse_kodu": "EUYO",
+    "hisse_sektor": "Menkul Kıymet Yat. Ort.",
+    "bilanco_aciklama_tarihi": "2026-08-06",
+    "son_guncelleme_zamani": "2026-09-27T11:23:20+00:00"
+  },
+  "fiyat": {
+    "guncel_fiyat": 3.67,
+    "guncel_fiyat_kaynagi": "fiyat_gecmisi",
+    "piyasa_degeri": 220200000.0,
+    "piyasa_degeri_kaynagi": "fiyat_gecmisi_x_pay_sayisi",
+    "pay_sayisi": 60000000.0,
+    "gunluk_degisim_pct": -0.8108,
+    "fiyat_tarihi": "2026-09-25"
+  },
+  "skor_ozeti": {
+    "hisse_skor": 26.33,
+    "hisse_skor_gorunumu": "Zayıf",
+    "skor_kapsama_pct": 75.0,
+    "skor_durumu": "Kısmi",
+    "eksik_bilesenler": [
+      "degerleme_puani"
+    ],
+    "temel_final_puan": 41.39,
+    "teknik_puan": 14.75,
+    "degerleme_puani": null
+  },
+  "temel": {
+    "puanlar": {
+      "karlilik_puani": 23.0,
+      "buyume_puani": 12.0,
+      "temel_degerleme_puani": 22.22,
+      "finansal_yapi_puani": 100.0,
+      "etkinlik_puani": 52.0,
+      "likidite_puani": 100.0,
+      "bonus_puani": 3.0,
+      "temel_puan": 38.39,
+      "temel_final_puan": 41.39
+    },
+    "gostergeler": {
+      "roe_yillik": -16.1245,
+      "roa_yillik": -15.2002,
+      "net_kar_marji_yillik": -20.5509,
+      "favok_marji_yillik": 17.8559,
+      "net_borc_favok_yillik": -6.4834,
+      "cari_oran": 31.1038
+    }
+  },
+  "degerleme": {
+    "ozet": {
+      "adil_deger": null,
+      "adil_deger_potansiyel_pct": null,
+      "degerleme_gorunumu": null,
+      "degerleme_puani": null,
+      "degerleme_puan_gorunumu": null,
+      "ham_degerleme_puani": null,
+      "adil_deger_guven_puani": null,
+      "yontem_uyum_puani": null,
+      "yontem_kapsama_puani": 20.0,
+      "dupont_kalite_puani": null,
+      "kullanilan_yontem_sayisi": 1.0,
+      "uygulanabilir_yontem_sayisi": 5.0,
+      "degerleme_durumu": "Yetersiz Değerleme Verisi",
+      "degerleme_grubu": "Holding / Yatırım Şirketleri"
+    },
+    "yontemler": {
+      "fk": {
+        "adil_deger": null,
+        "agirlik_pct": 0.0,
+        "durum": "⚠️ Veri Eksik"
+      },
+      "pd_dd": {
+        "adil_deger": 5.4873,
+        "agirlik_pct": 100.0,
+        "durum": "✅ Geçerli"
+      },
+      "pd_net_satis": {
+        "adil_deger": null,
+        "agirlik_pct": 0.0,
+        "durum": "— Uygulanamaz"
+      },
+      "fd_favok": {
+        "adil_deger": null,
+        "agirlik_pct": 0.0,
+        "durum": "— Uygulanamaz"
+      },
+      "fiyat_nakit_akis": {
+        "adil_deger": null,
+        "agirlik_pct": 0.0,
+        "durum": "⚠️ Veri Eksik"
+      },
+      "graham": {
+        "adil_deger": null,
+        "agirlik_pct": 0.0,
+        "durum": "⚠️ Veri Eksik"
+      },
+      "lynch": {
+        "adil_deger": null,
+        "agirlik_pct": 0.0,
+        "durum": "⚠️ F/K Eksik"
+      }
+    }
+  },
+  "teknik": {
+    "teknik_puan": 14.75,
+    "teknik_gorunum": "Güçlü Negatif",
+    "trend_ve_sinyaller": {
+      "kisa_vade_sinyali": "Guclu Negatif",
+      "kisa_vade_puani": 0.0,
+      "orta_vade_sinyali": "Guclu Negatif",
+      "orta_vade_puani": 0.0,
+      "uzun_vade_trend": "Guclu Negatif",
+      "uzun_vade_puani": 0.0,
+      "sma50_200_durum": "NEGATIF_YAPI",
+      "kesisim_sinyali": "YOK",
+      "supertrend_yonu": "NEGATIF_DEVAM",
+      "ichimoku_bulut_durumu": "BULUT_ALTI",
+      "hacim_ortalama_hacim": 0.311404,
+      "hafta52_konum_pct": -5.471125
+    },
+    "son_kesisim_turu": "DEATH_CROSS",
+    "son_kesisim_tarihi": "2026-08-24",
+    "ham_gostergeler": {
+      "teknik_tarih": "2026-09-25",
+      "guncel_fiyat": 3.67,
+      "gunluk_degisim_pct": -0.8108,
+      "ema8": 3.9096,
+      "ema21": 4.3261,
+      "sma20": 4.4155,
+      "sma50": 4.8728,
+      "sma200": 5.4221,
+      "rsi14": 24.2403,
+      "macd": -0.3612,
+      "macd_sinyal": -0.2753,
+      "macd_histogram": -0.0859,
+      "stokastik_k": 17.3913,
+      "stokastik_d": 14.4928,
+      "adx14": 25.0999,
+      "arti_di": 12.8157,
+      "eksi_di": 31.0008,
+      "mfi14": 21.2901,
+      "bollinger_konum_pct": 9.9267,
+      "son_seans_hacmi": 290851.0,
+      "ortalama_hacim_20g": 933999.0,
+      "hafta52_en_yuksek": 7.14,
+      "hafta52_en_dusuk": 3.85,
+      "supertrend": 4.4543
+    },
+    "yorumlar": {
+      "rsi_yorumu": "RSI 0-29,99 | 3 günlük güçlü düşüş",
+      "stokastik_yorumu": "20 altında %K>%D, yeni kesişim yok",
+      "mfi_yorumu": "MFI 20-39,99 | 3 günlük güçlü yükseliş",
+      "macd_yorumu": "MACD<0, MACD<Sinyal, histogram yükseliyor",
+      "adx_di_yorumu": "ADX bandı negatif yön puanı 20",
+      "hacim_yorumu": "Satış hacmi zayıf",
+      "bollinger_yorumu": "Alt banda yakın / güçlü negatif | 3 günlük güçlü yükseliş",
+      "hafta52_yorumu": "Fiyat 52H dip altında"
+    }
+  },
+  "oran_gecmisi": {
+    "finansal_donemler": [
+      "2026/6",
+      "2026/3",
+      "2025/12",
+      "2025/9",
+      "2025/6",
+      "2025/3",
+      "2024/12",
+      "2024/9",
+      "2024/6",
+      "2024/3"
+    ],
+    "fk": {
+      "ort_fk_gecmis": null,
+      "guncel": null,
+      "donemler": [
+        {
+          "finansal_donem": "2026/6",
+          "donem_fk_guncel_fiyatla": null
+        },
+        {
+          "finansal_donem": "2026/3",
+          "donem_fk_guncel_fiyatla": null
+        },
+        {
+          "finansal_donem": "2025/12",
+          "donem_fk_guncel_fiyatla": null
+        },
+        {
+          "finansal_donem": "2025/9",
+          "donem_fk_guncel_fiyatla": null
+        },
+        {
+          "finansal_donem": "2025/6",
+          "donem_fk_guncel_fiyatla": null
+        },
+        {
+          "finansal_donem": "2025/3",
+          "donem_fk_guncel_fiyatla": null
+        },
+        {
+          "finansal_donem": "2024/12",
+          "donem_fk_guncel_fiyatla": null
+        },
+        {
+          "finansal_donem": "2024/9",
+          "donem_fk_guncel_fiyatla": null
+        },
+        {
+          "finansal_donem": "2024/6",
+          "donem_fk_guncel_fiyatla": null
+        },
+        {
+          "finansal_donem": "2024/3",
+          "donem_fk_guncel_fiyatla": null
+        }
+      ]
+    },
+    "pd_dd": {
+      "ort_pd_dd_gecmis": 2.8549,
+      "guncel": 2.9381,
+      "donemler": [
+        {
+          "finansal_donem": "2026/6",
+          "donem_pd_dd_guncel_fiyatla": 2.6364
+        },
+        {
+          "finansal_donem": "2026/3",
+          "donem_pd_dd_guncel_fiyatla": 2.6329
+        },
+        {
+          "finansal_donem": "2025/12",
+          "donem_pd_dd_guncel_fiyatla": 2.3515
+        },
+        {
+          "finansal_donem": "2025/9",
+          "donem_pd_dd_guncel_fiyatla": 2.7885
+        },
+        {
+          "finansal_donem": "2025/6",
+          "donem_pd_dd_guncel_fiyatla": 2.9537
+        },
+        {
+          "finansal_donem": "2025/3",
+          "donem_pd_dd_guncel_fiyatla": 2.7552
+        },
+        {
+          "finansal_donem": "2024/12",
+          "donem_pd_dd_guncel_fiyatla": 2.6364
+        },
+        {
+          "finansal_donem": "2024/9",
+          "donem_pd_dd_guncel_fiyatla": 3.0627
+        },
+        {
+          "finansal_donem": "2024/6",
+          "donem_pd_dd_guncel_fiyatla": 3.1951
+        },
+        {
+          "finansal_donem": "2024/3",
+          "donem_pd_dd_guncel_fiyatla": 3.5367
+        }
+      ]
+    },
+    "fd_favok": {
+      "ort_fd_favok_gecmis": 8.2824,
+      "guncel": 14.1943,
+      "donemler": [
+        {
+          "finansal_donem": "2026/6",
+          "donem_fd_favok_guncel_fiyatla": 10.5393
+        },
+        {
+          "finansal_donem": "2026/3",
+          "donem_fd_favok_guncel_fiyatla": null
+        },
+        {
+          "finansal_donem": "2025/12",
+          "donem_fd_favok_guncel_fiyatla": 14.4215
+        },
+        {
+          "finansal_donem": "2025/9",
+          "donem_fd_favok_guncel_fiyatla": 9.4962
+        },
+        {
+          "finansal_donem": "2025/6",
+          "donem_fd_favok_guncel_fiyatla": 9.5575
+        },
+        {
+          "finansal_donem": "2025/3",
+          "donem_fd_favok_guncel_fiyatla": 4.1328
+        },
+        {
+          "finansal_donem": "2024/12",
+          "donem_fd_favok_guncel_fiyatla": 10.5393
+        },
+        {
+          "finansal_donem": "2024/9",
+          "donem_fd_favok_guncel_fiyatla": 6.0925
+        },
+        {
+          "finansal_donem": "2024/6",
+          "donem_fd_favok_guncel_fiyatla": 4.6581
+        },
+        {
+          "finansal_donem": "2024/3",
+          "donem_fd_favok_guncel_fiyatla": 5.1045
+        }
+      ]
+    },
+    "pd_net_satis": {
+      "ort_pd_net_satis_gecmis": 3.1827,
+      "guncel": 3.6821,
+      "donemler": [
+        {
+          "finansal_donem": "2026/6",
+          "donem_pd_net_satis_guncel_fiyatla": 3.304
+        },
+        {
+          "finansal_donem": "2026/3",
+          "donem_pd_net_satis_guncel_fiyatla": 3.7566
+        },
+        {
+          "finansal_donem": "2025/12",
+          "donem_pd_net_satis_guncel_fiyatla": 3.3538
+        },
+        {
+          "finansal_donem": "2025/9",
+          "donem_pd_net_satis_guncel_fiyatla": 3.2842
+        },
+        {
+          "finansal_donem": "2025/6",
+          "donem_pd_net_satis_guncel_fiyatla": 3.0653
+        },
+        {
+          "finansal_donem": "2025/3",
+          "donem_pd_net_satis_guncel_fiyatla": 2.7347
+        },
+        {
+          "finansal_donem": "2024/12",
+          "donem_pd_net_satis_guncel_fiyatla": 3.304
+        },
+        {
+          "finansal_donem": "2024/9",
+          "donem_pd_net_satis_guncel_fiyatla": 3.0896
+        },
+        {
+          "finansal_donem": "2024/6",
+          "donem_pd_net_satis_guncel_fiyatla": 2.8851
+        },
+        {
+          "finansal_donem": "2024/3",
+          "donem_pd_net_satis_guncel_fiyatla": 3.0494
+        }
+      ]
+    },
+    "fiyat_nakit_akis": {
+      "ort_fiyat_nakit_akis_gecmis": null,
+      "guncel": null,
+      "donemler": [
+        {
+          "finansal_donem": "2026/6",
+          "donem_fiyat_nakit_akis_guncel_fiyatla": null
+        },
+        {
+          "finansal_donem": "2026/3",
+          "donem_fiyat_nakit_akis_guncel_fiyatla": null
+        },
+        {
+          "finansal_donem": "2025/12",
+          "donem_fiyat_nakit_akis_guncel_fiyatla": null
+        },
+        {
+          "finansal_donem": "2025/9",
+          "donem_fiyat_nakit_akis_guncel_fiyatla": null
+        },
+        {
+          "finansal_donem": "2025/6",
+          "donem_fiyat_nakit_akis_guncel_fiyatla": null
+        },
+        {
+          "finansal_donem": "2025/3",
+          "donem_fiyat_nakit_akis_guncel_fiyatla": null
+        },
+        {
+          "finansal_donem": "2024/12",
+          "donem_fiyat_nakit_akis_guncel_fiyatla": null
+        },
+        {
+          "finansal_donem": "2024/9",
+          "donem_fiyat_nakit_akis_guncel_fiyatla": null
+        },
+        {
+          "finansal_donem": "2024/6",
+          "donem_fiyat_nakit_akis_guncel_fiyatla": null
+        },
+        {
+          "finansal_donem": "2024/3",
+          "donem_fiyat_nakit_akis_guncel_fiyatla": null
+        }
+      ]
+    }
+  },
+  "fiyat_performansi": {
+    "getiri_3ay_pct": -36.833,
+    "getiri_6ay_pct": -35.311,
+    "getiri_1yil_pct": -32.2878,
+    "getiri_3yil_pct": -28.506,
+    "getiri_5yil_pct": 256.3107,
+    "fiyat_1y_en_dusuk": 3.42,
+    "fiyat_1y_en_yuksek": 7.14,
+    "son_fiyat_tarihi": "2026-09-25",
+    "son_kapanis": 3.67,
+    "grafik_nokta_sayisi": 252
+  },
+  "fiyat_grafigi_1y": [
+    {
+      "tarih": "2025-09-25",
+      "kapanis": 5.42
+    },
+    {
+      "tarih": "2025-09-26",
+      "kapanis": 5.12
+    },
+    {
+      "tarih": "2025-09-29",
+      "kapanis": 4.68
+    },
+    {
+      "tarih": "2025-09-30",
+      "kapanis": 4.6333
+    },
+    {
+      "tarih": "2025-10-01",
+      "kapanis": 4.7833
+    },
+    {
+      "tarih": "2025-10-02",
+      "kapanis": 4.6433
+    },
+    {
+      "tarih": "2025-10-03",
+      "kapanis": 4.5867
+    },
+    {
+      "tarih": "2025-10-06",
+      "kapanis": 4.5767
+    },
+    {
+      "tarih": "2025-10-07",
+      "kapanis": 4.5967
+    },
+    {
+      "tarih": "2025-10-08",
+      "kapanis": 4.48
+    },
+    {
+      "tarih": "2025-10-09",
+      "kapanis": 4.5467
+    },
+    {
+      "tarih": "2025-10-10",
+      "kapanis": 4.6
+    },
+    {
+      "tarih": "2025-10-13",
+      "kapanis": 4.6333
+    },
+    {
+      "tarih": "2025-10-14",
+      "kapanis": 4.5433
+    },
+    {
+      "tarih": "2025-10-15",
+      "kapanis": 4.5833
+    },
+    {
+      "tarih": "2025-10-16",
+      "kapanis": 4.5233
+    },
+    {
+      "tarih": "2025-10-17",
+      "kapanis": 4.5667
+    },
+    {
+      "tarih": "2025-10-20",
+      "kapanis": 4.5167
+    },
+    {
+      "tarih": "2025-10-21",
+      "kapanis": 4.4933
+    },
+    {
+      "tarih": "2025-10-22",
+      "kapanis": 4.66
+    },
+    {
+      "tarih": "2025-10-23",
+      "kapanis": 4.6267
+    },
+    {
+      "tarih": "2025-10-24",
+      "kapanis": 4.6667
+    },
+    {
+      "tarih": "2025-10-27",
+      "kapanis": 4.5467
+    },
+    {
+      "tarih": "2025-10-28",
+      "kapanis": 4.5767
+    },
+    {
+      "tarih": "2025-10-30",
+      "kapanis": 4.5967
+    },
+    {
+      "tarih": "2025-10-31",
+      "kapanis": 4.6867
+    },
+    {
+      "tarih": "2025-11-03",
+      "kapanis": 4.6933
+    },
+    {
+      "tarih": "2025-11-04",
+      "kapanis": 4.8667
+    },
+    {
+      "tarih": "2025-11-05",
+      "kapanis": 4.7033
+    },
+    {
+      "tarih": "2025-11-06",
+      "kapanis": 4.7033
+    },
+    {
+      "tarih": "2025-11-07",
+      "kapanis": 4.6467
+    },
+    {
+      "tarih": "2025-11-10",
+      "kapanis": 4.5633
+    },
+    {
+      "tarih": "2025-11-11",
+      "kapanis": 4.43
+    },
+    {
+      "tarih": "2025-11-12",
+      "kapanis": 4.48
+    },
+    {
+      "tarih": "2025-11-13",
+      "kapanis": 4.48
+    },
+    {
+      "tarih": "2025-11-14",
+      "kapanis": 4.46
+    },
+    {
+      "tarih": "2025-11-17",
+      "kapanis": 4.46
+    },
+    {
+      "tarih": "2025-11-18",
+      "kapanis": 4.4667
+    },
+    {
+      "tarih": "2025-11-19",
+      "kapanis": 4.4133
+    },
+    {
+      "tarih": "2025-11-20",
+      "kapanis": 4.4133
+    },
+    {
+      "tarih": "2025-11-21",
+      "kapanis": 4.35
+    },
+    {
+      "tarih": "2025-11-24",
+      "kapanis": 4.33
+    },
+    {
+      "tarih": "2025-11-25",
+      "kapanis": 4.2333
+    },
+    {
+      "tarih": "2025-11-26",
+      "kapanis": 4.2067
+    },
+    {
+      "tarih": "2025-11-27",
+      "kapanis": 4.1333
+    },
+    {
+      "tarih": "2025-11-28",
+      "kapanis": 4.2333
+    },
+    {
+      "tarih": "2025-12-01",
+      "kapanis": 4.2
+    },
+    {
+      "tarih": "2025-12-02",
+      "kapanis": 4.2933
+    },
+    {
+      "tarih": "2025-12-03",
+      "kapanis": 4.2667
+    },
+    {
+      "tarih": "2025-12-04",
+      "kapanis": 4.2733
+    },
+    {
+      "tarih": "2025-12-05",
+      "kapanis": 4.2767
+    },
+    {
+      "tarih": "2025-12-08",
+      "kapanis": 4.28
+    },
+    {
+      "tarih": "2025-12-09",
+      "kapanis": 4.2667
+    },
+    {
+      "tarih": "2025-12-10",
+      "kapanis": 4.2867
+    },
+    {
+      "tarih": "2025-12-11",
+      "kapanis": 4.34
+    },
+    {
+      "tarih": "2025-12-12",
+      "kapanis": 4.2967
+    },
+    {
+      "tarih": "2025-12-15",
+      "kapanis": 4.2333
+    },
+    {
+      "tarih": "2025-12-16",
+      "kapanis": 4.2367
+    },
+    {
+      "tarih": "2025-12-17",
+      "kapanis": 4.5533
+    },
+    {
+      "tarih": "2025-12-18",
+      "kapanis": 4.6
+    },
+    {
+      "tarih": "2025-12-19",
+      "kapanis": 4.5767
+    },
+    {
+      "tarih": "2025-12-22",
+      "kapanis": 4.6467
+    },
+    {
+      "tarih": "2025-12-23",
+      "kapanis": 4.62
+    },
+    {
+      "tarih": "2025-12-24",
+      "kapanis": 4.6
+    },
+    {
+      "tarih": "2025-12-25",
+      "kapanis": 4.6267
+    },
+    {
+      "tarih": "2025-12-26",
+      "kapanis": 4.9267
+    },
+    {
+      "tarih": "2025-12-29",
+      "kapanis": 4.8133
+    },
+    {
+      "tarih": "2025-12-30",
+      "kapanis": 4.6733
+    },
+    {
+      "tarih": "2025-12-31",
+      "kapanis": 4.65
+    },
+    {
+      "tarih": "2026-01-02",
+      "kapanis": 4.5967
+    },
+    {
+      "tarih": "2026-01-05",
+      "kapanis": 4.6267
+    },
+    {
+      "tarih": "2026-01-06",
+      "kapanis": 4.64
+    },
+    {
+      "tarih": "2026-01-07",
+      "kapanis": 4.6267
+    },
+    {
+      "tarih": "2026-01-08",
+      "kapanis": 4.6333
+    },
+    {
+      "tarih": "2026-01-09",
+      "kapanis": 4.65
+    },
+    {
+      "tarih": "2026-01-12",
+      "kapanis": 4.6667
+    },
+    {
+      "tarih": "2026-01-13",
+      "kapanis": 4.6333
+    },
+    {
+      "tarih": "2026-01-14",
+      "kapanis": 4.6333
+    },
+    {
+      "tarih": "2026-01-15",
+      "kapanis": 4.5667
+    },
+    {
+      "tarih": "2026-01-16",
+      "kapanis": 4.5667
+    },
+    {
+      "tarih": "2026-01-19",
+      "kapanis": 4.49
+    },
+    {
+      "tarih": "2026-01-20",
+      "kapanis": 4.4167
+    },
+    {
+      "tarih": "2026-01-21",
+      "kapanis": 4.5867
+    },
+    {
+      "tarih": "2026-01-22",
+      "kapanis": 5.0433
+    },
+    {
+      "tarih": "2026-01-23",
+      "kapanis": 5.3667
+    },
+    {
+      "tarih": "2026-01-26",
+      "kapanis": 5.04
+    },
+    {
+      "tarih": "2026-01-27",
+      "kapanis": 4.9
+    },
+    {
+      "tarih": "2026-01-28",
+      "kapanis": 4.9367
+    },
+    {
+      "tarih": "2026-01-29",
+      "kapanis": 5.1233
+    },
+    {
+      "tarih": "2026-01-30",
+      "kapanis": 5.1967
+    },
+    {
+      "tarih": "2026-02-02",
+      "kapanis": 5.19
+    },
+    {
+      "tarih": "2026-02-03",
+      "kapanis": 5.7067
+    },
+    {
+      "tarih": "2026-02-04",
+      "kapanis": 5.9967
+    },
+    {
+      "tarih": "2026-02-05",
+      "kapanis": 5.62
+    },
+    {
+      "tarih": "2026-02-06",
+      "kapanis": 5.9467
+    },
+    {
+      "tarih": "2026-02-09",
+      "kapanis": 6.15
+    },
+    {
+      "tarih": "2026-02-10",
+      "kapanis": 6.08
+    },
+    {
+      "tarih": "2026-02-11",
+      "kapanis": 5.95
+    },
+    {
+      "tarih": "2026-02-12",
+      "kapanis": 5.7833
+    },
+    {
+      "tarih": "2026-02-13",
+      "kapanis": 6.0
+    },
+    {
+      "tarih": "2026-02-16",
+      "kapanis": 6.3867
+    },
+    {
+      "tarih": "2026-02-17",
+      "kapanis": 6.2633
+    },
+    {
+      "tarih": "2026-02-18",
+      "kapanis": 6.2167
+    },
+    {
+      "tarih": "2026-02-19",
+      "kapanis": 6.2
+    },
+    {
+      "tarih": "2026-02-20",
+      "kapanis": 6.4167
+    },
+    {
+      "tarih": "2026-02-23",
+      "kapanis": 6.4433
+    },
+    {
+      "tarih": "2026-02-24",
+      "kapanis": 6.2967
+    },
+    {
+      "tarih": "2026-02-25",
+      "kapanis": 6.4633
+    },
+    {
+      "tarih": "2026-02-26",
+      "kapanis": 6.3933
+    },
+    {
+      "tarih": "2026-02-27",
+      "kapanis": 6.3
+    },
+    {
+      "tarih": "2026-03-02",
+      "kapanis": 5.99
+    },
+    {
+      "tarih": "2026-03-03",
+      "kapanis": 6.3067
+    },
+    {
+      "tarih": "2026-03-04",
+      "kapanis": 6.1467
+    },
+    {
+      "tarih": "2026-03-05",
+      "kapanis": 6.24
+    },
+    {
+      "tarih": "2026-03-06",
+      "kapanis": 6.05
+    },
+    {
+      "tarih": "2026-03-09",
+      "kapanis": 5.9433
+    },
+    {
+      "tarih": "2026-03-10",
+      "kapanis": 5.9967
+    },
+    {
+      "tarih": "2026-03-11",
+      "kapanis": 5.99
+    },
+    {
+      "tarih": "2026-03-12",
+      "kapanis": 5.9267
+    },
+    {
+      "tarih": "2026-03-13",
+      "kapanis": 5.8933
+    },
+    {
+      "tarih": "2026-03-16",
+      "kapanis": 5.8167
+    },
+    {
+      "tarih": "2026-03-17",
+      "kapanis": 5.7633
+    },
+    {
+      "tarih": "2026-03-18",
+      "kapanis": 5.7633
+    },
+    {
+      "tarih": "2026-03-19",
+      "kapanis": 5.7467
+    },
+    {
+      "tarih": "2026-03-23",
+      "kapanis": 5.7467
+    },
+    {
+      "tarih": "2026-03-24",
+      "kapanis": 5.65
+    },
+    {
+      "tarih": "2026-03-25",
+      "kapanis": 5.6733
+    },
+    {
+      "tarih": "2026-03-26",
+      "kapanis": 5.58
+    },
+    {
+      "tarih": "2026-03-27",
+      "kapanis": 5.55
+    },
+    {
+      "tarih": "2026-03-30",
+      "kapanis": 5.4767
+    },
+    {
+      "tarih": "2026-03-31",
+      "kapanis": 6.0233
+    },
+    {
+      "tarih": "2026-04-01",
+      "kapanis": 5.85
+    },
+    {
+      "tarih": "2026-04-02",
+      "kapanis": 6.3367
+    },
+    {
+      "tarih": "2026-04-03",
+      "kapanis": 6.1
+    },
+    {
+      "tarih": "2026-04-06",
+      "kapanis": 6.39
+    },
+    {
+      "tarih": "2026-04-07",
+      "kapanis": 6.4933
+    },
+    {
+      "tarih": "2026-04-08",
+      "kapanis": 6.4333
+    },
+    {
+      "tarih": "2026-04-09",
+      "kapanis": 6.2367
+    },
+    {
+      "tarih": "2026-04-10",
+      "kapanis": 6.3867
+    },
+    {
+      "tarih": "2026-04-13",
+      "kapanis": 6.0
+    },
+    {
+      "tarih": "2026-04-14",
+      "kapanis": 6.28
+    },
+    {
+      "tarih": "2026-04-15",
+      "kapanis": 6.2467
+    },
+    {
+      "tarih": "2026-04-16",
+      "kapanis": 6.1
+    },
+    {
+      "tarih": "2026-04-17",
+      "kapanis": 6.3333
+    },
+    {
+      "tarih": "2026-04-20",
+      "kapanis": 6.41
+    },
+    {
+      "tarih": "2026-04-21",
+      "kapanis": 6.45
+    },
+    {
+      "tarih": "2026-04-22",
+      "kapanis": 6.34
+    },
+    {
+      "tarih": "2026-04-24",
+      "kapanis": 6.2
+    },
+    {
+      "tarih": "2026-04-27",
+      "kapanis": 6.11
+    },
+    {
+      "tarih": "2026-04-28",
+      "kapanis": 5.75
+    },
+    {
+      "tarih": "2026-04-29",
+      "kapanis": 5.61
+    },
+    {
+      "tarih": "2026-04-30",
+      "kapanis": 5.9
+    },
+    {
+      "tarih": "2026-05-04",
+      "kapanis": 5.65
+    },
+    {
+      "tarih": "2026-05-05",
+      "kapanis": 5.54
+    },
+    {
+      "tarih": "2026-05-06",
+      "kapanis": 5.47
+    },
+    {
+      "tarih": "2026-05-07",
+      "kapanis": 5.55
+    },
+    {
+      "tarih": "2026-05-08",
+      "kapanis": 5.35
+    },
+    {
+      "tarih": "2026-05-11",
+      "kapanis": 5.33
+    },
+    {
+      "tarih": "2026-05-12",
+      "kapanis": 5.5
+    },
+    {
+      "tarih": "2026-05-13",
+      "kapanis": 6.05
+    },
+    {
+      "tarih": "2026-05-14",
+      "kapanis": 5.78
+    },
+    {
+      "tarih": "2026-05-15",
+      "kapanis": 5.75
+    },
+    {
+      "tarih": "2026-05-18",
+      "kapanis": 5.53
+    },
+    {
+      "tarih": "2026-05-20",
+      "kapanis": 5.55
+    },
+    {
+      "tarih": "2026-05-21",
+      "kapanis": 5.36
+    },
+    {
+      "tarih": "2026-05-22",
+      "kapanis": 5.58
+    },
+    {
+      "tarih": "2026-05-25",
+      "kapanis": 5.64
+    },
+    {
+      "tarih": "2026-05-26",
+      "kapanis": 5.68
+    },
+    {
+      "tarih": "2026-06-01",
+      "kapanis": 5.61
+    },
+    {
+      "tarih": "2026-06-02",
+      "kapanis": 6.05
+    },
+    {
+      "tarih": "2026-06-03",
+      "kapanis": 6.59
+    },
+    {
+      "tarih": "2026-06-04",
+      "kapanis": 6.44
+    },
+    {
+      "tarih": "2026-06-05",
+      "kapanis": 6.58
+    },
+    {
+      "tarih": "2026-06-08",
+      "kapanis": 6.91
+    },
+    {
+      "tarih": "2026-06-09",
+      "kapanis": 6.88
+    },
+    {
+      "tarih": "2026-06-10",
+      "kapanis": 6.88
+    },
+    {
+      "tarih": "2026-06-11",
+      "kapanis": 6.56
+    },
+    {
+      "tarih": "2026-06-12",
+      "kapanis": 6.28
+    },
+    {
+      "tarih": "2026-06-15",
+      "kapanis": 6.18
+    },
+    {
+      "tarih": "2026-06-16",
+      "kapanis": 6.23
+    },
+    {
+      "tarih": "2026-06-17",
+      "kapanis": 6.1
+    },
+    {
+      "tarih": "2026-06-18",
+      "kapanis": 6.09
+    },
+    {
+      "tarih": "2026-06-19",
+      "kapanis": 6.06
+    },
+    {
+      "tarih": "2026-06-22",
+      "kapanis": 6.22
+    },
+    {
+      "tarih": "2026-06-23",
+      "kapanis": 6.19
+    },
+    {
+      "tarih": "2026-06-24",
+      "kapanis": 6.12
+    },
+    {
+      "tarih": "2026-06-25",
+      "kapanis": 5.81
+    },
+    {
+      "tarih": "2026-06-26",
+      "kapanis": 5.81
+    },
+    {
+      "tarih": "2026-06-29",
+      "kapanis": 5.7
+    },
+    {
+      "tarih": "2026-06-30",
+      "kapanis": 5.64
+    },
+    {
+      "tarih": "2026-07-01",
+      "kapanis": 5.68
+    },
+    {
+      "tarih": "2026-07-02",
+      "kapanis": 5.75
+    },
+    {
+      "tarih": "2026-07-03",
+      "kapanis": 5.62
+    },
+    {
+      "tarih": "2026-07-06",
+      "kapanis": 5.59
+    },
+    {
+      "tarih": "2026-07-07",
+      "kapanis": 5.25
+    },
+    {
+      "tarih": "2026-07-08",
+      "kapanis": 5.0
+    },
+    {
+      "tarih": "2026-07-09",
+      "kapanis": 4.97
+    },
+    {
+      "tarih": "2026-07-10",
+      "kapanis": 4.91
+    },
+    {
+      "tarih": "2026-07-13",
+      "kapanis": 4.88
+    },
+    {
+      "tarih": "2026-07-14",
+      "kapanis": 5.03
+    },
+    {
+      "tarih": "2026-07-16",
+      "kapanis": 5.03
+    },
+    {
+      "tarih": "2026-07-17",
+      "kapanis": 4.91
+    },
+    {
+      "tarih": "2026-07-20",
+      "kapanis": 4.91
+    },
+    {
+      "tarih": "2026-07-21",
+      "kapanis": 4.95
+    },
+    {
+      "tarih": "2026-07-22",
+      "kapanis": 4.99
+    },
+    {
+      "tarih": "2026-07-23",
+      "kapanis": 5.02
+    },
+    {
+      "tarih": "2026-07-24",
+      "kapanis": 4.98
+    },
+    {
+      "tarih": "2026-07-27",
+      "kapanis": 5.32
+    },
+    {
+      "tarih": "2026-07-28",
+      "kapanis": 5.47
+    },
+    {
+      "tarih": "2026-07-29",
+      "kapanis": 5.3
+    },
+    {
+      "tarih": "2026-07-30",
+      "kapanis": 5.01
+    },
+    {
+      "tarih": "2026-07-31",
+      "kapanis": 5.0
+    },
+    {
+      "tarih": "2026-08-03",
+      "kapanis": 5.09
+    },
+    {
+      "tarih": "2026-08-04",
+      "kapanis": 5.1
+    },
+    {
+      "tarih": "2026-08-05",
+      "kapanis": 5.09
+    },
+    {
+      "tarih": "2026-08-06",
+      "kapanis": 5.59
+    },
+    {
+      "tarih": "2026-08-07",
+      "kapanis": 5.9
+    },
+    {
+      "tarih": "2026-08-10",
+      "kapanis": 5.54
+    },
+    {
+      "tarih": "2026-08-11",
+      "kapanis": 5.55
+    },
+    {
+      "tarih": "2026-08-12",
+      "kapanis": 5.47
+    },
+    {
+      "tarih": "2026-08-13",
+      "kapanis": 5.53
+    },
+    {
+      "tarih": "2026-08-14",
+      "kapanis": 5.6
+    },
+    {
+      "tarih": "2026-08-17",
+      "kapanis": 5.3
+    },
+    {
+      "tarih": "2026-08-18",
+      "kapanis": 4.94
+    },
+    {
+      "tarih": "2026-08-19",
+      "kapanis": 5.0
+    },
+    {
+      "tarih": "2026-08-20",
+      "kapanis": 4.99
+    },
+    {
+      "tarih": "2026-08-21",
+      "kapanis": 4.97
+    },
+    {
+      "tarih": "2026-08-24",
+      "kapanis": 4.98
+    },
+    {
+      "tarih": "2026-08-25",
+      "kapanis": 4.95
+    },
+    {
+      "tarih": "2026-08-26",
+      "kapanis": 5.0
+    },
+    {
+      "tarih": "2026-08-27",
+      "kapanis": 4.94
+    },
+    {
+      "tarih": "2026-08-28",
+      "kapanis": 4.85
+    },
+    {
+      "tarih": "2026-08-31",
+      "kapanis": 4.75
+    },
+    {
+      "tarih": "2026-09-01",
+      "kapanis": 4.63
+    },
+    {
+      "tarih": "2026-09-02",
+      "kapanis": 4.99
+    },
+    {
+      "tarih": "2026-09-03",
+      "kapanis": 4.8
+    },
+    {
+      "tarih": "2026-09-04",
+      "kapanis": 4.84
+    },
+    {
+      "tarih": "2026-09-07",
+      "kapanis": 4.76
+    },
+    {
+      "tarih": "2026-09-08",
+      "kapanis": 4.69
+    },
+    {
+      "tarih": "2026-09-09",
+      "kapanis": 4.69
+    },
+    {
+      "tarih": "2026-09-10",
+      "kapanis": 4.76
+    },
+    {
+      "tarih": "2026-09-11",
+      "kapanis": 4.77
+    },
+    {
+      "tarih": "2026-09-14",
+      "kapanis": 4.69
+    },
+    {
+      "tarih": "2026-09-15",
+      "kapanis": 4.61
+    },
+    {
+      "tarih": "2026-09-16",
+      "kapanis": 4.58
+    },
+    {
+      "tarih": "2026-09-17",
+      "kapanis": 4.27
+    },
+    {
+      "tarih": "2026-09-18",
+      "kapanis": 4.09
+    },
+    {
+      "tarih": "2026-09-21",
+      "kapanis": 3.69
+    },
+    {
+      "tarih": "2026-09-22",
+      "kapanis": 3.6
+    },
+    {
+      "tarih": "2026-09-23",
+      "kapanis": 3.73
+    },
+    {
+      "tarih": "2026-09-24",
+      "kapanis": 3.7
+    },
+    {
+      "tarih": "2026-09-25",
+      "kapanis": 3.67
+    }
+  ]
+}

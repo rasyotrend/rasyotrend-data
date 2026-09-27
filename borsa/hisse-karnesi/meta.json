@@ -1,0 +1,27 @@
+{
+  "sistem": "RasyoTrend Hisse Karnesi",
+  "surum": "v005",
+  "uretim_zamani": "2026-09-27T11:23:20+00:00",
+  "hisse_sayisi": 630,
+  "kaynak_surume": {
+    "standart_veri": "v003",
+    "temel_analiz_puan": "v001",
+    "teknik_analiz": "v003",
+    "teknik_analiz_gecmis": "v003",
+    "teknik_analiz_puan": "v001",
+    "adil_deger": "v001",
+    "degerleme_puan": "v001",
+    "hisse_skor": "v001",
+    "temel_finansal_donem_gecmisi": "v003",
+    "fiyat_gecmisi": "v012"
+  },
+  "kurallar": {
+    "oran_gecmisi": "Geçmiş finansal dönem oranları güncel Piyasa Değeri ile dönemsel sabit bazlardan yeniden hesaplanır.",
+    "guncel_oran": "GÜNCEL oranlar Standart Veri / güncel Finansal Excel kaynağından doğrudan alınır.",
+    "guncel_fiyat_ve_piyasa_degeri": "Güncel fiyat Fiyat Geçmişindeki son kapanıştır. Geçmiş oranları yeniden hesaplamak için güncel Piyasa Değeri = güncel fiyat × pay_sayisi kullanılır; pay sayısı yoksa Standart Veri piyasa değeri yedektir.",
+    "ortalama": "ORT. yalnız geçmiş dönemlerde hesaplanan geçerli oranların aritmetik ortalamasıdır; GÜNCEL değer ortalamaya dahil edilmez; null değerler 0 sayılmaz.",
+    "maksimum_finansal_donem": 10,
+    "fiyat_grafigi": "Son 252 geçerli işlem günü kapanışı.",
+    "son_kesisim": "Teknik geçmişte SMA50/SMA200 ilişkisine göre son Golden Cross veya Death Cross hesaplanır."
+  }
+}
