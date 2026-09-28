@@ -2,12 +2,12 @@
   "hisse_kodu": "TRCAS",
   "hisse_sektor": "Petrol",
   "kaynak_sembol": "BIST:TRCAS",
-  "kayit_sayisi": 1300,
+  "kayit_sayisi": 1301,
   "ilk_tarih": "2021-07-14",
-  "son_tarih": "2026-09-25",
+  "son_tarih": "2026-09-28",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1300,
+    "mevcut_bar_sayisi": 1301,
     "durum": "HEDEF_TAMAMLANDI",
     "son_derinlestirme_zamani": "2026-09-25T13:13:39+00:00",
     "kaynakta_donen_bar_sayisi": 1300,
@@ -10413,6 +10413,14 @@
       "dusuk": 44.44,
       "kapanis": 45.5,
       "hacim": 327862
+    },
+    {
+      "tarih": "2026-09-28",
+      "acilis": 45.34,
+      "yuksek": 45.66,
+      "dusuk": 43.92,
+      "kapanis": 43.98,
+      "hacim": 348566
     }
   ]
 }

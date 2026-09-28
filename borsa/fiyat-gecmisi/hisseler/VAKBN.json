@@ -2,12 +2,12 @@
   "hisse_kodu": "VAKBN",
   "hisse_sektor": "Banka",
   "kaynak_sembol": "BIST:VAKBN",
-  "kayit_sayisi": 1300,
+  "kayit_sayisi": 1301,
   "ilk_tarih": "2021-07-14",
-  "son_tarih": "2026-09-25",
+  "son_tarih": "2026-09-28",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1300,
+    "mevcut_bar_sayisi": 1301,
     "durum": "HEDEF_TAMAMLANDI",
     "son_derinlestirme_zamani": "2026-09-25T13:14:08+00:00",
     "kaynakta_donen_bar_sayisi": 1300,
@@ -10413,6 +10413,14 @@
       "dusuk": 33.7,
       "kapanis": 33.8,
       "hacim": 27545721
+    },
+    {
+      "tarih": "2026-09-28",
+      "acilis": 33.34,
+      "yuksek": 34.14,
+      "dusuk": 32.8,
+      "kapanis": 33.82,
+      "hacim": 34531245
     }
   ]
 }

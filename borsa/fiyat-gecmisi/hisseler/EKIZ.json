@@ -2,12 +2,12 @@
   "hisse_kodu": "EKIZ",
   "hisse_sektor": "Gıda",
   "kaynak_sembol": "BIST:EKIZ",
-  "kayit_sayisi": 1300,
+  "kayit_sayisi": 1301,
   "ilk_tarih": "2021-07-14",
-  "son_tarih": "2026-09-25",
+  "son_tarih": "2026-09-28",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1300,
+    "mevcut_bar_sayisi": 1301,
     "durum": "HEDEF_TAMAMLANDI",
     "son_derinlestirme_zamani": "2026-09-25T13:04:53+00:00",
     "kaynakta_donen_bar_sayisi": 1300,
@@ -10413,6 +10413,14 @@
       "dusuk": 45.54,
       "kapanis": 47.38,
       "hacim": 13144
+    },
+    {
+      "tarih": "2026-09-28",
+      "acilis": 47.38,
+      "yuksek": 47.38,
+      "dusuk": 42.88,
+      "kapanis": 44.16,
+      "hacim": 18755
     }
   ]
 }

@@ -2,12 +2,12 @@
   "hisse_kodu": "TTRAK",
   "hisse_sektor": "Otomotiv",
   "kaynak_sembol": "BIST:TTRAK",
-  "kayit_sayisi": 1300,
+  "kayit_sayisi": 1301,
   "ilk_tarih": "2021-07-14",
-  "son_tarih": "2026-09-25",
+  "son_tarih": "2026-09-28",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1300,
+    "mevcut_bar_sayisi": 1301,
     "durum": "HEDEF_TAMAMLANDI",
     "son_derinlestirme_zamani": "2026-09-25T13:13:59+00:00",
     "kaynakta_donen_bar_sayisi": 1300,
@@ -10413,6 +10413,14 @@
       "dusuk": 405.75,
       "kapanis": 407,
       "hacim": 41094
+    },
+    {
+      "tarih": "2026-09-28",
+      "acilis": 405,
+      "yuksek": 408.25,
+      "dusuk": 395,
+      "kapanis": 407.75,
+      "hacim": 112877
     }
   ]
 }

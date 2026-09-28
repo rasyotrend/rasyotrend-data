@@ -2,12 +2,12 @@
   "hisse_kodu": "ISBTR",
   "hisse_sektor": "Banka",
   "kaynak_sembol": "BIST:ISBTR",
-  "kayit_sayisi": 1300,
+  "kayit_sayisi": 1301,
   "ilk_tarih": "2021-06-11",
-  "son_tarih": "2026-09-25",
+  "son_tarih": "2026-09-28",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1300,
+    "mevcut_bar_sayisi": 1301,
     "durum": "HEDEF_TAMAMLANDI",
     "son_derinlestirme_zamani": "2026-09-25T13:07:32+00:00",
     "kaynakta_donen_bar_sayisi": 1300,
@@ -10413,6 +10413,14 @@
       "dusuk": 439997.5,
       "kapanis": 439997.5,
       "hacim": 2
+    },
+    {
+      "tarih": "2026-09-28",
+      "acilis": 430000,
+      "yuksek": 430000,
+      "dusuk": 408000,
+      "kapanis": 408000,
+      "hacim": 6
     }
   ]
 }

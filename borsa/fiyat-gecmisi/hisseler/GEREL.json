@@ -2,12 +2,12 @@
   "hisse_kodu": "GEREL",
   "hisse_sektor": "Elektrik Malzemeleri",
   "kaynak_sembol": "BIST:GEREL",
-  "kayit_sayisi": 1300,
+  "kayit_sayisi": 1301,
   "ilk_tarih": "2021-07-14",
-  "son_tarih": "2026-09-25",
+  "son_tarih": "2026-09-28",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1300,
+    "mevcut_bar_sayisi": 1301,
     "durum": "HEDEF_TAMAMLANDI",
     "son_derinlestirme_zamani": "2026-09-25T13:06:02+00:00",
     "kaynakta_donen_bar_sayisi": 1300,
@@ -10413,6 +10413,14 @@
       "dusuk": 26.62,
       "kapanis": 29.26,
       "hacim": 8645863
+    },
+    {
+      "tarih": "2026-09-28",
+      "acilis": 29.26,
+      "yuksek": 30,
+      "dusuk": 26.34,
+      "kapanis": 26.34,
+      "hacim": 5428445
     }
   ]
 }

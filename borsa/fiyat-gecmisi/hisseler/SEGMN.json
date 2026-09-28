@@ -2,12 +2,12 @@
   "hisse_kodu": "SEGMN",
   "hisse_sektor": "Gıda",
   "kaynak_sembol": "BIST:SEGMN",
-  "kayit_sayisi": 560,
+  "kayit_sayisi": 561,
   "ilk_tarih": "2024-07-04",
-  "son_tarih": "2026-09-25",
+  "son_tarih": "2026-09-28",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 560,
+    "mevcut_bar_sayisi": 561,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T13:12:12+00:00",
     "kaynakta_donen_bar_sayisi": 560,
@@ -4493,6 +4493,14 @@
       "dusuk": 25.3,
       "kapanis": 27.1,
       "hacim": 1012117
+    },
+    {
+      "tarih": "2026-09-28",
+      "acilis": 27.1,
+      "yuksek": 27.1,
+      "dusuk": 24.4,
+      "kapanis": 24.4,
+      "hacim": 1972871
     }
   ]
 }

@@ -2,12 +2,12 @@
   "hisse_kodu": "PRKAB",
   "hisse_sektor": "Elektrik Malzemeleri",
   "kaynak_sembol": "BIST:PRKAB",
-  "kayit_sayisi": 1300,
+  "kayit_sayisi": 1301,
   "ilk_tarih": "2021-07-14",
-  "son_tarih": "2026-09-25",
+  "son_tarih": "2026-09-28",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1300,
+    "mevcut_bar_sayisi": 1301,
     "durum": "HEDEF_TAMAMLANDI",
     "son_derinlestirme_zamani": "2026-09-25T13:11:36+00:00",
     "kaynakta_donen_bar_sayisi": 1300,
@@ -10413,6 +10413,14 @@
       "dusuk": 25.7,
       "kapanis": 26.2,
       "hacim": 311872
+    },
+    {
+      "tarih": "2026-09-28",
+      "acilis": 26.3,
+      "yuksek": 26.3,
+      "dusuk": 24.78,
+      "kapanis": 24.98,
+      "hacim": 456988
     }
   ]
 }

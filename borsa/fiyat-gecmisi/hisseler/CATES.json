@@ -2,12 +2,12 @@
   "hisse_kodu": "CATES",
   "hisse_sektor": "Enerji",
   "kaynak_sembol": "BIST:CATES",
-  "kayit_sayisi": 701,
+  "kayit_sayisi": 702,
   "ilk_tarih": "2023-12-07",
-  "son_tarih": "2026-09-25",
+  "son_tarih": "2026-09-28",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 701,
+    "mevcut_bar_sayisi": 702,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T13:03:41+00:00",
     "kaynakta_donen_bar_sayisi": 701,
@@ -5621,6 +5621,14 @@
       "dusuk": 30.98,
       "kapanis": 33.72,
       "hacim": 4272697
+    },
+    {
+      "tarih": "2026-09-28",
+      "acilis": 33.72,
+      "yuksek": 33.76,
+      "dusuk": 31.48,
+      "kapanis": 32.4,
+      "hacim": 2010161
     }
   ]
 }

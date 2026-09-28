@@ -2,13 +2,13 @@
   "hisse_kodu": "A1YEN",
   "hisse_sektor": "Enerji",
   "kaynak_sembol": "BIST:A1YEN",
-  "kayit_sayisi": 1299,
+  "kayit_sayisi": 1300,
   "ilk_tarih": "2021-07-16",
-  "son_tarih": "2026-09-25",
+  "son_tarih": "2026-09-28",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1299,
-    "durum": "KAYNAKTA_MEVCUT_KADAR",
+    "mevcut_bar_sayisi": 1300,
+    "durum": "HEDEF_TAMAMLANDI",
     "son_derinlestirme_zamani": "2026-09-25T13:00:39+00:00",
     "kaynakta_donen_bar_sayisi": 1299,
     "son_hata": ""
@@ -10405,6 +10405,14 @@
       "dusuk": 1.6,
       "kapanis": 1.6,
       "hacim": 12987322
+    },
+    {
+      "tarih": "2026-09-28",
+      "acilis": 1.62,
+      "yuksek": 1.66,
+      "dusuk": 1.53,
+      "kapanis": 1.63,
+      "hacim": 23221663
     }
   ]
 }

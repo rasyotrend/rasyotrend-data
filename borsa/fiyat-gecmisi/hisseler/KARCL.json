@@ -2,12 +2,12 @@
   "hisse_kodu": "KARCL",
   "hisse_sektor": "Metal Ana Sanayi",
   "kaynak_sembol": "BIST:KARCL",
-  "kayit_sayisi": 41,
+  "kayit_sayisi": 42,
   "ilk_tarih": "2026-07-31",
-  "son_tarih": "2026-09-25",
+  "son_tarih": "2026-09-28",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 41,
+    "mevcut_bar_sayisi": 42,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:57:35+00:00",
     "kaynakta_donen_bar_sayisi": 41,
@@ -341,6 +341,14 @@
       "dusuk": 100.5,
       "kapanis": 100.5,
       "hacim": 32991
+    },
+    {
+      "tarih": "2026-09-28",
+      "acilis": 90.45,
+      "yuksek": 90.45,
+      "dusuk": 90.45,
+      "kapanis": 90.45,
+      "hacim": 30469
     }
   ]
 }
