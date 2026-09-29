@@ -2,12 +2,12 @@
   "hisse_kodu": "SAYAS",
   "hisse_sektor": "Elektrik Malzemeleri",
   "kaynak_sembol": "BIST:SAYAS",
-  "kayit_sayisi": 1301,
+  "kayit_sayisi": 1302,
   "ilk_tarih": "2021-07-14",
-  "son_tarih": "2026-09-28",
+  "son_tarih": "2026-09-29",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1301,
+    "mevcut_bar_sayisi": 1302,
     "durum": "HEDEF_TAMAMLANDI",
     "son_derinlestirme_zamani": "2026-09-25T13:12:09+00:00",
     "kaynakta_donen_bar_sayisi": 1300,
@@ -10421,6 +10421,14 @@
       "dusuk": 42.42,
       "kapanis": 42.7,
       "hacim": 1088149
+    },
+    {
+      "tarih": "2026-09-29",
+      "acilis": 42.14,
+      "yuksek": 42.64,
+      "dusuk": 40.52,
+      "kapanis": 40.6,
+      "hacim": 903086
     }
   ]
 }

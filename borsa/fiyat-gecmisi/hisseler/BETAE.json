@@ -2,12 +2,12 @@
   "hisse_kodu": "BETAE",
   "hisse_sektor": "Elektrik Malzemeleri",
   "kaynak_sembol": "BIST:BETAE",
-  "kayit_sayisi": 63,
+  "kayit_sayisi": 64,
   "ilk_tarih": "2026-07-01",
-  "son_tarih": "2026-09-28",
+  "son_tarih": "2026-09-29",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 63,
+    "mevcut_bar_sayisi": 64,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:58:09+00:00",
     "kaynakta_donen_bar_sayisi": 62,
@@ -517,6 +517,14 @@
       "dusuk": 55.25,
       "kapanis": 57.65,
       "hacim": 11536189
+    },
+    {
+      "tarih": "2026-09-29",
+      "acilis": 57.6,
+      "yuksek": 58.25,
+      "dusuk": 54.75,
+      "kapanis": 55.15,
+      "hacim": 5014750
     }
   ]
 }
