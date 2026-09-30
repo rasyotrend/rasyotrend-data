@@ -2,12 +2,12 @@
   "hisse_kodu": "INVES",
   "hisse_sektor": "Holding",
   "kaynak_sembol": "BIST:INVES",
-  "kayit_sayisi": 1145,
+  "kayit_sayisi": 1146,
   "ilk_tarih": "2022-03-01",
-  "son_tarih": "2026-09-29",
+  "son_tarih": "2026-09-30",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1145,
+    "mevcut_bar_sayisi": 1146,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T13:07:29+00:00",
     "kaynakta_donen_bar_sayisi": 1143,
@@ -9173,6 +9173,14 @@
       "dusuk": 675,
       "kapanis": 694.5,
       "hacim": 23771
+    },
+    {
+      "tarih": "2026-09-30",
+      "acilis": 694.5,
+      "yuksek": 700,
+      "dusuk": 685.5,
+      "kapanis": 696,
+      "hacim": 47296
     }
   ]
 }

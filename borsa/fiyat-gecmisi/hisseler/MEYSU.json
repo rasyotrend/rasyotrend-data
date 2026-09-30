@@ -2,12 +2,12 @@
   "hisse_kodu": "MEYSU",
   "hisse_sektor": "İçecek",
   "kaynak_sembol": "BIST:MEYSU",
-  "kayit_sayisi": 178,
+  "kayit_sayisi": 179,
   "ilk_tarih": "2026-01-13",
-  "son_tarih": "2026-09-29",
+  "son_tarih": "2026-09-30",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 178,
+    "mevcut_bar_sayisi": 179,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:59:00+00:00",
     "kaynakta_donen_bar_sayisi": 176,
@@ -1437,6 +1437,14 @@
       "dusuk": 8.06,
       "kapanis": 8.29,
       "hacim": 15482913
+    },
+    {
+      "tarih": "2026-09-30",
+      "acilis": 8.26,
+      "yuksek": 8.29,
+      "dusuk": 7.9,
+      "kapanis": 8.05,
+      "hacim": 8557621
     }
   ]
 }

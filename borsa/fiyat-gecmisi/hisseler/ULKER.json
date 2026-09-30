@@ -2,12 +2,12 @@
   "hisse_kodu": "ULKER",
   "hisse_sektor": "Gıda",
   "kaynak_sembol": "BIST:ULKER",
-  "kayit_sayisi": 1302,
+  "kayit_sayisi": 1303,
   "ilk_tarih": "2021-07-14",
-  "son_tarih": "2026-09-29",
+  "son_tarih": "2026-09-30",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1302,
+    "mevcut_bar_sayisi": 1303,
     "durum": "HEDEF_TAMAMLANDI",
     "son_derinlestirme_zamani": "2026-09-25T13:14:03+00:00",
     "kaynakta_donen_bar_sayisi": 1300,
@@ -10429,6 +10429,14 @@
       "dusuk": 85,
       "kapanis": 85.65,
       "hacim": 3585460
+    },
+    {
+      "tarih": "2026-09-30",
+      "acilis": 85.65,
+      "yuksek": 85.8,
+      "dusuk": 83.4,
+      "kapanis": 83.45,
+      "hacim": 4034845
     }
   ]
 }

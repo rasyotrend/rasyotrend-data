@@ -2,12 +2,12 @@
   "hisse_kodu": "SMRTG",
   "hisse_sektor": "Enerji",
   "kaynak_sembol": "BIST:SMRTG",
-  "kayit_sayisi": 1128,
+  "kayit_sayisi": 1129,
   "ilk_tarih": "2022-03-24",
-  "son_tarih": "2026-09-29",
+  "son_tarih": "2026-09-30",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1128,
+    "mevcut_bar_sayisi": 1129,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T13:12:44+00:00",
     "kaynakta_donen_bar_sayisi": 1126,
@@ -9037,6 +9037,14 @@
       "dusuk": 4.8,
       "kapanis": 4.92,
       "hacim": 20002601
+    },
+    {
+      "tarih": "2026-09-30",
+      "acilis": 4.92,
+      "yuksek": 4.92,
+      "dusuk": 4.5,
+      "kapanis": 4.72,
+      "hacim": 19068789
     }
   ]
 }

@@ -2,12 +2,12 @@
   "hisse_kodu": "SOKE",
   "hisse_sektor": "Gıda",
   "kaynak_sembol": "BIST:SOKE",
-  "kayit_sayisi": 926,
+  "kayit_sayisi": 927,
   "ilk_tarih": "2023-01-12",
-  "son_tarih": "2026-09-29",
+  "son_tarih": "2026-09-30",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 926,
+    "mevcut_bar_sayisi": 927,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T13:12:49+00:00",
     "kaynakta_donen_bar_sayisi": 924,
@@ -7421,6 +7421,14 @@
       "dusuk": 6.34,
       "kapanis": 6.4,
       "hacim": 12390764
+    },
+    {
+      "tarih": "2026-09-30",
+      "acilis": 6.15,
+      "yuksek": 6.35,
+      "dusuk": 5.85,
+      "kapanis": 6,
+      "hacim": 4544008
     }
   ]
 }
