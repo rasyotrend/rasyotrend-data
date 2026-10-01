@@ -2,12 +2,12 @@
   "hisse_kodu": "OBAMS",
   "hisse_sektor": "Gıda",
   "kaynak_sembol": "BIST:OBAMS",
-  "kayit_sayisi": 643,
+  "kayit_sayisi": 644,
   "ilk_tarih": "2024-03-01",
-  "son_tarih": "2026-09-30",
+  "son_tarih": "2026-10-01",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 643,
+    "mevcut_bar_sayisi": 644,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T13:10:46+00:00",
     "kaynakta_donen_bar_sayisi": 640,
@@ -5157,6 +5157,14 @@
       "dusuk": 4.19,
       "kapanis": 4.3,
       "hacim": 15815856
+    },
+    {
+      "tarih": "2026-10-01",
+      "acilis": 4.35,
+      "yuksek": 4.59,
+      "dusuk": 4.34,
+      "kapanis": 4.59,
+      "hacim": 20584545
     }
   ]
 }

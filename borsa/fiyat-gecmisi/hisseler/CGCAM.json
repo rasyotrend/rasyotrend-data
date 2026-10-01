@@ -2,12 +2,12 @@
   "hisse_kodu": "CGCAM",
   "hisse_sektor": "Cam",
   "kaynak_sembol": "BIST:CGCAM",
-  "kayit_sayisi": 448,
+  "kayit_sayisi": 449,
   "ilk_tarih": "2024-12-17",
-  "son_tarih": "2026-09-30",
+  "son_tarih": "2026-10-01",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 448,
+    "mevcut_bar_sayisi": 449,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T13:00:20+00:00",
     "kaynakta_donen_bar_sayisi": 445,
@@ -3597,6 +3597,14 @@
       "dusuk": 18.8,
       "kapanis": 19.4,
       "hacim": 1770588
+    },
+    {
+      "tarih": "2026-10-01",
+      "acilis": 19.4,
+      "yuksek": 21.26,
+      "dusuk": 19.18,
+      "kapanis": 20.42,
+      "hacim": 2561986
     }
   ]
 }

@@ -2,12 +2,12 @@
   "hisse_kodu": "SASA",
   "hisse_sektor": "Tekstil Kimyasalları",
   "kaynak_sembol": "BIST:SASA",
-  "kayit_sayisi": 1303,
+  "kayit_sayisi": 1304,
   "ilk_tarih": "2021-07-14",
-  "son_tarih": "2026-09-30",
+  "son_tarih": "2026-10-01",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1303,
+    "mevcut_bar_sayisi": 1304,
     "durum": "HEDEF_TAMAMLANDI",
     "son_derinlestirme_zamani": "2026-09-25T13:12:09+00:00",
     "kaynakta_donen_bar_sayisi": 1300,
@@ -10436,7 +10436,15 @@
       "yuksek": 1.9,
       "dusuk": 1.75,
       "kapanis": 1.8,
-      "hacim": 2849729929
+      "hacim": 2849729900
+    },
+    {
+      "tarih": "2026-10-01",
+      "acilis": 1.83,
+      "yuksek": 1.97,
+      "dusuk": 1.83,
+      "kapanis": 1.92,
+      "hacim": 2838137300
     }
   ]
 }

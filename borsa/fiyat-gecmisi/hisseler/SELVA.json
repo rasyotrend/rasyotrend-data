@@ -2,12 +2,12 @@
   "hisse_kodu": "SELVA",
   "hisse_sektor": "Gıda",
   "kaynak_sembol": "BIST:SELVA",
-  "kayit_sayisi": 1303,
+  "kayit_sayisi": 1304,
   "ilk_tarih": "2021-07-14",
-  "son_tarih": "2026-09-30",
+  "son_tarih": "2026-10-01",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1303,
+    "mevcut_bar_sayisi": 1304,
     "durum": "HEDEF_TAMAMLANDI",
     "son_derinlestirme_zamani": "2026-09-25T13:12:34+00:00",
     "kaynakta_donen_bar_sayisi": 1300,
@@ -10437,6 +10437,14 @@
       "dusuk": 1.1,
       "kapanis": 1.13,
       "hacim": 10188737
+    },
+    {
+      "tarih": "2026-10-01",
+      "acilis": 1.13,
+      "yuksek": 1.22,
+      "dusuk": 1.13,
+      "kapanis": 1.2,
+      "hacim": 12193358
     }
   ]
 }

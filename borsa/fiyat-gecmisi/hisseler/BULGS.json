@@ -2,12 +2,12 @@
   "hisse_kodu": "BULGS",
   "hisse_sektor": "Girişim Sermayesi Yat. Ort.",
   "kaynak_sembol": "BIST:BULGS",
-  "kayit_sayisi": 401,
+  "kayit_sayisi": 402,
   "ilk_tarih": "2025-02-21",
-  "son_tarih": "2026-09-30",
+  "son_tarih": "2026-10-01",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 401,
+    "mevcut_bar_sayisi": 402,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:59:21+00:00",
     "kaynakta_donen_bar_sayisi": 398,
@@ -3221,6 +3221,14 @@
       "dusuk": 12.24,
       "kapanis": 12.24,
       "hacim": 7797524
+    },
+    {
+      "tarih": "2026-10-01",
+      "acilis": 11.68,
+      "yuksek": 12.98,
+      "dusuk": 11.56,
+      "kapanis": 12.18,
+      "hacim": 7992266
     }
   ]
 }

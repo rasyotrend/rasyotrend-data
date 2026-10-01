@@ -2,12 +2,12 @@
   "hisse_kodu": "BALSU",
   "hisse_sektor": "Gıda",
   "kaynak_sembol": "BIST:BALSU",
-  "kayit_sayisi": 402,
+  "kayit_sayisi": 403,
   "ilk_tarih": "2025-02-20",
-  "son_tarih": "2026-09-30",
+  "son_tarih": "2026-10-01",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 402,
+    "mevcut_bar_sayisi": 403,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:59:23+00:00",
     "kaynakta_donen_bar_sayisi": 399,
@@ -3229,6 +3229,14 @@
       "dusuk": 6.46,
       "kapanis": 6.8,
       "hacim": 46642046
+    },
+    {
+      "tarih": "2026-10-01",
+      "acilis": 6.86,
+      "yuksek": 7.48,
+      "dusuk": 6.8,
+      "kapanis": 7.48,
+      "hacim": 50499579
     }
   ]
 }

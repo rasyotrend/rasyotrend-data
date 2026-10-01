@@ -2,12 +2,12 @@
   "hisse_kodu": "GOLDA",
   "hisse_sektor": "Gıda",
   "kaynak_sembol": "BIST:GOLDA",
-  "kayit_sayisi": 60,
+  "kayit_sayisi": 61,
   "ilk_tarih": "2026-07-08",
-  "son_tarih": "2026-09-30",
+  "son_tarih": "2026-10-01",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 60,
+    "mevcut_bar_sayisi": 61,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:57:55+00:00",
     "kaynakta_donen_bar_sayisi": 57,
@@ -493,6 +493,14 @@
       "dusuk": 7.36,
       "kapanis": 7.98,
       "hacim": 30303897
+    },
+    {
+      "tarih": "2026-10-01",
+      "acilis": 8.05,
+      "yuksek": 8.49,
+      "dusuk": 8.05,
+      "kapanis": 8.3,
+      "hacim": 21077691
     }
   ]
 }
