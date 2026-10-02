@@ -2,12 +2,12 @@
   "hisse_kodu": "KAYSE",
   "hisse_sektor": "Gıda",
   "kaynak_sembol": "BIST:KAYSE",
-  "kayit_sayisi": 845,
+  "kayit_sayisi": 846,
   "ilk_tarih": "2023-05-18",
-  "son_tarih": "2026-10-01",
+  "son_tarih": "2026-10-02",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 845,
+    "mevcut_bar_sayisi": 846,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T13:07:58+00:00",
     "kaynakta_donen_bar_sayisi": 841,
@@ -6773,6 +6773,14 @@
       "dusuk": 3,
       "kapanis": 3.11,
       "hacim": 7754885
+    },
+    {
+      "tarih": "2026-10-02",
+      "acilis": 3.1,
+      "yuksek": 3.18,
+      "dusuk": 3.07,
+      "kapanis": 3.07,
+      "hacim": 4481239
     }
   ]
 }

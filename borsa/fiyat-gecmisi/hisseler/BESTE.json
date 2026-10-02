@@ -2,12 +2,12 @@
   "hisse_kodu": "BESTE",
   "hisse_sektor": "Enerji",
   "kaynak_sembol": "BIST:BESTE",
-  "kayit_sayisi": 159,
+  "kayit_sayisi": 160,
   "ilk_tarih": "2026-02-11",
-  "son_tarih": "2026-10-01",
+  "son_tarih": "2026-10-02",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 159,
+    "mevcut_bar_sayisi": 160,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:58:36+00:00",
     "kaynakta_donen_bar_sayisi": 155,
@@ -1285,6 +1285,14 @@
       "dusuk": 18.46,
       "kapanis": 20,
       "hacim": 7563841
+    },
+    {
+      "tarih": "2026-10-02",
+      "acilis": 20,
+      "yuksek": 20.44,
+      "dusuk": 19.1,
+      "kapanis": 20.1,
+      "hacim": 5963914
     }
   ]
 }

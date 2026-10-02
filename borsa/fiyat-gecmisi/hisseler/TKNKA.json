@@ -2,12 +2,12 @@
   "hisse_kodu": "TKNKA",
   "hisse_sektor": "Diğer Kimyasal Ürünler",
   "kaynak_sembol": "BIST:TKNKA",
-  "kayit_sayisi": 31,
+  "kayit_sayisi": 32,
   "ilk_tarih": "2026-08-20",
-  "son_tarih": "2026-10-01",
+  "son_tarih": "2026-10-02",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 31,
+    "mevcut_bar_sayisi": 32,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:57:23+00:00",
     "kaynakta_donen_bar_sayisi": 27,
@@ -261,6 +261,14 @@
       "dusuk": 61.65,
       "kapanis": 61.65,
       "hacim": 15047694
+    },
+    {
+      "tarih": "2026-10-02",
+      "acilis": 61.65,
+      "yuksek": 63.8,
+      "dusuk": 55.5,
+      "kapanis": 55.5,
+      "hacim": 11491685
     }
   ]
 }

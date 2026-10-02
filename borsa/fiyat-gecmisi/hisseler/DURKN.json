@@ -2,12 +2,12 @@
   "hisse_kodu": "DURKN",
   "hisse_sektor": "Gıda",
   "kaynak_sembol": "BIST:DURKN",
-  "kayit_sayisi": 513,
+  "kayit_sayisi": 514,
   "ilk_tarih": "2024-09-17",
-  "son_tarih": "2026-10-01",
+  "son_tarih": "2026-10-02",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 513,
+    "mevcut_bar_sayisi": 514,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T13:00:37+00:00",
     "kaynakta_donen_bar_sayisi": 509,
@@ -4117,6 +4117,14 @@
       "dusuk": 9.91,
       "kapanis": 10.62,
       "hacim": 3820569
+    },
+    {
+      "tarih": "2026-10-02",
+      "acilis": 10.62,
+      "yuksek": 11.04,
+      "dusuk": 10.09,
+      "kapanis": 10.7,
+      "hacim": 5630265
     }
   ]
 }
