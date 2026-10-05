@@ -2,12 +2,12 @@
   "hisse_kodu": "QUICK",
   "hisse_sektor": "Sigorta Şirketleri",
   "kaynak_sembol": "BIST:QUICK",
-  "kayit_sayisi": 42,
+  "kayit_sayisi": 43,
   "ilk_tarih": "2026-08-06",
-  "son_tarih": "2026-10-02",
+  "son_tarih": "2026-10-05",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 42,
+    "mevcut_bar_sayisi": 43,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:57:33+00:00",
     "kaynakta_donen_bar_sayisi": 37,
@@ -349,6 +349,14 @@
       "dusuk": 41.48,
       "kapanis": 42.7,
       "hacim": 1604917
+    },
+    {
+      "tarih": "2026-10-05",
+      "acilis": 43.42,
+      "yuksek": 46.96,
+      "dusuk": 43.04,
+      "kapanis": 46.96,
+      "hacim": 4255259
     }
   ]
 }

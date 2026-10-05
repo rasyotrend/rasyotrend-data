@@ -2,12 +2,12 @@
   "hisse_kodu": "ENDAE",
   "hisse_sektor": "Enerji",
   "kaynak_sembol": "BIST:ENDAE",
-  "kayit_sayisi": 409,
+  "kayit_sayisi": 410,
   "ilk_tarih": "2025-02-13",
-  "son_tarih": "2026-10-02",
+  "son_tarih": "2026-10-05",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 409,
+    "mevcut_bar_sayisi": 410,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:59:26+00:00",
     "kaynakta_donen_bar_sayisi": 404,
@@ -3285,6 +3285,14 @@
       "dusuk": 12.7,
       "kapanis": 13.25,
       "hacim": 2768693
+    },
+    {
+      "tarih": "2026-10-05",
+      "acilis": 13.25,
+      "yuksek": 13.61,
+      "dusuk": 13.25,
+      "kapanis": 13.38,
+      "hacim": 1711660
     }
   ]
 }
