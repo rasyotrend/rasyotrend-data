@@ -2,12 +2,12 @@
   "hisse_kodu": "ENPRA",
   "hisse_sektor": "Banka",
   "kaynak_sembol": "BIST:ENPRA",
-  "kayit_sayisi": 124,
+  "kayit_sayisi": 125,
   "ilk_tarih": "2026-04-07",
-  "son_tarih": "2026-10-06",
+  "son_tarih": "2026-10-07",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 124,
+    "mevcut_bar_sayisi": 125,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:58:07+00:00",
     "kaynakta_donen_bar_sayisi": 117,
@@ -1005,6 +1005,14 @@
       "dusuk": 44.02,
       "kapanis": 44.02,
       "hacim": 31475
+    },
+    {
+      "tarih": "2026-10-07",
+      "acilis": 44,
+      "yuksek": 44.02,
+      "dusuk": 43.06,
+      "kapanis": 43.06,
+      "hacim": 43825
     }
   ]
 }
