@@ -2,12 +2,12 @@
   "hisse_kodu": "VEYAS",
   "hisse_sektor": "Enerji",
   "kaynak_sembol": "BIST:VEYAS",
-  "kayit_sayisi": 35,
+  "kayit_sayisi": 36,
   "ilk_tarih": "2026-08-20",
-  "son_tarih": "2026-10-07",
+  "son_tarih": "2026-10-08",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 35,
+    "mevcut_bar_sayisi": 36,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:57:28+00:00",
     "kaynakta_donen_bar_sayisi": 27,
@@ -293,6 +293,14 @@
       "dusuk": 74.5,
       "kapanis": 75,
       "hacim": 1347194
+    },
+    {
+      "tarih": "2026-10-08",
+      "acilis": 75.2,
+      "yuksek": 78.1,
+      "dusuk": 73.7,
+      "kapanis": 77.2,
+      "hacim": 984892
     }
   ]
 }

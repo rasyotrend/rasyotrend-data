@@ -2,12 +2,12 @@
   "hisse_kodu": "ALBTN",
   "hisse_sektor": "Çimento, Beton",
   "kaynak_sembol": "BIST:ALBTN",
-  "kayit_sayisi": 51,
+  "kayit_sayisi": 52,
   "ilk_tarih": "2026-07-29",
-  "son_tarih": "2026-10-07",
+  "son_tarih": "2026-10-08",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 51,
+    "mevcut_bar_sayisi": 52,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:57:40+00:00",
     "kaynakta_donen_bar_sayisi": 43,
@@ -421,6 +421,14 @@
       "dusuk": 21.98,
       "kapanis": 22.12,
       "hacim": 3446382
+    },
+    {
+      "tarih": "2026-10-08",
+      "acilis": 22.22,
+      "yuksek": 22.76,
+      "dusuk": 21.76,
+      "kapanis": 22.5,
+      "hacim": 3261474
     }
   ]
 }
