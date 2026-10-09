@@ -2,12 +2,12 @@
   "hisse_kodu": "ISVEA",
   "hisse_sektor": "Bina Malzemeleri",
   "kaynak_sembol": "BIST:ISVEA",
-  "kayit_sayisi": 64,
+  "kayit_sayisi": 65,
   "ilk_tarih": "2026-07-10",
-  "son_tarih": "2026-10-08",
+  "son_tarih": "2026-10-09",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 64,
+    "mevcut_bar_sayisi": 65,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:57:50+00:00",
     "kaynakta_donen_bar_sayisi": 55,
@@ -525,6 +525,14 @@
       "dusuk": 25.16,
       "kapanis": 27.9,
       "hacim": 23009000
+    },
+    {
+      "tarih": "2026-10-09",
+      "acilis": 27.14,
+      "yuksek": 30,
+      "dusuk": 25.8,
+      "kapanis": 25.8,
+      "hacim": 19760246
     }
   ]
 }
