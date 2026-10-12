@@ -2,12 +2,12 @@
   "hisse_kodu": "TBORG",
   "hisse_sektor": "İçecek",
   "kaynak_sembol": "BIST:TBORG",
-  "kayit_sayisi": 1310,
+  "kayit_sayisi": 1311,
   "ilk_tarih": "2021-07-14",
-  "son_tarih": "2026-10-09",
+  "son_tarih": "2026-10-12",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1310,
+    "mevcut_bar_sayisi": 1311,
     "durum": "HEDEF_TAMAMLANDI",
     "son_derinlestirme_zamani": "2026-09-25T13:13:29+00:00",
     "kaynakta_donen_bar_sayisi": 1300,
@@ -10493,6 +10493,14 @@
       "dusuk": 123,
       "kapanis": 123.5,
       "hacim": 74717
+    },
+    {
+      "tarih": "2026-10-12",
+      "acilis": 124.3,
+      "yuksek": 124.3,
+      "dusuk": 122.5,
+      "kapanis": 122.6,
+      "hacim": 44156
     }
   ]
 }

@@ -2,12 +2,12 @@
   "hisse_kodu": "DARDL",
   "hisse_sektor": "Gıda",
   "kaynak_sembol": "BIST:DARDL",
-  "kayit_sayisi": 1310,
+  "kayit_sayisi": 1311,
   "ilk_tarih": "2021-07-14",
-  "son_tarih": "2026-10-09",
+  "son_tarih": "2026-10-12",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1310,
+    "mevcut_bar_sayisi": 1311,
     "durum": "HEDEF_TAMAMLANDI",
     "son_derinlestirme_zamani": "2026-09-25T13:04:03+00:00",
     "kaynakta_donen_bar_sayisi": 1300,
@@ -10493,6 +10493,14 @@
       "dusuk": 1.12,
       "kapanis": 1.16,
       "hacim": 11913946
+    },
+    {
+      "tarih": "2026-10-12",
+      "acilis": 1.18,
+      "yuksek": 1.18,
+      "dusuk": 1.13,
+      "kapanis": 1.14,
+      "hacim": 8962033
     }
   ]
 }

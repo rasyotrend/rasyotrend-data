@@ -2,12 +2,12 @@
   "hisse_kodu": "INTET",
   "hisse_sektor": "Bilişim ve Yazılım",
   "kaynak_sembol": "BIST:INTET",
-  "kayit_sayisi": 29,
+  "kayit_sayisi": 30,
   "ilk_tarih": "2026-09-01",
-  "son_tarih": "2026-10-09",
+  "son_tarih": "2026-10-12",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 29,
+    "mevcut_bar_sayisi": 30,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:57:09+00:00",
     "kaynakta_donen_bar_sayisi": 19,
@@ -245,6 +245,14 @@
       "dusuk": 51.15,
       "kapanis": 51.7,
       "hacim": 4937809
+    },
+    {
+      "tarih": "2026-10-12",
+      "acilis": 51,
+      "yuksek": 51.7,
+      "dusuk": 48,
+      "kapanis": 48.24,
+      "hacim": 3973462
     }
   ]
 }

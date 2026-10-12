@@ -2,12 +2,12 @@
   "hisse_kodu": "PASEU",
   "hisse_sektor": "Ulaştırma",
   "kaynak_sembol": "BIST:PASEU",
-  "kayit_sayisi": 833,
+  "kayit_sayisi": 834,
   "ilk_tarih": "2023-06-14",
-  "son_tarih": "2026-10-09",
+  "son_tarih": "2026-10-12",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 833,
+    "mevcut_bar_sayisi": 834,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T13:11:21+00:00",
     "kaynakta_donen_bar_sayisi": 823,
@@ -6677,6 +6677,14 @@
       "dusuk": 45.06,
       "kapanis": 47.44,
       "hacim": 17244015
+    },
+    {
+      "tarih": "2026-10-12",
+      "acilis": 47.44,
+      "yuksek": 51,
+      "dusuk": 42.84,
+      "kapanis": 43,
+      "hacim": 22230670
     }
   ]
 }

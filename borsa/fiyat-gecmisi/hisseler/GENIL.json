@@ -2,13 +2,13 @@
   "hisse_kodu": "GENIL",
   "hisse_sektor": "İlaç&Sağlık",
   "kaynak_sembol": "BIST:GENIL",
-  "kayit_sayisi": 1299,
+  "kayit_sayisi": 1300,
   "ilk_tarih": "2021-08-05",
-  "son_tarih": "2026-10-09",
+  "son_tarih": "2026-10-12",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1299,
-    "durum": "KAYNAKTA_MEVCUT_KADAR",
+    "mevcut_bar_sayisi": 1300,
+    "durum": "HEDEF_TAMAMLANDI",
     "son_derinlestirme_zamani": "2026-09-25T13:06:09+00:00",
     "kaynakta_donen_bar_sayisi": 1289,
     "son_hata": ""
@@ -10405,6 +10405,14 @@
       "dusuk": 4.29,
       "kapanis": 4.67,
       "hacim": 180328196
+    },
+    {
+      "tarih": "2026-10-12",
+      "acilis": 4.76,
+      "yuksek": 5.13,
+      "dusuk": 4.72,
+      "kapanis": 5.13,
+      "hacim": 236963038
     }
   ]
 }
