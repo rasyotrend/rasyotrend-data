@@ -2,12 +2,12 @@
   "hisse_kodu": "AKHAN",
   "hisse_sektor": "Gıda",
   "kaynak_sembol": "BIST:AKHAN",
-  "kayit_sayisi": 169,
+  "kayit_sayisi": 170,
   "ilk_tarih": "2026-02-06",
-  "son_tarih": "2026-10-12",
+  "son_tarih": "2026-10-13",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 169,
+    "mevcut_bar_sayisi": 170,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:58:50+00:00",
     "kaynakta_donen_bar_sayisi": 158,
@@ -1365,6 +1365,14 @@
       "dusuk": 29.78,
       "kapanis": 30.2,
       "hacim": 1384235
+    },
+    {
+      "tarih": "2026-10-13",
+      "acilis": 30.68,
+      "yuksek": 30.68,
+      "dusuk": 29.26,
+      "kapanis": 30.48,
+      "hacim": 1316702
     }
   ]
 }
