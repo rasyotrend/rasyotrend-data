@@ -2,12 +2,12 @@
   "hisse_kodu": "SSAAT",
   "hisse_sektor": "Perakende Ticaret",
   "kaynak_sembol": "BIST:SSAAT",
-  "kayit_sayisi": 64,
+  "kayit_sayisi": 65,
   "ilk_tarih": "2026-07-16",
-  "son_tarih": "2026-10-13",
+  "son_tarih": "2026-10-14",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 64,
+    "mevcut_bar_sayisi": 65,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:57:48+00:00",
     "kaynakta_donen_bar_sayisi": 52,
@@ -525,6 +525,14 @@
       "dusuk": 25.86,
       "kapanis": 26,
       "hacim": 809204
+    },
+    {
+      "tarih": "2026-10-14",
+      "acilis": 26,
+      "yuksek": 26.14,
+      "dusuk": 25.34,
+      "kapanis": 25.98,
+      "hacim": 1155055
     }
   ]
 }
