@@ -2,12 +2,12 @@
   "hisse_kodu": "EUPWR",
   "hisse_sektor": "Elektrik Malzemeleri",
   "kaynak_sembol": "BIST:EUPWR",
-  "kayit_sayisi": 872,
+  "kayit_sayisi": 873,
   "ilk_tarih": "2023-04-20",
-  "son_tarih": "2026-10-14",
+  "son_tarih": "2026-10-15",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 872,
+    "mevcut_bar_sayisi": 873,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T13:05:30+00:00",
     "kaynakta_donen_bar_sayisi": 859,
@@ -6989,6 +6989,14 @@
       "dusuk": 45.28,
       "kapanis": 46.16,
       "hacim": 20263724
+    },
+    {
+      "tarih": "2026-10-15",
+      "acilis": 45.9,
+      "yuksek": 48.5,
+      "dusuk": 45.38,
+      "kapanis": 47.22,
+      "hacim": 12402451
     }
   ]
 }
