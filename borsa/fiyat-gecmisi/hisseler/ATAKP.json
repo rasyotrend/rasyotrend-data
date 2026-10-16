@@ -2,12 +2,12 @@
   "hisse_kodu": "ATAKP",
   "hisse_sektor": "Gıda",
   "kaynak_sembol": "BIST:ATAKP",
-  "kayit_sayisi": 809,
+  "kayit_sayisi": 810,
   "ilk_tarih": "2023-07-27",
-  "son_tarih": "2026-10-15",
+  "son_tarih": "2026-10-16",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 809,
+    "mevcut_bar_sayisi": 810,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T13:01:53+00:00",
     "kaynakta_donen_bar_sayisi": 795,
@@ -6485,6 +6485,14 @@
       "dusuk": 32.1,
       "kapanis": 32.5,
       "hacim": 222063
+    },
+    {
+      "tarih": "2026-10-16",
+      "acilis": 32.34,
+      "yuksek": 34.96,
+      "dusuk": 31.7,
+      "kapanis": 33.14,
+      "hacim": 336786
     }
   ]
 }

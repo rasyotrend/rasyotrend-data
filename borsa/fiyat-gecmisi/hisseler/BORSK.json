@@ -2,12 +2,12 @@
   "hisse_kodu": "BORSK",
   "hisse_sektor": "Gıda",
   "kaynak_sembol": "BIST:BORSK",
-  "kayit_sayisi": 666,
+  "kayit_sayisi": 667,
   "ilk_tarih": "2024-02-15",
-  "son_tarih": "2026-10-15",
+  "son_tarih": "2026-10-16",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 666,
+    "mevcut_bar_sayisi": 667,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T13:03:05+00:00",
     "kaynakta_donen_bar_sayisi": 652,
@@ -5341,6 +5341,14 @@
       "dusuk": 5.19,
       "kapanis": 5.23,
       "hacim": 1488908
+    },
+    {
+      "tarih": "2026-10-16",
+      "acilis": 5.05,
+      "yuksek": 5.17,
+      "dusuk": 4.9,
+      "kapanis": 4.92,
+      "hacim": 4464347
     }
   ]
 }
