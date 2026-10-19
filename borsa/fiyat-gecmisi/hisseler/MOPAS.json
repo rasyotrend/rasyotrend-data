@@ -2,12 +2,12 @@
   "hisse_kodu": "MOPAS",
   "hisse_sektor": "Perakende Ticaret",
   "kaynak_sembol": "BIST:MOPAS",
-  "kayit_sayisi": 430,
+  "kayit_sayisi": 431,
   "ilk_tarih": "2025-01-29",
-  "son_tarih": "2026-10-16",
+  "son_tarih": "2026-10-19",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 430,
+    "mevcut_bar_sayisi": 431,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T13:00:07+00:00",
     "kaynakta_donen_bar_sayisi": 415,
@@ -3453,6 +3453,14 @@
       "dusuk": 15.9,
       "kapanis": 16.08,
       "hacim": 1165923
+    },
+    {
+      "tarih": "2026-10-19",
+      "acilis": 16.08,
+      "yuksek": 16.5,
+      "dusuk": 15.71,
+      "kapanis": 15.81,
+      "hacim": 1432565
     }
   ]
 }

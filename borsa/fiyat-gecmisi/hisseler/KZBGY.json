@@ -2,13 +2,13 @@
   "hisse_kodu": "KZBGY",
   "hisse_sektor": "Gayrimenkul Yat. Ort.",
   "kaynak_sembol": "BIST:KZBGY",
-  "kayit_sayisi": 1299,
+  "kayit_sayisi": 1300,
   "ilk_tarih": "2021-08-12",
-  "son_tarih": "2026-10-16",
+  "son_tarih": "2026-10-19",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1299,
-    "durum": "KAYNAKTA_MEVCUT_KADAR",
+    "mevcut_bar_sayisi": 1300,
+    "durum": "HEDEF_TAMAMLANDI",
     "son_derinlestirme_zamani": "2026-09-25T13:08:59+00:00",
     "kaynakta_donen_bar_sayisi": 1284,
     "son_hata": ""
@@ -10405,6 +10405,14 @@
       "dusuk": 1.21,
       "kapanis": 1.24,
       "hacim": 15600275
+    },
+    {
+      "tarih": "2026-10-19",
+      "acilis": 1.24,
+      "yuksek": 1.28,
+      "dusuk": 1.2,
+      "kapanis": 1.2,
+      "hacim": 23358048
     }
   ]
 }
