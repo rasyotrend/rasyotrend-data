@@ -2,12 +2,12 @@
   "hisse_kodu": "YYLGD",
   "hisse_sektor": "Gıda",
   "kaynak_sembol": "BIST:YYLGD",
-  "kayit_sayisi": 1105,
+  "kayit_sayisi": 1106,
   "ilk_tarih": "2022-05-20",
-  "son_tarih": "2026-10-19",
+  "son_tarih": "2026-10-20",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1105,
+    "mevcut_bar_sayisi": 1106,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T13:14:39+00:00",
     "kaynakta_donen_bar_sayisi": 1089,
@@ -8853,6 +8853,14 @@
       "dusuk": 6.85,
       "kapanis": 6.85,
       "hacim": 3027480
+    },
+    {
+      "tarih": "2026-10-20",
+      "acilis": 6.85,
+      "yuksek": 7.07,
+      "dusuk": 6.79,
+      "kapanis": 7,
+      "hacim": 3266515
     }
   ]
 }

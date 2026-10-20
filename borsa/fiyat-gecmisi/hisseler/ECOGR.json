@@ -2,12 +2,12 @@
   "hisse_kodu": "ECOGR",
   "hisse_sektor": "Enerji",
   "kaynak_sembol": "BIST:ECOGR",
-  "kayit_sayisi": 242,
+  "kayit_sayisi": 243,
   "ilk_tarih": "2025-11-03",
-  "son_tarih": "2026-10-19",
+  "son_tarih": "2026-10-20",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 242,
+    "mevcut_bar_sayisi": 243,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:59:13+00:00",
     "kaynakta_donen_bar_sayisi": 226,
@@ -1949,6 +1949,14 @@
       "dusuk": 20.54,
       "kapanis": 22.08,
       "hacim": 3500382
+    },
+    {
+      "tarih": "2026-10-20",
+      "acilis": 21.84,
+      "yuksek": 24.18,
+      "dusuk": 21.08,
+      "kapanis": 22.2,
+      "hacim": 2706056
     }
   ]
 }
