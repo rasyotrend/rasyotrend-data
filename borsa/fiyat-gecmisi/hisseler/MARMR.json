@@ -2,12 +2,12 @@
   "hisse_kodu": "MARMR",
   "hisse_sektor": "Holding",
   "kaynak_sembol": "BIST:MARMR",
-  "kayit_sayisi": 278,
+  "kayit_sayisi": 279,
   "ilk_tarih": "2025-09-16",
-  "son_tarih": "2026-10-22",
+  "son_tarih": "2026-10-23",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 278,
+    "mevcut_bar_sayisi": 279,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:59:16+00:00",
     "kaynakta_donen_bar_sayisi": 259,
@@ -2237,6 +2237,14 @@
       "dusuk": 1.13,
       "kapanis": 1.14,
       "hacim": 24813432
+    },
+    {
+      "tarih": "2026-10-23",
+      "acilis": 1.14,
+      "yuksek": 1.14,
+      "dusuk": 1.05,
+      "kapanis": 1.1,
+      "hacim": 39660756
     }
   ]
 }
