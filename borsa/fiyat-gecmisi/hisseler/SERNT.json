@@ -2,12 +2,12 @@
   "hisse_kodu": "SERNT",
   "hisse_sektor": "Bina Malzemeleri",
   "kaynak_sembol": "BIST:SERNT",
-  "kayit_sayisi": 432,
+  "kayit_sayisi": 433,
   "ilk_tarih": "2025-02-04",
-  "son_tarih": "2026-10-26",
+  "son_tarih": "2026-10-27",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 432,
+    "mevcut_bar_sayisi": 433,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T13:00:02+00:00",
     "kaynakta_donen_bar_sayisi": 411,
@@ -3469,6 +3469,14 @@
       "dusuk": 5.09,
       "kapanis": 5.2,
       "hacim": 1546160
+    },
+    {
+      "tarih": "2026-10-27",
+      "acilis": 5.21,
+      "yuksek": 5.21,
+      "dusuk": 4.95,
+      "kapanis": 5.04,
+      "hacim": 1996971
     }
   ]
 }

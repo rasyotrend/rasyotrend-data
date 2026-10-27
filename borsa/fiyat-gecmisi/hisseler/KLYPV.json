@@ -2,12 +2,12 @@
   "hisse_kodu": "KLYPV",
   "hisse_sektor": "Enerji",
   "kaynak_sembol": "BIST:KLYPV",
-  "kayit_sayisi": 425,
+  "kayit_sayisi": 426,
   "ilk_tarih": "2025-02-13",
-  "son_tarih": "2026-10-26",
+  "son_tarih": "2026-10-27",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 425,
+    "mevcut_bar_sayisi": 426,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:59:32+00:00",
     "kaynakta_donen_bar_sayisi": 404,
@@ -3413,6 +3413,14 @@
       "dusuk": 46.5,
       "kapanis": 47.46,
       "hacim": 1666664
+    },
+    {
+      "tarih": "2026-10-27",
+      "acilis": 47.46,
+      "yuksek": 49.7,
+      "dusuk": 46.58,
+      "kapanis": 47.78,
+      "hacim": 804726
     }
   ]
 }

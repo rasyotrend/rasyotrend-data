@@ -2,13 +2,13 @@
   "hisse_kodu": "BRLSM",
   "hisse_sektor": "Bayındırlık ve İmar",
   "kaynak_sembol": "BIST:BRLSM",
-  "kayit_sayisi": 1299,
+  "kayit_sayisi": 1300,
   "ilk_tarih": "2021-08-20",
-  "son_tarih": "2026-10-26",
+  "son_tarih": "2026-10-27",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1299,
-    "durum": "KAYNAKTA_MEVCUT_KADAR",
+    "mevcut_bar_sayisi": 1300,
+    "durum": "HEDEF_TAMAMLANDI",
     "son_derinlestirme_zamani": "2026-09-25T13:03:10+00:00",
     "kaynakta_donen_bar_sayisi": 1278,
     "son_hata": ""
@@ -10405,6 +10405,14 @@
       "dusuk": 7.6,
       "kapanis": 7.77,
       "hacim": 2425397
+    },
+    {
+      "tarih": "2026-10-27",
+      "acilis": 7.72,
+      "yuksek": 8.03,
+      "dusuk": 7.65,
+      "kapanis": 7.9,
+      "hacim": 1627690
     }
   ]
 }
