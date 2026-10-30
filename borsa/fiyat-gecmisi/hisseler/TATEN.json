@@ -2,12 +2,12 @@
   "hisse_kodu": "TATEN",
   "hisse_sektor": "Enerji",
   "kaynak_sembol": "BIST:TATEN",
-  "kayit_sayisi": 803,
+  "kayit_sayisi": 804,
   "ilk_tarih": "2023-08-17",
-  "son_tarih": "2026-10-28",
+  "son_tarih": "2026-10-30",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 803,
+    "mevcut_bar_sayisi": 804,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T13:13:15+00:00",
     "kaynakta_donen_bar_sayisi": 780,
@@ -6437,6 +6437,14 @@
       "dusuk": 3.41,
       "kapanis": 3.49,
       "hacim": 3994440
+    },
+    {
+      "tarih": "2026-10-30",
+      "acilis": 3.49,
+      "yuksek": 3.52,
+      "dusuk": 3.32,
+      "kapanis": 3.32,
+      "hacim": 5193144
     }
   ]
 }

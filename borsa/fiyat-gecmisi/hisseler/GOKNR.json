@@ -2,12 +2,12 @@
   "hisse_kodu": "GOKNR",
   "hisse_sektor": "Gıda",
   "kaynak_sembol": "BIST:GOKNR",
-  "kayit_sayisi": 912,
+  "kayit_sayisi": 913,
   "ilk_tarih": "2023-03-09",
-  "son_tarih": "2026-10-28",
+  "son_tarih": "2026-10-30",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 912,
+    "mevcut_bar_sayisi": 913,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T13:06:16+00:00",
     "kaynakta_donen_bar_sayisi": 889,
@@ -7309,6 +7309,14 @@
       "dusuk": 11.88,
       "kapanis": 12,
       "hacim": 794573
+    },
+    {
+      "tarih": "2026-10-30",
+      "acilis": 12.05,
+      "yuksek": 12.35,
+      "dusuk": 11.91,
+      "kapanis": 12.04,
+      "hacim": 2619067
     }
   ]
 }

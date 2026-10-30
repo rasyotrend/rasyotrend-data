@@ -2,12 +2,12 @@
   "hisse_kodu": "IHAAS",
   "hisse_sektor": "Medya",
   "kaynak_sembol": "BIST:IHAAS",
-  "kayit_sayisi": 1250,
+  "kayit_sayisi": 1251,
   "ilk_tarih": "2021-11-03",
-  "son_tarih": "2026-10-28",
+  "son_tarih": "2026-10-30",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1250,
+    "mevcut_bar_sayisi": 1251,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T13:07:21+00:00",
     "kaynakta_donen_bar_sayisi": 1227,
@@ -10013,6 +10013,14 @@
       "dusuk": 10.91,
       "kapanis": 11,
       "hacim": 395198
+    },
+    {
+      "tarih": "2026-10-30",
+      "acilis": 11,
+      "yuksek": 11.38,
+      "dusuk": 10.2,
+      "kapanis": 10.23,
+      "hacim": 1483120
     }
   ]
 }

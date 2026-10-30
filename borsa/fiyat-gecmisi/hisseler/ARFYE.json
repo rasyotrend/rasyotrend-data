@@ -2,12 +2,12 @@
   "hisse_kodu": "ARFYE",
   "hisse_sektor": "Enerji",
   "kaynak_sembol": "BIST:ARFYE",
-  "kayit_sayisi": 205,
+  "kayit_sayisi": 206,
   "ilk_tarih": "2026-01-05",
-  "son_tarih": "2026-10-28",
+  "son_tarih": "2026-10-30",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 205,
+    "mevcut_bar_sayisi": 206,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:59:03+00:00",
     "kaynakta_donen_bar_sayisi": 182,
@@ -1653,6 +1653,14 @@
       "dusuk": 8.95,
       "kapanis": 9.14,
       "hacim": 2136508
+    },
+    {
+      "tarih": "2026-10-30",
+      "acilis": 9,
+      "yuksek": 9.1,
+      "dusuk": 8.29,
+      "kapanis": 8.4,
+      "hacim": 2403578
     }
   ]
 }
