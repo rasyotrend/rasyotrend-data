@@ -2,12 +2,12 @@
   "hisse_kodu": "ENERY",
   "hisse_sektor": "Enerji",
   "kaynak_sembol": "BIST:ENERY",
-  "kayit_sayisi": 800,
+  "kayit_sayisi": 801,
   "ilk_tarih": "2023-08-23",
-  "son_tarih": "2026-10-30",
+  "son_tarih": "2026-11-02",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 800,
+    "mevcut_bar_sayisi": 801,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T13:05:01+00:00",
     "kaynakta_donen_bar_sayisi": 776,
@@ -6413,6 +6413,14 @@
       "dusuk": 13.1,
       "kapanis": 13.36,
       "hacim": 34636221
+    },
+    {
+      "tarih": "2026-11-02",
+      "acilis": 13.41,
+      "yuksek": 13.75,
+      "dusuk": 13.27,
+      "kapanis": 13.65,
+      "hacim": 42375711
     }
   ]
 }
