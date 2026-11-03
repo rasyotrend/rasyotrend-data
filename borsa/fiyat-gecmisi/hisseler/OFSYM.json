@@ -2,12 +2,12 @@
   "hisse_kodu": "OFSYM",
   "hisse_sektor": "Gıda",
   "kaynak_sembol": "BIST:OFSYM",
-  "kayit_sayisi": 806,
+  "kayit_sayisi": 807,
   "ilk_tarih": "2023-08-16",
-  "son_tarih": "2026-11-02",
+  "son_tarih": "2026-11-03",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 806,
+    "mevcut_bar_sayisi": 807,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T13:10:39+00:00",
     "kaynakta_donen_bar_sayisi": 781,
@@ -6461,6 +6461,14 @@
       "dusuk": 36.62,
       "kapanis": 38.42,
       "hacim": 428928
+    },
+    {
+      "tarih": "2026-11-03",
+      "acilis": 38.42,
+      "yuksek": 41.28,
+      "dusuk": 38,
+      "kapanis": 40.42,
+      "hacim": 316061
     }
   ]
 }
