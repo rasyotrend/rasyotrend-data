@@ -2,12 +2,12 @@
   "hisse_kodu": "EKIM",
   "hisse_sektor": "İdari ve Destek Hizmet Faal.",
   "kaynak_sembol": "BIST:EKIM",
-  "kayit_sayisi": 84,
+  "kayit_sayisi": 85,
   "ilk_tarih": "2026-07-09",
-  "son_tarih": "2026-11-05",
+  "son_tarih": "2026-11-06",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 84,
+    "mevcut_bar_sayisi": 85,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:57:53+00:00",
     "kaynakta_donen_bar_sayisi": 56,
@@ -685,6 +685,14 @@
       "dusuk": 15,
       "kapanis": 15.51,
       "hacim": 7390344
+    },
+    {
+      "tarih": "2026-11-06",
+      "acilis": 15.5,
+      "yuksek": 15.51,
+      "dusuk": 14.91,
+      "kapanis": 15.23,
+      "hacim": 5903886
     }
   ]
 }

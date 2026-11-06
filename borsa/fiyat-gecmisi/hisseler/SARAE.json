@@ -2,12 +2,12 @@
   "hisse_kodu": "SARAE",
   "hisse_sektor": "Elektrik Malzemeleri",
   "kaynak_sembol": "BIST:SARAE",
-  "kayit_sayisi": 79,
+  "kayit_sayisi": 80,
   "ilk_tarih": "2026-07-17",
-  "son_tarih": "2026-11-05",
+  "son_tarih": "2026-11-06",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 79,
+    "mevcut_bar_sayisi": 80,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:57:45+00:00",
     "kaynakta_donen_bar_sayisi": 51,
@@ -645,6 +645,14 @@
       "dusuk": 30.26,
       "kapanis": 31.02,
       "hacim": 7548564
+    },
+    {
+      "tarih": "2026-11-06",
+      "acilis": 30.4,
+      "yuksek": 32.3,
+      "dusuk": 30.24,
+      "kapanis": 31.92,
+      "hacim": 8231360
     }
   ]
 }

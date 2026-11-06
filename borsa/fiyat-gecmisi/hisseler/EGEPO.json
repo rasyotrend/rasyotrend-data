@@ -2,13 +2,13 @@
   "hisse_kodu": "EGEPO",
   "hisse_sektor": "İlaç&Sağlık",
   "kaynak_sembol": "BIST:EGEPO",
-  "kayit_sayisi": 1299,
+  "kayit_sayisi": 1300,
   "ilk_tarih": "2021-09-01",
-  "son_tarih": "2026-11-05",
+  "son_tarih": "2026-11-06",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1299,
-    "durum": "KAYNAKTA_MEVCUT_KADAR",
+    "mevcut_bar_sayisi": 1300,
+    "durum": "HEDEF_TAMAMLANDI",
     "son_derinlestirme_zamani": "2026-09-25T13:04:51+00:00",
     "kaynakta_donen_bar_sayisi": 1271,
     "son_hata": ""
@@ -10405,6 +10405,14 @@
       "dusuk": 4.39,
       "kapanis": 4.44,
       "hacim": 5181395
+    },
+    {
+      "tarih": "2026-11-06",
+      "acilis": 4.43,
+      "yuksek": 4.51,
+      "dusuk": 4.21,
+      "kapanis": 4.4,
+      "hacim": 2748132
     }
   ]
 }
