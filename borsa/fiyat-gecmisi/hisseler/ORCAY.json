@@ -2,13 +2,13 @@
   "hisse_kodu": "ORCAY",
   "hisse_sektor": "İçecek",
   "kaynak_sembol": "BIST:ORCAY",
-  "kayit_sayisi": 1299,
+  "kayit_sayisi": 1300,
   "ilk_tarih": "2021-09-02",
-  "son_tarih": "2026-11-06",
+  "son_tarih": "2026-11-09",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1299,
-    "durum": "KAYNAKTA_MEVCUT_KADAR",
+    "mevcut_bar_sayisi": 1300,
+    "durum": "HEDEF_TAMAMLANDI",
     "son_derinlestirme_zamani": "2026-09-25T13:10:53+00:00",
     "kaynakta_donen_bar_sayisi": 1270,
     "son_hata": ""
@@ -10405,6 +10405,14 @@
       "dusuk": 1.6,
       "kapanis": 1.7,
       "hacim": 1634908
+    },
+    {
+      "tarih": "2026-11-09",
+      "acilis": 1.72,
+      "yuksek": 1.78,
+      "dusuk": 1.66,
+      "kapanis": 1.77,
+      "hacim": 1071674
     }
   ]
 }
