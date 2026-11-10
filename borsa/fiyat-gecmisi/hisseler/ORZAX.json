@@ -2,12 +2,12 @@
   "hisse_kodu": "ORZAX",
   "hisse_sektor": "İlaç&Sağlık",
   "kaynak_sembol": "BIST:ORZAX",
-  "kayit_sayisi": 88,
+  "kayit_sayisi": 89,
   "ilk_tarih": "2026-07-07",
-  "son_tarih": "2026-11-09",
+  "son_tarih": "2026-11-10",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 88,
+    "mevcut_bar_sayisi": 89,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:57:57+00:00",
     "kaynakta_donen_bar_sayisi": 58,
@@ -717,6 +717,14 @@
       "dusuk": 65,
       "kapanis": 65.5,
       "hacim": 1918212
+    },
+    {
+      "tarih": "2026-11-10",
+      "acilis": 67.95,
+      "yuksek": 70.15,
+      "dusuk": 65.15,
+      "kapanis": 66,
+      "hacim": 4656552
     }
   ]
 }

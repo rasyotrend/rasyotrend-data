@@ -2,13 +2,13 @@
   "hisse_kodu": "YEOTK",
   "hisse_sektor": "Mesleki, Bilimsel Teknik Faal.",
   "kaynak_sembol": "BIST:YEOTK",
-  "kayit_sayisi": 1299,
+  "kayit_sayisi": 1300,
   "ilk_tarih": "2021-09-03",
-  "son_tarih": "2026-11-09",
+  "son_tarih": "2026-11-10",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1299,
-    "durum": "KAYNAKTA_MEVCUT_KADAR",
+    "mevcut_bar_sayisi": 1300,
+    "durum": "HEDEF_TAMAMLANDI",
     "son_derinlestirme_zamani": "2026-09-25T13:14:33+00:00",
     "kaynakta_donen_bar_sayisi": 1269,
     "son_hata": ""
@@ -10405,6 +10405,14 @@
       "dusuk": 26.64,
       "kapanis": 28.2,
       "hacim": 20478628
+    },
+    {
+      "tarih": "2026-11-10",
+      "acilis": 29.3,
+      "yuksek": 29.4,
+      "dusuk": 27.02,
+      "kapanis": 28,
+      "hacim": 29889189
     }
   ]
 }
