@@ -2,12 +2,12 @@
   "hisse_kodu": "ARASE",
   "hisse_sektor": "Enerji",
   "kaynak_sembol": "BIST:ARASE",
-  "kayit_sayisi": 1252,
+  "kayit_sayisi": 1253,
   "ilk_tarih": "2021-11-11",
-  "son_tarih": "2026-11-10",
+  "son_tarih": "2026-11-11",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1252,
+    "mevcut_bar_sayisi": 1253,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T13:01:44+00:00",
     "kaynakta_donen_bar_sayisi": 1221,
@@ -10029,6 +10029,14 @@
       "dusuk": 65.6,
       "kapanis": 66.6,
       "hacim": 1845940
+    },
+    {
+      "tarih": "2026-11-11",
+      "acilis": 65.65,
+      "yuksek": 66.65,
+      "dusuk": 62,
+      "kapanis": 62.7,
+      "hacim": 1101022
     }
   ]
 }
