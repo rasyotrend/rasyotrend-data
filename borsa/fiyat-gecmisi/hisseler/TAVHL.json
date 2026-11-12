@@ -2,12 +2,12 @@
   "hisse_kodu": "TAVHL",
   "hisse_sektor": "Ulaştırma",
   "kaynak_sembol": "BIST:TAVHL",
-  "kayit_sayisi": 1332,
+  "kayit_sayisi": 1333,
   "ilk_tarih": "2021-07-14",
-  "son_tarih": "2026-11-11",
+  "son_tarih": "2026-11-12",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1332,
+    "mevcut_bar_sayisi": 1333,
     "durum": "HEDEF_TAMAMLANDI",
     "son_derinlestirme_zamani": "2026-09-25T13:13:20+00:00",
     "kaynakta_donen_bar_sayisi": 1300,
@@ -10669,6 +10669,14 @@
       "dusuk": 298.75,
       "kapanis": 299.25,
       "hacim": 2355419
+    },
+    {
+      "tarih": "2026-11-12",
+      "acilis": 299.25,
+      "yuksek": 305.75,
+      "dusuk": 297,
+      "kapanis": 301,
+      "hacim": 5495997
     }
   ]
 }

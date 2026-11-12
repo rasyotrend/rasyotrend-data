@@ -2,12 +2,12 @@
   "hisse_kodu": "USHOL",
   "hisse_sektor": "Holding",
   "kaynak_sembol": "BIST:USHOL",
-  "kayit_sayisi": 1332,
+  "kayit_sayisi": 1333,
   "ilk_tarih": "2021-06-09",
-  "son_tarih": "2026-11-11",
+  "son_tarih": "2026-11-12",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1332,
+    "mevcut_bar_sayisi": 1333,
     "durum": "HEDEF_TAMAMLANDI",
     "son_derinlestirme_zamani": "2026-09-25T13:14:08+00:00",
     "kaynakta_donen_bar_sayisi": 1300,
@@ -10669,6 +10669,14 @@
       "dusuk": 59.95,
       "kapanis": 61.35,
       "hacim": 877858
+    },
+    {
+      "tarih": "2026-11-12",
+      "acilis": 61.35,
+      "yuksek": 62.7,
+      "dusuk": 59,
+      "kapanis": 62.2,
+      "hacim": 1075260
     }
   ]
 }

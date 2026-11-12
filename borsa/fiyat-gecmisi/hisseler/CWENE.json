@@ -2,12 +2,12 @@
   "hisse_kodu": "CWENE",
   "hisse_sektor": "Enerji",
   "kaynak_sembol": "BIST:CWENE",
-  "kayit_sayisi": 882,
+  "kayit_sayisi": 883,
   "ilk_tarih": "2023-05-05",
-  "son_tarih": "2026-11-11",
+  "son_tarih": "2026-11-12",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 882,
+    "mevcut_bar_sayisi": 883,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T13:04:13+00:00",
     "kaynakta_donen_bar_sayisi": 850,
@@ -7069,6 +7069,14 @@
       "dusuk": 15.16,
       "kapanis": 15.3,
       "hacim": 35777018
+    },
+    {
+      "tarih": "2026-11-12",
+      "acilis": 15.2,
+      "yuksek": 16.83,
+      "dusuk": 15.15,
+      "kapanis": 16.83,
+      "hacim": 43370905
     }
   ]
 }
