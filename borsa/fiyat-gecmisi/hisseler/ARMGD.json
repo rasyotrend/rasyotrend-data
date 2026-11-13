@@ -2,12 +2,12 @@
   "hisse_kodu": "ARMGD",
   "hisse_sektor": "Gıda",
   "kaynak_sembol": "BIST:ARMGD",
-  "kayit_sayisi": 466,
+  "kayit_sayisi": 467,
   "ilk_tarih": "2025-01-03",
-  "son_tarih": "2026-11-12",
+  "son_tarih": "2026-11-13",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 466,
+    "mevcut_bar_sayisi": 467,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T13:00:16+00:00",
     "kaynakta_donen_bar_sayisi": 433,
@@ -3741,6 +3741,14 @@
       "dusuk": 110,
       "kapanis": 113.8,
       "hacim": 897354
+    },
+    {
+      "tarih": "2026-11-13",
+      "acilis": 114.1,
+      "yuksek": 116.5,
+      "dusuk": 110.1,
+      "kapanis": 115.5,
+      "hacim": 987892
     }
   ]
 }

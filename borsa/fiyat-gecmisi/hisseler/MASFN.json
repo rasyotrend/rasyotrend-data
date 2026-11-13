@@ -2,12 +2,12 @@
   "hisse_kodu": "MASFN",
   "hisse_sektor": "Enerji",
   "kaynak_sembol": "BIST:MASFN",
-  "kayit_sayisi": 75,
+  "kayit_sayisi": 76,
   "ilk_tarih": "2026-07-30",
-  "son_tarih": "2026-11-12",
+  "son_tarih": "2026-11-13",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 75,
+    "mevcut_bar_sayisi": 76,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:57:38+00:00",
     "kaynakta_donen_bar_sayisi": 42,
@@ -613,6 +613,14 @@
       "dusuk": 35.58,
       "kapanis": 35.78,
       "hacim": 1462409
+    },
+    {
+      "tarih": "2026-11-13",
+      "acilis": 35.8,
+      "yuksek": 35.98,
+      "dusuk": 35.02,
+      "kapanis": 35.02,
+      "hacim": 1664379
     }
   ]
 }
