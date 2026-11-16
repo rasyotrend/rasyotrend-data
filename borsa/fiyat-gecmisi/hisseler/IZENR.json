@@ -2,12 +2,12 @@
   "hisse_kodu": "IZENR",
   "hisse_sektor": "Enerji",
   "kaynak_sembol": "BIST:IZENR",
-  "kayit_sayisi": 815,
+  "kayit_sayisi": 816,
   "ilk_tarih": "2023-08-16",
-  "son_tarih": "2026-11-13",
+  "son_tarih": "2026-11-16",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 815,
+    "mevcut_bar_sayisi": 816,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T13:07:35+00:00",
     "kaynakta_donen_bar_sayisi": 781,
@@ -6533,6 +6533,14 @@
       "dusuk": 4,
       "kapanis": 4.05,
       "hacim": 16230736
+    },
+    {
+      "tarih": "2026-11-16",
+      "acilis": 4.05,
+      "yuksek": 4.09,
+      "dusuk": 3.91,
+      "kapanis": 3.93,
+      "hacim": 23974008
     }
   ]
 }
