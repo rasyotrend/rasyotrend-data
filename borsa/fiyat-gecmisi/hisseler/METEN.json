@@ -2,12 +2,12 @@
   "hisse_kodu": "METEN",
   "hisse_sektor": "Enerji",
   "kaynak_sembol": "BIST:METEN",
-  "kayit_sayisi": 81,
+  "kayit_sayisi": 82,
   "ilk_tarih": "2026-07-28",
-  "son_tarih": "2026-11-18",
+  "son_tarih": "2026-11-19",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 81,
+    "mevcut_bar_sayisi": 82,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:57:43+00:00",
     "kaynakta_donen_bar_sayisi": 44,
@@ -661,6 +661,14 @@
       "dusuk": 20.98,
       "kapanis": 21.2,
       "hacim": 10608746
+    },
+    {
+      "tarih": "2026-11-19",
+      "acilis": 21.18,
+      "yuksek": 21.44,
+      "dusuk": 20.74,
+      "kapanis": 20.82,
+      "hacim": 6608215
     }
   ]
 }
