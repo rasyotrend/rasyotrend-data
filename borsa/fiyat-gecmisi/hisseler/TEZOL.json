@@ -2,13 +2,13 @@
   "hisse_kodu": "TEZOL",
   "hisse_sektor": "Kağıt Ürünleri",
   "kaynak_sembol": "BIST:TEZOL",
-  "kayit_sayisi": 1299,
+  "kayit_sayisi": 1300,
   "ilk_tarih": "2021-09-15",
-  "son_tarih": "2026-11-19",
+  "son_tarih": "2026-11-20",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1299,
-    "durum": "KAYNAKTA_MEVCUT_KADAR",
+    "mevcut_bar_sayisi": 1300,
+    "durum": "HEDEF_TAMAMLANDI",
     "son_derinlestirme_zamani": "2026-09-25T13:13:34+00:00",
     "kaynakta_donen_bar_sayisi": 1261,
     "son_hata": ""
@@ -10405,6 +10405,14 @@
       "dusuk": 7.06,
       "kapanis": 7.3,
       "hacim": 1336699
+    },
+    {
+      "tarih": "2026-11-20",
+      "acilis": 7.3,
+      "yuksek": 7.38,
+      "dusuk": 7.1,
+      "kapanis": 7.1,
+      "hacim": 1177791
     }
   ]
 }

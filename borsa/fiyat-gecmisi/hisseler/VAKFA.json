@@ -2,12 +2,12 @@
   "hisse_kodu": "VAKFA",
   "hisse_sektor": "Faktoring",
   "kaynak_sembol": "BIST:VAKFA",
-  "kayit_sayisi": 251,
+  "kayit_sayisi": 252,
   "ilk_tarih": "2025-11-20",
-  "son_tarih": "2026-11-19",
+  "son_tarih": "2026-11-20",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 251,
+    "mevcut_bar_sayisi": 252,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:59:10+00:00",
     "kaynakta_donen_bar_sayisi": 213,
@@ -2021,6 +2021,14 @@
       "dusuk": 8.81,
       "kapanis": 8.95,
       "hacim": 3643227
+    },
+    {
+      "tarih": "2026-11-20",
+      "acilis": 8.75,
+      "yuksek": 8.91,
+      "dusuk": 8.68,
+      "kapanis": 8.69,
+      "hacim": 1604324
     }
   ]
 }

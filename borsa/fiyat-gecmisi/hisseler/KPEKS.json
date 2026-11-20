@@ -2,12 +2,12 @@
   "hisse_kodu": "KPEKS",
   "hisse_sektor": "Diğer Kimyasal Ürünler",
   "kaynak_sembol": "BIST:KPEKS",
-  "kayit_sayisi": 64,
+  "kayit_sayisi": 65,
   "ilk_tarih": "2026-08-21",
-  "son_tarih": "2026-11-19",
+  "son_tarih": "2026-11-20",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 64,
+    "mevcut_bar_sayisi": 65,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:57:14+00:00",
     "kaynakta_donen_bar_sayisi": 26,
@@ -525,6 +525,14 @@
       "dusuk": 51.9,
       "kapanis": 53.3,
       "hacim": 1783098
+    },
+    {
+      "tarih": "2026-11-20",
+      "acilis": 52,
+      "yuksek": 53.8,
+      "dusuk": 50.55,
+      "kapanis": 51.3,
+      "hacim": 1242661
     }
   ]
 }
