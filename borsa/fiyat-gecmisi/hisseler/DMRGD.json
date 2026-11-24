@@ -2,12 +2,12 @@
   "hisse_kodu": "DMRGD",
   "hisse_sektor": "Gıda",
   "kaynak_sembol": "BIST:DMRGD",
-  "kayit_sayisi": 789,
+  "kayit_sayisi": 790,
   "ilk_tarih": "2023-09-29",
-  "son_tarih": "2026-11-20",
+  "son_tarih": "2026-11-23",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 789,
+    "mevcut_bar_sayisi": 790,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T13:04:18+00:00",
     "kaynakta_donen_bar_sayisi": 750,
@@ -6325,6 +6325,14 @@
       "dusuk": 7.08,
       "kapanis": 7.33,
       "hacim": 37492445
+    },
+    {
+      "tarih": "2026-11-23",
+      "acilis": 7.33,
+      "yuksek": 7.37,
+      "dusuk": 7,
+      "kapanis": 7,
+      "hacim": 21197870
     }
   ]
 }

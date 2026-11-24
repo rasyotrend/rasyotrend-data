@@ -2,12 +2,12 @@
   "hisse_kodu": "ALFAS",
   "hisse_sektor": "Enerji",
   "kaynak_sembol": "BIST:ALFAS",
-  "kayit_sayisi": 1004,
+  "kayit_sayisi": 1005,
   "ilk_tarih": "2022-11-16",
-  "son_tarih": "2026-11-20",
+  "son_tarih": "2026-11-23",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1004,
+    "mevcut_bar_sayisi": 1005,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T13:01:10+00:00",
     "kaynakta_donen_bar_sayisi": 965,
@@ -8045,6 +8045,14 @@
       "dusuk": 21.5,
       "kapanis": 21.52,
       "hacim": 992356
+    },
+    {
+      "tarih": "2026-11-23",
+      "acilis": 21.72,
+      "yuksek": 22.04,
+      "dusuk": 21.24,
+      "kapanis": 21.6,
+      "hacim": 1239037
     }
   ]
 }
