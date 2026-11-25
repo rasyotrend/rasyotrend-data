@@ -2,12 +2,12 @@
   "hisse_kodu": "MERKO",
   "hisse_sektor": "Gıda",
   "kaynak_sembol": "BIST:MERKO",
-  "kayit_sayisi": 1341,
+  "kayit_sayisi": 1342,
   "ilk_tarih": "2021-07-14",
-  "son_tarih": "2026-11-24",
+  "son_tarih": "2026-11-25",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1341,
+    "mevcut_bar_sayisi": 1342,
     "durum": "HEDEF_TAMAMLANDI",
     "son_derinlestirme_zamani": "2026-09-25T13:10:04+00:00",
     "kaynakta_donen_bar_sayisi": 1300,
@@ -10741,6 +10741,14 @@
       "dusuk": 0.88,
       "kapanis": 0.9,
       "hacim": 162231313
+    },
+    {
+      "tarih": "2026-11-25",
+      "acilis": 0.88,
+      "yuksek": 0.91,
+      "dusuk": 0.84,
+      "kapanis": 0.85,
+      "hacim": 34390286
     }
   ]
 }

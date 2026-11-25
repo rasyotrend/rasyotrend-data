@@ -2,12 +2,12 @@
   "hisse_kodu": "MARTI",
   "hisse_sektor": "Lokanta ve Oteller",
   "kaynak_sembol": "BIST:MARTI",
-  "kayit_sayisi": 1341,
+  "kayit_sayisi": 1342,
   "ilk_tarih": "2021-07-14",
-  "son_tarih": "2026-11-24",
+  "son_tarih": "2026-11-25",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1341,
+    "mevcut_bar_sayisi": 1342,
     "durum": "HEDEF_TAMAMLANDI",
     "son_derinlestirme_zamani": "2026-09-25T13:09:41+00:00",
     "kaynakta_donen_bar_sayisi": 1300,
@@ -10741,6 +10741,14 @@
       "dusuk": 0.98,
       "kapanis": 1.02,
       "hacim": 312970330
+    },
+    {
+      "tarih": "2026-11-25",
+      "acilis": 1.01,
+      "yuksek": 1.04,
+      "dusuk": 0.99,
+      "kapanis": 1,
+      "hacim": 112381941
     }
   ]
 }

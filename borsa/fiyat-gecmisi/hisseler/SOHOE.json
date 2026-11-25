@@ -2,12 +2,12 @@
   "hisse_kodu": "SOHOE",
   "hisse_sektor": "Giyim Eşyası",
   "kaynak_sembol": "BIST:SOHOE",
-  "kayit_sayisi": 100,
+  "kayit_sayisi": 101,
   "ilk_tarih": "2026-07-06",
-  "son_tarih": "2026-11-24",
+  "son_tarih": "2026-11-25",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 100,
+    "mevcut_bar_sayisi": 101,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:57:59+00:00",
     "kaynakta_donen_bar_sayisi": 59,
@@ -813,6 +813,14 @@
       "dusuk": 6.46,
       "kapanis": 6.53,
       "hacim": 3083822
+    },
+    {
+      "tarih": "2026-11-25",
+      "acilis": 6.53,
+      "yuksek": 6.57,
+      "dusuk": 5.88,
+      "kapanis": 5.88,
+      "hacim": 7196627
     }
   ]
 }
