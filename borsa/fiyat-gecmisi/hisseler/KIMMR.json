@@ -2,13 +2,13 @@
   "hisse_kodu": "KIMMR",
   "hisse_sektor": "Perakende Ticaret",
   "kaynak_sembol": "BIST:KIMMR",
-  "kayit_sayisi": 1299,
+  "kayit_sayisi": 1300,
   "ilk_tarih": "2021-09-22",
-  "son_tarih": "2026-11-26",
+  "son_tarih": "2026-11-27",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 1299,
-    "durum": "KAYNAKTA_MEVCUT_KADAR",
+    "mevcut_bar_sayisi": 1300,
+    "durum": "HEDEF_TAMAMLANDI",
     "son_derinlestirme_zamani": "2026-09-25T13:08:09+00:00",
     "kaynakta_donen_bar_sayisi": 1256,
     "son_hata": ""
@@ -10405,6 +10405,14 @@
       "dusuk": 10.04,
       "kapanis": 10.04,
       "hacim": 370860
+    },
+    {
+      "tarih": "2026-11-27",
+      "acilis": 10.31,
+      "yuksek": 10.31,
+      "dusuk": 9.89,
+      "kapanis": 10.29,
+      "hacim": 1860556
     }
   ]
 }

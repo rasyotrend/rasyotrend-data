@@ -2,12 +2,12 @@
   "hisse_kodu": "PAHOL",
   "hisse_sektor": "Holding",
   "kaynak_sembol": "BIST:PAHOL",
-  "kayit_sayisi": 255,
+  "kayit_sayisi": 256,
   "ilk_tarih": "2025-11-21",
-  "son_tarih": "2026-11-26",
+  "son_tarih": "2026-11-27",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 255,
+    "mevcut_bar_sayisi": 256,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:59:08+00:00",
     "kaynakta_donen_bar_sayisi": 212,
@@ -2053,6 +2053,14 @@
       "dusuk": 0.71,
       "kapanis": 0.72,
       "hacim": 59963030
+    },
+    {
+      "tarih": "2026-11-27",
+      "acilis": 0.73,
+      "yuksek": 0.74,
+      "dusuk": 0.7,
+      "kapanis": 0.74,
+      "hacim": 95126478
     }
   ]
 }

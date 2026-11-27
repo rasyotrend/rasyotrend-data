@@ -2,12 +2,12 @@
   "hisse_kodu": "CITAS",
   "hisse_sektor": "Perakende Ticaret",
   "kaynak_sembol": "BIST:CITAS",
-  "kayit_sayisi": 72,
+  "kayit_sayisi": 73,
   "ilk_tarih": "2026-08-18",
-  "son_tarih": "2026-11-26",
+  "son_tarih": "2026-11-27",
   "gecmis_derinlik": {
     "hedef_bar_sayisi": 1300,
-    "mevcut_bar_sayisi": 72,
+    "mevcut_bar_sayisi": 73,
     "durum": "KAYNAKTA_MEVCUT_KADAR",
     "son_derinlestirme_zamani": "2026-09-25T12:57:30+00:00",
     "kaynakta_donen_bar_sayisi": 29,
@@ -589,6 +589,14 @@
       "dusuk": 101.5,
       "kapanis": 111.1,
       "hacim": 9480779
+    },
+    {
+      "tarih": "2026-11-27",
+      "acilis": 111.1,
+      "yuksek": 112.8,
+      "dusuk": 105.3,
+      "kapanis": 107.5,
+      "hacim": 6507693
     }
   ]
 }
